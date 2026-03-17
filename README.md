@@ -36,12 +36,12 @@ Validation checks were implemented to enforce proper funnel logic:
 ```excel
 =IF(AND([@clicked]="No", [@converted]="Yes"), "Error", "OK")
 ```
-**Revenue Check (Conversion →Revenue logic)
+**Revenue Check (Conversion →Revenue logic):**
 ```excel
 =IF(AND([@converted]="No", [@revenue]>0), "Error", "OK")
 ```
 SQL views were created to aggregate performance across campaigns, devices, time, and geography. A Power BI data model was then built with calculated measures for KPI tracking.
-![](data_model.png)
+![](images/data_model.png)
 
 ## Technical Stack
 **Excel** – Data cleaning, validation checks, preprocessing.
@@ -54,24 +54,24 @@ User engagement continued with 1,079 clicks, producing a CTR of 53.95%, while 76
 
 These campaigns generated a total revenue of $519,289.30, demonstrating strong monetization efficiency. On average, this translates to approximately $259 revenue per email sent, highlighting the financial impact of campaign optimization.
 Despite strong overall performance, the funnel reveals a noticeable drop-off between opens and clicks, suggesting opportunities to improve content engagement and call-to-action effectiveness.
-![](marketing_dashboard.png)
+![](images/marketing_dashboard.png)
 
 ## Insights Deep Dive
 The analysis of 2,000 emails shows strong top-level engagement, with 1,490 emails opened, resulting in an open rate of 74.5%, indicating effective subject lines and initial audience targeting. From these, 1,079 users clicked on the emails, producing a click-through rate (CTR) of 53.95%, which reflects relatively strong content engagement beyond the open stage. However, this still represents a drop-off of approximately 27.6% from opens to clicks, suggesting opportunities to improve email content and call-to-action placement.
-![](kpi.png)
+![](images/kpi.png)
 
 At the final stage of the funnel, 767 users converted, generating a conversion rate of 71.08% (from clicks). This indicates that once users click, the likelihood of completing the desired action is relatively high, suggesting effective landing page or offer alignment.
 The campaigns generated a total revenue of $519,289.30, demonstrating strong overall performance, with a significant portion of revenue driven by users who progressed through the full funnel.
-![](marketing_funnel.png)
+![](images/marketing_funnel.png)
 
 Device-level analysis shows that engagement is largely driven by mobile users, reinforcing the importance of mobile optimization in campaign design. Temporal analysis of campaign trends indicates fluctuations in engagement and conversions over time, suggesting that timing and campaign scheduling play a role in performance variability.
-![](device_performance.png)
+![](images/device_performance.png)
 
 State-level performance reveals uneven distribution of engagement and revenue, with certain regions contributing disproportionately to overall results. The marketing funnel visualization clearly highlights the progressive drop-off from 2,000 emails sent → 1,490 opened → 1,079 clicked → 767 converted, providing a clear view of where optimization efforts should be focused.
-![](state_performance.png)
+![](images/state_performance.png)
 
 Campaign-level analysis further shows that a subset of campaigns consistently outperforms others in both engagement and revenue generation, indicating opportunities to replicate successful strategies across future campaigns.
-![](campaign_performance.png)
+![](images/campaign_performance.png)
 
 ## Recommendations
 To improve overall campaign performance, efforts should focus on optimizing the transition from email opens to clicks by refining content structure, personalization, and call-to-action placement.
