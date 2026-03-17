@@ -1,0 +1,2001 @@
+campaign_id,customer_id,campaign_name,channel,device_type,send_date,opened,clicked,converted,revenue_usd
+CMP859 ,CUST5506,Holiday Promo,email,mobile ,11/23/2024,,Yes,,159.74
+CMP195 ,CUST4582,Holiday Promo,Email,Moble,8/4/2024,,no,No,
+CMP928 ,CUST1106,SUMMER SALE, Email,Desktop,8/17/2024,No,No,yes ,171.82
+CMP199 ,CUST6881,Holiday  Promo,EMAIL ,tablet ,2/22/2024,no ,,Yes,241.84
+CMP400 ,CUST6925,New Product Launch,email,Tablet,7/12/2024,Yes,No,yes ,101.27
+CMP987 ,CUST2654,Black Friday,EMAIL ,desktop,2/10/2024,No, yes ,yes ,101.27
+CMP818 ,CUST2169,New Product Launch,email,Moble,4/17/2024,No,no, no,246.34
+CMP755 ,CUST4598,New product launch,EMAIL ,tablet ,5/18/2024,No,Yes,yes ,181.39
+CMP316 ,CUST6155,Holiday Promo, Email,desktop,7/24/2024,No, yes ,No,82.44
+CMP651 ,CUST5304, new product launch , Email,Moble,5/6/2024, yes,No,No,163.4
+CMP873 ,CUST1771, summer sale,email,Tablet,9/17/2024,no ,,Yes,82.93
+CMP579 ,CUST9669,holiday promo ,Email,Tablet,7/16/2024,, yes ,yes ,82.74
+CMP261 ,CUST8433,Summer Sale,EMAIL ,Moble,2/27/2024,,Yes,yes ,139.36
+CMP303 ,CUST3504,Holiday  Promo,email,Moble,11/23/2024,Yes,,yes ,0
+CMP471 ,CUST6038,Holiday Promo,Email,mobile ,9/7/2024,Yes,no,Yes,
+CMP231 ,CUST8787, black friday,email,Desktop,9/29/2024,,no,No,75.02
+CMP806 ,CUST4295, new product launch ,EMAIL ,desktop,10/3/2024,no ,, no,38.97
+CMP165 ,CUST6539,Summer Sale,email,Moble,3/2/2024,Yes,Yes,Yes,145.14
+CMP132 ,CUST6413, summer sale,email,Desktop,4/27/2024,No,,No,47.36
+CMP348 ,CUST8749,Black Friday,email,Mobile,10/19/2024,no , yes , no,7.02
+CMP846 ,CUST1887,New product launch,Email,Mobile,7/29/2024, yes,Yes,No,237.25
+CMP559 ,CUST3296,Black Friday,email,Desktop,4/8/2024,No,Yes, no,101.94
+CMP767 ,CUST9856,Summer Sale,Email,tablet ,10/8/2024,No,no, no,125.4
+CMP510 ,CUST1960,SUMMER SALE, Email,Mobile,9/3/2024, yes,no,yes ,6.02
+CMP848 ,CUST8973,SUMMER SALE,email,Desktop,8/4/2024,Yes,,,76.45
+CMP158 ,CUST1821,New Product Launch, Email,Moble,2/1/2024,No,Yes,,128.87
+CMP170 ,CUST2113,New product launch,email,desktop,2/11/2024,,No,,27.92
+CMP183 ,CUST7868,New product launch,EMAIL ,Desktop,10/31/2024, yes,No,yes ,
+CMP760 ,CUST5915,Black friday,EMAIL ,tablet ,7/21/2024,Yes,no,,71.95
+CMP175 ,CUST9808,Holiday Promo,EMAIL ,mobile ,10/15/2024,Yes,No,yes ,96.66
+CMP953 ,CUST9900, new product launch ,EMAIL ,Moble,5/25/2024,Yes,,yes ,71.86
+CMP999 ,CUST3200,holiday promo ,Email,Mobile,12/5/2024,No, yes ,yes ,268.18
+CMP451 ,CUST4335,New product launch,EMAIL ,Moble,11/5/2024, yes,Yes,Yes,118.92
+CMP383 ,CUST1722,Summer Sale,EMAIL ,tablet ,11/20/2024, yes,No, no,35.38
+CMP674 ,CUST1158, summer sale,Email,Tablet,10/9/2024,,Yes,yes ,185.8
+CMP540 ,CUST3088,Summer Sale,EMAIL ,Desktop,10/25/2024, yes,No,No,22.33
+CMP898 ,CUST7658,New Product Launch,email,mobile ,12/7/2024,No,no,Yes,136.71
+CMP440 ,CUST7745,New product launch,email,Desktop,4/1/2024,Yes,no,Yes,0
+CMP936 ,CUST8541,Holiday  Promo,EMAIL ,tablet ,8/28/2024,No,Yes,No,13.75
+CMP985 ,CUST2137,holiday promo ,EMAIL ,Tablet,7/23/2024,no ,,yes ,135.75
+CMP367 ,CUST3925,New Product Launch,EMAIL ,Mobile,1/15/2024,,no,yes ,179.08
+CMP623 ,CUST2894,Black Friday,email,Desktop,6/9/2024,no ,Yes,,133.71
+CMP859 ,CUST4228,Holiday  Promo, Email,Mobile,10/2/2024,, yes ,Yes,110.75
+CMP782 ,CUST7691,Holiday  Promo, Email,Tablet,6/2/2024,,No,No,95.91
+CMP488 ,CUST3851,New Product Launch,EMAIL ,desktop,8/3/2024,Yes, yes ,yes ,1.72
+CMP693 ,CUST6279,Black friday, Email,desktop,4/17/2024,,no,No,62.41
+CMP627 ,CUST6491, summer sale,email,Tablet,12/3/2024,No,No,No,83.15
+CMP586 ,CUST2193,Black friday, Email,Tablet,1/13/2024,no ,no, no,
+CMP804 ,CUST1090, summer sale, Email,mobile ,5/4/2024,,no,Yes,147.49
+CMP968 ,CUST2988,Black friday,email,tablet ,10/12/2024,,,,0
+CMP553 ,CUST9270,Black Friday, Email,mobile ,6/11/2024,no , yes ,No,145.93
+CMP896 ,CUST9540,Black friday,email,Desktop,11/22/2024,Yes, yes ,No,89.19
+CMP653 ,CUST2320,SUMMER SALE,email,mobile ,5/19/2024,No,No,Yes,65.85
+CMP655 ,CUST8633,Black Friday,Email,mobile ,7/31/2024,no ,,Yes,168.93
+CMP106 ,CUST6763,holiday promo , Email,tablet ,10/21/2024,,,,202.48
+CMP379 ,CUST8140,Black friday,Email,desktop,4/22/2024,no ,No, no,194.5
+CMP646 ,CUST1441,Black Friday,Email,Mobile,3/6/2024,No,no,No,52.86
+CMP435 ,CUST4467,Black friday,EMAIL ,Desktop,1/26/2024, yes,no,yes ,95.26
+CMP867 ,CUST9837,Summer Sale,EMAIL ,mobile ,2/11/2024,Yes,Yes,No,146.5
+CMP736 ,CUST3496,Holiday Promo,email,desktop,4/12/2024,,No, no,198.04
+CMP477 ,CUST3749,New Product Launch,Email,tablet ,12/24/2024, yes,Yes,,81.67
+CMP689 ,CUST7149,Black Friday,email,Mobile,1/14/2024,Yes, yes ,,105.15
+CMP679 ,CUST1672,Holiday  Promo, Email,Tablet,3/2/2024,Yes,,yes ,31.49
+CMP942 ,CUST9031, summer sale, Email,Desktop,1/7/2024,No,no,No,24.3
+CMP376 ,CUST9817,Black friday, Email,desktop,9/24/2024, yes,No,Yes,185
+CMP349 ,CUST8613,New Product Launch, Email,Desktop,5/22/2024,no , yes ,No,228.5
+CMP916 ,CUST5232,Holiday  Promo,EMAIL ,Moble,9/6/2024,,Yes,,114.24
+CMP837 ,CUST7658,Black friday,email,Tablet,4/7/2024,no ,no,Yes,200.28
+CMP514 ,CUST4986,holiday promo ,EMAIL ,desktop,2/17/2024,, yes , no,148.93
+CMP819 ,CUST8434,holiday promo ,EMAIL ,Desktop,10/8/2024,Yes,No,yes ,68.39
+CMP880 ,CUST4033,Holiday Promo,email,Tablet,3/2/2024, yes,,,148.91
+CMP202 ,CUST4180,holiday promo ,email,Desktop,11/1/2024, yes,Yes,,243.04
+CMP155 ,CUST5786, new product launch ,email,Tablet,3/5/2024,Yes,Yes,,117.13
+CMP551 ,CUST6582,SUMMER SALE,Email,Desktop,5/25/2024,Yes,Yes, no,245.17
+CMP744 ,CUST1878,SUMMER SALE,email,tablet ,9/8/2024,Yes,No,Yes,0
+CMP720 ,CUST4697, black friday, Email,desktop,10/12/2024, yes,, no,185.75
+CMP161 ,CUST2625,Holiday Promo,email,Desktop,6/5/2024,No,No,No,126.96
+CMP102 ,CUST7693,Black friday, Email,Desktop,10/9/2024,No, yes ,yes ,96.08
+CMP172 ,CUST4824,holiday promo ,email,desktop,12/25/2024,,No,No,127.34
+CMP173 ,CUST1977,SUMMER SALE,EMAIL ,Moble,5/16/2024,no ,Yes, no,0
+CMP512 ,CUST5460, black friday, Email,desktop,12/18/2024,,Yes, no,102.43
+CMP126 ,CUST2496,Holiday Promo,Email,tablet ,6/14/2024,,Yes,No,148.57
+CMP552 ,CUST5557,SUMMER SALE, Email,Tablet,8/28/2024,Yes,no,yes ,238.23
+CMP786 ,CUST2713,SUMMER SALE,EMAIL ,desktop,7/28/2024, yes,no,,78.54
+CMP422 ,CUST5135,Holiday  Promo,Email,tablet ,1/19/2024,,Yes,,55.32
+CMP292 ,CUST9494,Holiday  Promo, Email,Tablet,8/24/2024,Yes,No,yes ,79.86
+CMP394 ,CUST8178, new product launch , Email,Mobile,10/8/2024,,No,No,193.23
+CMP665 ,CUST7684, summer sale,email,tablet ,6/8/2024,no ,Yes,No,146.3
+CMP398 ,CUST9337, new product launch ,EMAIL ,desktop,9/12/2024,no ,No, no,77.62
+CMP295 ,CUST9327, new product launch ,email,tablet ,10/9/2024, yes,no,yes ,161.06
+CMP102 ,CUST5634, new product launch ,EMAIL ,tablet ,9/16/2024,No,no,,127.77
+CMP665 ,CUST9903,Black Friday, Email,Desktop,9/4/2024,No,, no,197.49
+CMP520 ,CUST1715,Holiday  Promo, Email,Tablet,4/29/2024,no ,No, no,63.84
+CMP704 ,CUST6439, summer sale, Email,Mobile,1/19/2024,no ,Yes,No,93.79
+CMP258 ,CUST2225,Black friday,EMAIL ,Desktop,7/28/2024,Yes, yes ,,88.63
+CMP741 ,CUST8994, black friday,Email,Moble,7/13/2024,No, yes ,No,2.92
+CMP200 ,CUST2646,Black friday,email,Tablet,2/16/2024,Yes,Yes,yes ,143.69
+CMP483 ,CUST8056,SUMMER SALE,email,Moble,1/29/2024,,No,No,140.88
+CMP991 ,CUST7267,New Product Launch,email,desktop,3/30/2024,No,no,yes ,120.41
+CMP109 ,CUST8622,holiday promo ,email,Mobile,8/23/2024, yes,,yes ,101.23
+CMP806 ,CUST5097,Black friday,EMAIL ,mobile ,11/23/2024,no ,Yes,No,6.77
+CMP688 ,CUST5847, new product launch ,EMAIL ,Mobile,7/14/2024, yes,Yes,,86.35
+CMP150 ,CUST9138,holiday promo ,email,Moble,12/17/2024,No,No,,92.58
+CMP838 ,CUST3240,New product launch,Email,Tablet,5/8/2024, yes,no,Yes,55.82
+CMP234 ,CUST2476,holiday promo ,EMAIL ,Tablet,10/23/2024,No,No,No,107.1
+CMP474 ,CUST9697, black friday,EMAIL ,tablet ,10/3/2024, yes,no,yes ,152.32
+CMP579 ,CUST2233,SUMMER SALE,email,tablet ,6/22/2024,, yes ,Yes,270.89
+CMP649 ,CUST3024,Black friday,EMAIL ,Tablet,7/21/2024,,no,yes ,
+CMP582 ,CUST1410,New Product Launch,EMAIL ,Moble,2/25/2024,Yes,no,yes ,140.6
+CMP243 ,CUST1742,Summer Sale,EMAIL ,desktop,11/28/2024,Yes,No,,114.04
+CMP479 ,CUST9850,Black Friday,email,desktop,3/10/2024,no ,, no,0
+CMP479 ,CUST4559,Black friday, Email,mobile ,5/23/2024,Yes, yes ,,
+CMP507 ,CUST5520,Holiday Promo,Email,tablet ,11/26/2024,Yes,No,,124.82
+CMP441 ,CUST4990,SUMMER SALE,email,Mobile,1/11/2024,No,,No,317.06
+CMP251 ,CUST1046,holiday promo ,email,mobile ,4/29/2024, yes,No,Yes,104.61
+CMP234 ,CUST1243,Holiday  Promo,email,Moble,12/4/2024,Yes,No,yes ,144.12
+CMP531 ,CUST9619, summer sale,Email,desktop,1/27/2024, yes,,,117.22
+CMP326 ,CUST1710, new product launch ,EMAIL ,desktop,2/25/2024,Yes,no, no,26.51
+CMP602 ,CUST8267, summer sale,Email,Desktop,8/6/2024,Yes,No,yes ,211.43
+CMP661 ,CUST6327,Black Friday,EMAIL ,desktop,11/15/2024,,no,Yes,180.15
+CMP770 ,CUST4522,Black Friday, Email,mobile ,12/25/2024, yes,no, no,183.28
+CMP420 ,CUST7992,Holiday  Promo,EMAIL ,Desktop,7/31/2024,no ,Yes,Yes,47.25
+CMP198 ,CUST7105,SUMMER SALE,Email,Moble,2/13/2024,, yes ,Yes,232.22
+CMP781 ,CUST7929, new product launch ,Email,Desktop,7/29/2024, yes,Yes,,7.85
+CMP772 ,CUST8900,Holiday Promo,Email,Desktop,9/16/2024, yes,Yes,yes ,166.95
+CMP539 ,CUST1430,New Product Launch,EMAIL ,Mobile,10/20/2024, yes, yes ,yes ,295.24
+CMP990 ,CUST3347,New Product Launch, Email,Mobile,6/28/2024,Yes,Yes,,
+CMP564 ,CUST6585,SUMMER SALE,EMAIL ,Desktop,4/20/2024,,,Yes,74.7
+CMP872 ,CUST1815,New product launch,Email,Desktop,1/27/2024,no ,no,,127.97
+CMP320 ,CUST9394, summer sale,EMAIL ,desktop,8/14/2024, yes,, no,79.72
+CMP146 ,CUST4612,Black Friday,Email,Mobile,9/26/2024, yes,No,No,0
+CMP222 ,CUST1126,Black friday, Email,mobile ,5/10/2024,no ,,No,125.49
+CMP784 ,CUST6802, summer sale, Email,tablet ,9/13/2024,no ,Yes, no,35.02
+CMP689 ,CUST8033,New Product Launch, Email,Tablet,2/9/2024, yes,Yes, no,157.89
+CMP275 ,CUST8538, new product launch ,EMAIL ,Mobile,1/11/2024,Yes,No, no,46.45
+CMP180 ,CUST7484,holiday promo ,EMAIL ,mobile ,10/28/2024,No,Yes,,243.99
+CMP622 ,CUST4176,Holiday  Promo,EMAIL ,Tablet,11/20/2024,No,Yes,No,57.34
+CMP716 ,CUST3504,New product launch,Email,mobile ,5/11/2024,no ,,,94.24
+CMP678 ,CUST6295,New product launch,EMAIL ,mobile ,8/17/2024,Yes,no, no,185.08
+CMP381 ,CUST1920,Holiday  Promo,Email,Desktop,11/19/2024,no ,Yes,Yes,21.53
+CMP178 ,CUST2479,New Product Launch, Email,desktop,7/7/2024,Yes,no,,138.2
+CMP719 ,CUST8792, black friday,email,Mobile,11/29/2024,Yes, yes ,Yes,224.57
+CMP140 ,CUST5059, new product launch , Email,desktop,9/15/2024,,,No,0
+CMP389 ,CUST7347,Black Friday,EMAIL ,Tablet,7/5/2024, yes,Yes,yes ,134.77
+CMP495 ,CUST5655,holiday promo ,email,Desktop,2/18/2024,,No,yes ,140.79
+CMP815 ,CUST7421,SUMMER SALE,Email,Desktop,6/7/2024,no , yes ,No,182.55
+CMP856 ,CUST9624, summer sale, Email,Moble,12/9/2024,Yes, yes ,yes ,21.04
+CMP449 ,CUST8967,Holiday Promo,email,mobile ,4/2/2024,Yes, yes ,Yes,14.36
+CMP955 ,CUST9626,Summer Sale,EMAIL ,tablet ,9/16/2024,,no,No,161.76
+CMP809 ,CUST3712, new product launch , Email,Mobile,3/24/2024, yes,No, no,143.76
+CMP866 ,CUST8355,Holiday Promo,email,Desktop,11/8/2024,No, yes ,,140.04
+CMP388 ,CUST7256, black friday, Email,mobile ,8/13/2024,,No,yes ,147.72
+CMP995 ,CUST7081, black friday,Email,Tablet,1/27/2024,Yes, yes ,Yes,65.6
+CMP625 ,CUST3414,Black Friday,Email,mobile ,3/23/2024, yes,Yes, no,138.58
+CMP482 ,CUST4862,Black Friday,Email,Desktop,1/28/2024,Yes, yes ,Yes,143.45
+CMP910 ,CUST3392,SUMMER SALE,Email,Desktop,12/31/2024,No,no, no,62.85
+CMP181 ,CUST1311,holiday promo ,email,tablet ,11/11/2024,,,,
+CMP395 ,CUST4893,holiday promo ,Email,Mobile,8/4/2024,no ,, no,157.91
+CMP611 ,CUST9782,Summer Sale,email,Tablet,2/2/2024, yes,no,Yes,24.7
+CMP684 ,CUST7825,SUMMER SALE,Email,Moble,11/10/2024,Yes,,,172.52
+CMP619 ,CUST1333,Black Friday, Email,Mobile,9/16/2024, yes, yes ,Yes,42.03
+CMP453 ,CUST4950, new product launch ,Email,tablet ,7/1/2024,No,Yes,yes ,182.97
+CMP758 ,CUST3868,New product launch, Email,Tablet,10/6/2024,No,No,Yes,212.69
+CMP306 ,CUST1717,Holiday Promo,Email,Desktop,8/22/2024,,no,,
+CMP871 ,CUST4131,holiday promo ,EMAIL ,tablet ,8/30/2024, yes, yes ,Yes,197.07
+CMP509 ,CUST8204,Black Friday,EMAIL ,mobile ,7/7/2024,no , yes ,,153.02
+CMP844 ,CUST7955, summer sale, Email,Moble,5/16/2024,, yes ,yes ,185.76
+CMP776 ,CUST5843,holiday promo , Email,Moble,2/22/2024,No,no,yes ,271.74
+CMP990 ,CUST6776,New Product Launch, Email,Desktop,8/16/2024,Yes,no,yes ,
+CMP795 ,CUST3621,Summer Sale,email,tablet ,9/19/2024,Yes,No,Yes,59.7
+CMP475 ,CUST6933,Black Friday,Email,Moble,4/30/2024,no , yes ,yes ,48.84
+CMP687 ,CUST3255, black friday,EMAIL ,desktop,8/15/2024, yes,No,Yes,54.74
+CMP611 ,CUST9482,Black Friday,Email,Desktop,1/14/2024,no ,No,,113.83
+CMP602 ,CUST4279, summer sale,email,tablet ,5/26/2024,no ,No, no,147.29
+CMP965 ,CUST6236,New product launch,EMAIL ,Tablet,2/14/2024,,,yes ,142.14
+CMP828 ,CUST3852,Holiday  Promo,email,Mobile,6/2/2024,No,No, no,186.17
+CMP686 ,CUST7044,Black friday,email,Moble,1/14/2024,Yes, yes , no,121.04
+CMP887 ,CUST7708,New Product Launch,Email,mobile ,9/2/2024,Yes,no, no,236.28
+CMP231 ,CUST3981,SUMMER SALE, Email,Moble,12/14/2024,Yes,,No,98.83
+CMP430 ,CUST4694,Holiday  Promo,EMAIL ,tablet ,6/4/2024, yes,No,,337.61
+CMP410 ,CUST9740, summer sale,email,Moble,5/20/2024,No,,,170.05
+CMP677 ,CUST1674,Summer Sale,Email,Mobile,6/21/2024,No,, no,51.43
+CMP609 ,CUST9938,holiday promo ,EMAIL ,desktop,11/12/2024,no , yes , no,34.33
+CMP261 ,CUST8202,Black Friday, Email,desktop,2/7/2024, yes,,No,158.6
+CMP426 ,CUST6658,Black Friday,email,tablet ,6/9/2024,,,Yes,102.12
+CMP225 ,CUST5382,Black friday,email,mobile ,6/12/2024,Yes, yes , no,177.12
+CMP986 ,CUST3616,Holiday  Promo,EMAIL ,mobile ,11/11/2024,no ,, no,157.86
+CMP609 ,CUST1379, summer sale, Email,Moble,9/12/2024,No,No,,114.17
+CMP388 ,CUST9108,New Product Launch, Email,Desktop,6/29/2024,Yes,Yes, no,
+CMP844 ,CUST6992,Black Friday,EMAIL ,Mobile,3/9/2024,Yes,,,0
+CMP395 ,CUST2204,Black Friday, Email,tablet ,4/9/2024, yes,,,84.28
+CMP199 ,CUST7453,Holiday  Promo,EMAIL ,Moble,3/1/2024,No,No,,188.51
+CMP141 ,CUST1742,Summer Sale,email,Tablet,9/17/2024,no ,, no,137.13
+CMP627 ,CUST3290,Holiday  Promo,EMAIL ,mobile ,3/17/2024,, yes ,,20.34
+CMP621 ,CUST9721,Black friday,EMAIL ,desktop,6/21/2024, yes, yes ,Yes,133.85
+CMP915 ,CUST1436,New Product Launch, Email,Desktop,8/1/2024,Yes,, no,150.83
+CMP838 ,CUST7229,SUMMER SALE,email,Mobile,3/28/2024,No,Yes, no,49.29
+CMP522 ,CUST4340,Black Friday, Email,tablet ,6/9/2024,No,,No,132.3
+CMP778 ,CUST8837, black friday, Email,Desktop,10/14/2024,no ,,yes ,124.66
+CMP890 ,CUST5331,New Product Launch, Email,mobile ,10/6/2024, yes,,yes ,28.56
+CMP404 ,CUST5735, new product launch ,email,Tablet,4/25/2024, yes,no,yes ,148.62
+CMP914 ,CUST5480,holiday promo ,Email,Moble,10/13/2024,no ,no,yes ,164.86
+CMP394 ,CUST2294,Holiday  Promo, Email,Tablet,3/15/2024,no ,No,No,206.64
+CMP675 ,CUST5450,SUMMER SALE,Email,Moble,10/2/2024,No,Yes,,204.3
+CMP153 ,CUST2641,Black Friday,EMAIL ,Tablet,4/25/2024,Yes,No,Yes,9.79
+CMP261 ,CUST7666,New product launch, Email,desktop,10/8/2024, yes, yes ,yes ,44.97
+CMP887 ,CUST2465,New product launch,email,Moble,11/26/2024,No,no,No,161.2
+CMP506 ,CUST9116,SUMMER SALE,EMAIL ,Mobile,1/19/2024, yes,,,161.1
+CMP443 ,CUST5662,Black friday, Email,mobile ,2/24/2024,no , yes ,No,161.2
+CMP848 ,CUST8518,New product launch,EMAIL ,Tablet,2/27/2024,Yes, yes ,yes ,428.22
+CMP297 ,CUST3875,New Product Launch, Email,tablet ,10/17/2024,, yes ,Yes,165.67
+CMP289 ,CUST3303,Black friday,EMAIL ,mobile ,7/24/2024, yes,no,No,210.85
+CMP437 ,CUST5947,New Product Launch,Email,Desktop,8/16/2024,No,Yes,Yes,196.32
+CMP515 ,CUST9233, new product launch ,EMAIL ,Tablet,8/26/2024, yes, yes ,,172.11
+CMP236 ,CUST8834,SUMMER SALE, Email,Tablet,4/23/2024,no ,, no,94.78
+CMP945 ,CUST4578,Holiday Promo,Email,Moble,10/2/2024,, yes ,Yes,180.72
+CMP948 ,CUST9972, black friday,email,Moble,10/15/2024,No,No,yes ,58.17
+CMP796 ,CUST4365, new product launch , Email,Mobile,9/23/2024,no ,Yes, no,101.05
+CMP567 ,CUST1945, black friday, Email,Tablet,3/8/2024,Yes,no,yes ,81.17
+CMP692 ,CUST2196,Summer Sale, Email,Desktop,1/2/2024,,Yes,Yes,126.55
+CMP518 ,CUST3948,SUMMER SALE, Email,Desktop,8/29/2024,no ,no, no,
+CMP777 ,CUST9835,SUMMER SALE,EMAIL ,Mobile,2/11/2024,,no,,0
+CMP328 ,CUST1056,Summer Sale,EMAIL ,desktop,3/6/2024,no ,, no,174.9
+CMP454 ,CUST3541,holiday promo ,email,Tablet,4/27/2024,Yes,no,,0
+CMP168 ,CUST2653,New Product Launch,Email,desktop,1/9/2024,No,Yes, no,82.25
+CMP322 ,CUST1924,SUMMER SALE,EMAIL ,mobile ,8/12/2024,,,yes ,207.12
+CMP246 ,CUST9540,Holiday Promo, Email,Desktop,5/1/2024,Yes,,,125.14
+CMP537 ,CUST9120,Summer Sale,EMAIL ,Tablet,3/30/2024,, yes , no,33.78
+CMP485 ,CUST4012, black friday, Email,mobile ,7/28/2024, yes,No, no,62.78
+CMP526 ,CUST9683,SUMMER SALE, Email,mobile ,1/30/2024,No, yes ,Yes,174.37
+CMP194 ,CUST9775, new product launch ,email,Mobile,8/18/2024,no ,,,61.57
+CMP292 ,CUST4555,Black friday,email,tablet ,1/21/2024, yes,Yes,No,137.32
+CMP220 ,CUST8846,Holiday Promo,email,desktop,4/7/2024,, yes ,yes ,123.65
+CMP764 ,CUST6886,holiday promo ,EMAIL ,Desktop,7/13/2024,no ,no,Yes,67.87
+CMP427 ,CUST4328,Holiday  Promo,EMAIL ,desktop,8/28/2024,,No,No,291.52
+CMP698 ,CUST7841,holiday promo ,email,mobile ,1/9/2024,No,no,,170.71
+CMP770 ,CUST6530,holiday promo , Email,Tablet,5/5/2024,no ,No,yes ,0
+CMP659 ,CUST9000,SUMMER SALE,Email,Moble,3/27/2024,Yes,Yes,Yes,134.92
+CMP745 ,CUST4791, summer sale,email,Mobile,7/30/2024,,no,yes ,67.06
+CMP782 ,CUST8916,New product launch, Email,Mobile,1/31/2024,,, no,188.19
+CMP839 ,CUST5501, black friday,EMAIL ,Mobile,1/7/2024,no ,No,Yes,
+CMP346 ,CUST4144,New Product Launch,EMAIL ,tablet ,2/19/2024, yes,no,Yes,110.82
+CMP570 ,CUST4984, new product launch ,email,Desktop,7/10/2024,Yes,Yes, no,160.4
+CMP587 ,CUST1919,New product launch,Email,Tablet,7/13/2024,Yes,no, no,189.26
+CMP679 ,CUST2562, black friday,Email,mobile ,11/26/2024,,no,yes ,23.98
+CMP800 ,CUST5593, black friday,Email,mobile ,1/24/2024,Yes,No,,93.24
+CMP829 ,CUST7525, summer sale,EMAIL ,mobile ,3/14/2024,,no,,82
+CMP857 ,CUST3292, new product launch ,Email,Moble,6/18/2024,Yes,Yes, no,67.73
+CMP448 ,CUST7499,Holiday  Promo,Email,Tablet,4/28/2024,no ,no,No,261.24
+CMP484 ,CUST8075,SUMMER SALE, Email,Mobile,7/1/2024,No,Yes,Yes,152.4
+CMP828 ,CUST3527, new product launch , Email,Desktop,5/17/2024,Yes,Yes,Yes,19.13
+CMP879 ,CUST5419, summer sale,email,Mobile,6/6/2024,no ,no,,193.43
+CMP205 ,CUST1430, summer sale,EMAIL ,Moble,10/11/2024,,,yes ,289.77
+CMP523 ,CUST7353, summer sale,email,Moble,7/16/2024,No,no,No,
+CMP374 ,CUST9079,SUMMER SALE,Email,mobile ,3/12/2024, yes,no,yes ,0
+CMP469 ,CUST5123,Holiday Promo, Email,Moble,9/4/2024,no ,Yes,No,81.26
+CMP505 ,CUST6443,New Product Launch, Email,tablet ,6/4/2024,no , yes , no,
+CMP239 ,CUST5922,Holiday  Promo,email,desktop,11/29/2024,No,no,yes ,63.39
+CMP748 ,CUST9044,New Product Launch,email,Desktop,5/29/2024, yes,no,yes ,155.51
+CMP304 ,CUST9939,SUMMER SALE,Email,Tablet,2/28/2024,No,no,yes ,181.97
+CMP968 ,CUST7703,New product launch, Email,mobile ,12/20/2024,No, yes ,No,45.85
+CMP175 ,CUST8357,New Product Launch, Email,Moble,8/4/2024,,, no,115.24
+CMP468 ,CUST9796,New Product Launch,Email,Mobile,10/5/2024, yes,No,,
+CMP760 ,CUST7547,Holiday  Promo, Email,Mobile,1/23/2024,Yes, yes ,No,38.05
+CMP671 ,CUST4621,Black friday,EMAIL ,desktop,9/18/2024,,,No,99.79
+CMP594 ,CUST2712,holiday promo , Email,Mobile,6/25/2024,No, yes ,yes ,20.18
+CMP311 ,CUST9537,Black friday,EMAIL ,desktop,6/24/2024,no ,no,yes ,250.59
+CMP929 ,CUST2885,Summer Sale,EMAIL ,Tablet,2/4/2024,No,No,,5.59
+CMP438 ,CUST7985,Black friday,email,tablet ,3/30/2024,No,No, no,84.8
+CMP728 ,CUST4232,Black friday, Email,desktop,7/21/2024,No,No,yes ,
+CMP164 ,CUST2667, black friday,email,Desktop,12/26/2024,No,no,Yes,235.3
+CMP601 ,CUST9646,New product launch,EMAIL ,Moble,5/14/2024,,no,,5.13
+CMP965 ,CUST8501,New Product Launch,email,tablet ,2/28/2024,,,Yes,213.05
+CMP220 ,CUST4908,holiday promo ,Email,mobile ,12/10/2024,No,, no,120.82
+CMP688 ,CUST7286,Black Friday,email,desktop,8/2/2024,No,,No,41.48
+CMP291 ,CUST6154,Black friday,Email,tablet ,9/7/2024,Yes,no,No,156.97
+CMP675 ,CUST9281,New product launch, Email,desktop,4/9/2024,no ,no, no,135.92
+CMP131 ,CUST4613,holiday promo ,Email,Desktop,3/26/2024,, yes ,No,71.98
+CMP891 ,CUST9115, black friday,Email,Moble,8/22/2024, yes,,yes ,125.58
+CMP142 ,CUST8231, black friday,email,desktop,10/4/2024,No, yes ,Yes,89.17
+CMP982 ,CUST2425,Black friday,Email,tablet ,8/18/2024,No,,yes ,129.08
+CMP538 ,CUST3719,New Product Launch,email,tablet ,12/29/2024,No,Yes,,172.97
+CMP711 ,CUST9827,SUMMER SALE,EMAIL ,Tablet,6/28/2024, yes,,yes ,246.88
+CMP795 ,CUST2560,SUMMER SALE, Email,Mobile,9/20/2024,No,No,No,20.97
+CMP948 ,CUST5055,New product launch, Email,desktop,3/15/2024,, yes , no,290.64
+CMP748 ,CUST2525,Black Friday,EMAIL ,Tablet,7/11/2024,no ,no,yes ,0
+CMP892 ,CUST2526, new product launch , Email,Tablet,10/24/2024,Yes,, no,
+CMP944 ,CUST4470,Black friday,EMAIL ,Desktop,4/21/2024, yes,,,167.07
+CMP596 ,CUST6631,New product launch,Email,Mobile,3/7/2024,no ,Yes,Yes,142.48
+CMP100 ,CUST8009,Holiday Promo,email,Tablet,3/21/2024,No, yes ,Yes,70.18
+CMP184 ,CUST7092,New product launch,email,Mobile,12/1/2024, yes,No, no,103.35
+CMP197 ,CUST1017,Holiday Promo, Email,Mobile,12/1/2024,,No,,80.56
+CMP108 ,CUST6629, summer sale, Email,Tablet,12/14/2024,no ,Yes,No,72.85
+CMP925 ,CUST2678, summer sale,EMAIL ,Desktop,7/15/2024,No,no,No,187.97
+CMP246 ,CUST2120, black friday,Email,Moble,11/24/2024,no , yes ,No,148.56
+CMP521 ,CUST8248,Holiday Promo,Email,Mobile,11/17/2024,Yes,, no,64.57
+CMP422 ,CUST3290,Holiday Promo,EMAIL ,Tablet,6/28/2024,No,,,191.97
+CMP391 ,CUST1439,New product launch,EMAIL ,mobile ,11/3/2024,,,No,144.58
+CMP155 ,CUST4921,Black friday, Email,Mobile,7/19/2024,no ,,Yes,185.03
+CMP112 ,CUST6916,Holiday  Promo,email,desktop,9/27/2024, yes,,No,170.37
+CMP888 ,CUST2195,Summer Sale,Email,Mobile,8/29/2024,No,Yes,Yes,53.68
+CMP743 ,CUST9209,Black Friday, Email,Tablet,7/22/2024,Yes,,,75.19
+CMP185 ,CUST6077, summer sale,email,tablet ,11/11/2024,, yes , no,179.78
+CMP954 ,CUST2083,holiday promo , Email,Tablet,10/27/2024,Yes,No,Yes,168.83
+CMP726 ,CUST1901,holiday promo ,email,Mobile,8/10/2024,No,Yes,No,118.33
+CMP635 ,CUST9474, new product launch ,EMAIL ,mobile ,9/11/2024,No, yes ,Yes,129.39
+CMP539 ,CUST5456, black friday,Email,Desktop,1/16/2024,no ,no,,222.21
+CMP979 ,CUST3734,Holiday  Promo,email,Desktop,7/3/2024,,Yes,No,72.67
+CMP979 ,CUST1201,Holiday Promo,Email,desktop,9/17/2024,no ,No,No,
+CMP831 ,CUST7870,Holiday Promo,EMAIL ,mobile ,1/19/2024, yes, yes ,Yes,103.82
+CMP614 ,CUST1862,SUMMER SALE,email,tablet ,10/19/2024,Yes,no,Yes,102.59
+CMP892 ,CUST6090,Holiday  Promo,Email,Moble,8/26/2024,Yes, yes ,No,207.9
+CMP411 ,CUST4974,Black friday,EMAIL ,Moble,5/29/2024,No,,No,186.03
+CMP519 ,CUST1391,Holiday Promo,EMAIL ,Tablet,3/18/2024, yes,Yes, no,
+CMP642 ,CUST4902,Black Friday, Email,Mobile,6/6/2024, yes,Yes,Yes,224.44
+CMP632 ,CUST7767, new product launch ,EMAIL ,desktop,4/28/2024,,Yes,,121.68
+CMP503 ,CUST2226,New Product Launch,Email,desktop,3/9/2024,No, yes ,yes ,174.56
+CMP502 ,CUST6345,Holiday  Promo, Email,Desktop,6/10/2024,Yes,No,No,95.18
+CMP208 ,CUST3693,Black friday, Email,Desktop,10/26/2024,Yes,,yes ,145.93
+CMP574 ,CUST5341, summer sale,Email,mobile ,4/16/2024,,Yes,No,109.59
+CMP828 ,CUST5066,Holiday  Promo, Email,Moble,6/16/2024, yes, yes ,No,127.76
+CMP975 ,CUST8408, black friday,email,Mobile,1/16/2024,Yes,No,Yes,167.61
+CMP899 ,CUST4641,SUMMER SALE,email,tablet ,1/7/2024, yes,Yes,,54.54
+CMP932 ,CUST2228,Summer Sale,Email,mobile ,10/27/2024,No,Yes,yes ,287.39
+CMP572 ,CUST1829,SUMMER SALE, Email,tablet ,3/3/2024,no ,Yes, no,
+CMP462 ,CUST4517,SUMMER SALE,EMAIL ,Desktop,12/15/2024,No,Yes,,22.86
+CMP762 ,CUST5835,Black friday, Email,Moble,11/13/2024,Yes,Yes,yes ,212.65
+CMP304 ,CUST9614,Holiday Promo,Email,desktop,7/15/2024,no ,, no,183.33
+CMP614 ,CUST6269,Black Friday,EMAIL ,mobile ,6/25/2024, yes,,No,169.93
+CMP897 ,CUST5602,Summer Sale, Email,Moble,1/16/2024,,No,No,170.27
+CMP346 ,CUST5366, black friday,Email,tablet ,2/21/2024,,no,yes ,119.02
+CMP706 ,CUST6210, new product launch ,EMAIL ,Moble,3/29/2024, yes,,,48.22
+CMP292 ,CUST9064, black friday,EMAIL ,mobile ,3/13/2024,Yes,Yes,Yes,126.06
+CMP120 ,CUST9625,Black friday,Email,Desktop,4/29/2024,No, yes ,No,65.83
+CMP251 ,CUST3320, summer sale,EMAIL ,Mobile,6/14/2024,no ,,Yes,198.01
+CMP239 ,CUST3580, new product launch , Email,tablet ,6/21/2024, yes,No,,108.24
+CMP728 ,CUST6846,Holiday Promo,email,desktop,12/21/2024, yes,No,No,53.96
+CMP686 ,CUST7415,New Product Launch,Email,mobile ,1/1/2024,,No,,94.29
+CMP244 ,CUST6425, new product launch ,Email,mobile ,2/23/2024, yes,No,Yes,153.03
+CMP846 ,CUST6500,Black friday,Email,Desktop,12/28/2024,No,Yes,yes ,74.9
+CMP837 ,CUST1020,Summer Sale, Email,desktop,5/11/2024,No,no, no,54.22
+CMP484 ,CUST2661,Black friday,email,mobile ,7/12/2024,Yes,Yes,yes ,139.49
+CMP207 ,CUST2215,Holiday  Promo,email,desktop,1/11/2024,Yes,,Yes,139.6
+CMP728 ,CUST8909, new product launch ,Email,desktop,6/22/2024,,no,No,79.44
+CMP310 ,CUST4112,Black Friday,EMAIL ,Tablet,1/28/2024, yes,No,Yes,82.32
+CMP662 ,CUST9043,SUMMER SALE,Email,Desktop,1/26/2024,no ,Yes,yes ,138.56
+CMP591 ,CUST4271, summer sale,Email,mobile ,12/4/2024, yes,Yes, no,4.15
+CMP507 ,CUST8715,Black friday,EMAIL ,Mobile,2/29/2024,no ,No,yes ,7.4
+CMP556 ,CUST1731,holiday promo , Email,desktop,7/14/2024,No, yes ,,62.52
+CMP813 ,CUST2584, summer sale,EMAIL ,tablet ,2/1/2024,no ,,No,102.92
+CMP496 ,CUST9561,Black Friday, Email,Moble,10/10/2024,no , yes ,Yes,144.87
+CMP831 ,CUST1568, black friday,email,Mobile,7/21/2024,No,No,No,238.03
+CMP533 ,CUST2283,New product launch, Email,mobile ,4/8/2024,, yes ,yes ,188.61
+CMP669 ,CUST7510, black friday,EMAIL ,tablet ,2/4/2024,,no,Yes,107.2
+CMP635 ,CUST7874, summer sale, Email,mobile ,12/24/2024,,,,118.48
+CMP676 ,CUST2654,holiday promo ,EMAIL ,desktop,2/21/2024,no ,no,,39.8
+CMP276 ,CUST5512,Black Friday,email,Moble,11/7/2024,Yes,no,yes ,118.52
+CMP863 ,CUST8785,holiday promo ,EMAIL ,Mobile,12/19/2024, yes, yes ,yes ,96.91
+CMP801 ,CUST2609,Holiday Promo,email,Desktop,9/8/2024, yes, yes , no,145.82
+CMP292 ,CUST8237,Holiday Promo, Email,Tablet,11/5/2024,, yes ,Yes,53.82
+CMP167 ,CUST6097, new product launch , Email,mobile ,9/20/2024,,Yes,No,161.55
+CMP305 ,CUST1944,Holiday Promo,Email,desktop,4/8/2024, yes,No,yes ,242.62
+CMP617 ,CUST7503,New product launch,Email,Tablet,7/7/2024,No, yes , no,111.3
+CMP991 ,CUST8775,New Product Launch,EMAIL ,Desktop,10/31/2024, yes,Yes,yes ,152.14
+CMP266 ,CUST4511,Holiday Promo,email,Tablet,1/15/2024, yes,no,,175.21
+CMP885 ,CUST1145,Black friday,email,Tablet,1/11/2024,,Yes,No,87.9
+CMP412 ,CUST5511,Black Friday, Email,tablet ,5/9/2024,no , yes ,No,137.93
+CMP633 ,CUST7506,New Product Launch,Email,Mobile,8/26/2024, yes,,,121.01
+CMP800 ,CUST2771,Black friday,Email,Desktop,11/7/2024, yes, yes ,yes ,127.81
+CMP767 ,CUST5895,Holiday Promo,email,Moble,12/1/2024,Yes,, no,58.16
+CMP243 ,CUST1417,New product launch, Email,Desktop,12/4/2024,no ,no, no,121.96
+CMP685 ,CUST4111,Holiday  Promo,email,Tablet,1/19/2024,no , yes ,,159.84
+CMP960 ,CUST3967,holiday promo ,Email,desktop,6/2/2024, yes,,No,236.09
+CMP770 ,CUST2463,Holiday Promo,EMAIL ,mobile ,12/14/2024,no , yes ,yes ,196.74
+CMP574 ,CUST2929,Black friday,Email,tablet ,5/13/2024,no ,No,,292.25
+CMP490 ,CUST9680,holiday promo , Email,Mobile,3/2/2024,No,No,yes ,58.61
+CMP568 ,CUST3346,Holiday  Promo,email,tablet ,7/28/2024,no , yes ,No,189.79
+CMP104 ,CUST8406,holiday promo ,email,tablet ,6/9/2024,,No, no,134.67
+CMP544 ,CUST8035,Black Friday, Email,desktop,2/15/2024,Yes,Yes,,295.18
+CMP114 ,CUST6279, black friday,email,Mobile,4/12/2024,No,No,yes ,55.34
+CMP492 ,CUST9246,New Product Launch,EMAIL ,mobile ,6/8/2024,Yes, yes ,yes ,52.82
+CMP710 ,CUST9587,Holiday  Promo, Email,Tablet,8/21/2024, yes,no,yes ,72.05
+CMP931 ,CUST7609,Summer Sale,email,mobile ,4/6/2024,No,Yes,,0
+CMP475 ,CUST1612,Black Friday,EMAIL ,tablet ,9/15/2024,,Yes,,77.94
+CMP769 ,CUST1323,Summer Sale,Email,desktop,1/25/2024,no ,Yes,,59.27
+CMP256 ,CUST4366, new product launch ,Email,Desktop,5/9/2024,Yes,,yes ,132.03
+CMP240 ,CUST7862, summer sale,Email,Desktop,11/14/2024,Yes,no,No,147.34
+CMP369 ,CUST9571,Holiday Promo,EMAIL ,Tablet,11/7/2024, yes,No,Yes,270.09
+CMP312 ,CUST8875,Holiday  Promo,email,Mobile,10/7/2024,Yes,Yes,,196.03
+CMP192 ,CUST9383, summer sale,Email,Desktop,12/8/2024,no , yes ,yes ,73.85
+CMP932 ,CUST3862,Summer Sale,EMAIL ,Desktop,8/25/2024,no ,Yes,Yes,48.13
+CMP241 ,CUST3793,Holiday  Promo,EMAIL ,desktop,1/24/2024,Yes, yes ,yes ,
+CMP509 ,CUST8479,holiday promo , Email,Tablet,4/3/2024,no ,No,Yes,14.38
+CMP160 ,CUST3611, summer sale, Email,Moble,3/8/2024,,no,No,266.52
+CMP467 ,CUST1472,New product launch,email,desktop,11/8/2024,Yes,no, no,214.36
+CMP770 ,CUST6148,Summer Sale,email,Tablet,1/24/2024,,,,82.47
+CMP844 ,CUST5072,Black friday,EMAIL ,Tablet,2/18/2024,No,,,0
+CMP260 ,CUST9283,Black friday, Email,tablet ,1/28/2024,Yes,no,yes ,
+CMP384 ,CUST1824, black friday,email,Moble,5/3/2024,no ,No,Yes,110.84
+CMP686 ,CUST8341, summer sale, Email,desktop,8/23/2024,Yes,no,Yes,219.03
+CMP136 ,CUST9996,Summer Sale,Email,tablet ,2/22/2024,,,No,0
+CMP449 ,CUST6953,Summer Sale,email,tablet ,12/1/2024, yes,,,72.05
+CMP772 ,CUST6952, new product launch , Email,Mobile,11/3/2024,No,Yes,yes ,120.42
+CMP919 ,CUST5783, black friday,EMAIL ,Tablet,6/30/2024,Yes,No, no,123.76
+CMP860 ,CUST7704, summer sale,EMAIL ,Moble,3/12/2024,No,Yes, no,83.99
+CMP900 ,CUST4122, new product launch ,EMAIL ,Mobile,4/20/2024,Yes,,Yes,169.83
+CMP703 ,CUST9260,SUMMER SALE, Email,Mobile,8/18/2024,Yes,, no,34.59
+CMP620 ,CUST3903, new product launch ,email,Tablet,10/26/2024,Yes,no,,108.61
+CMP616 ,CUST7302,Black Friday,email,Desktop,11/6/2024, yes, yes , no,129.62
+CMP716 ,CUST9393,holiday promo ,EMAIL ,Tablet,3/9/2024,No,No,No,161.16
+CMP803 ,CUST6657,New product launch,email,Tablet,11/15/2024,,,yes ,176.93
+CMP460 ,CUST8870,New Product Launch, Email,Tablet,12/29/2024, yes,no,Yes,30.03
+CMP490 ,CUST3381,Summer Sale,Email,mobile ,9/24/2024,No, yes ,yes ,0
+CMP807 ,CUST5835,Holiday Promo,Email,Desktop,3/15/2024,Yes,,,222.21
+CMP674 ,CUST7371,Holiday Promo,EMAIL ,Tablet,4/24/2024,no ,no, no,146.59
+CMP665 ,CUST1881,Summer Sale,EMAIL ,mobile ,12/16/2024,No, yes ,,60.12
+CMP301 ,CUST4170,holiday promo , Email,mobile ,10/6/2024,No,No,,244.09
+CMP538 ,CUST5572, black friday,EMAIL ,mobile ,3/2/2024,, yes ,Yes,129.25
+CMP258 ,CUST1654,SUMMER SALE,EMAIL ,Moble,6/18/2024,, yes , no,214.34
+CMP174 ,CUST6207, black friday,email,mobile ,10/20/2024,Yes,,No,125.4
+CMP513 ,CUST2506,Holiday  Promo,email,mobile ,7/31/2024, yes, yes ,yes ,284.86
+CMP733 ,CUST9691,Black friday,Email,Mobile,4/21/2024,no ,No,,260.43
+CMP140 ,CUST6258,Black Friday,Email,desktop,11/14/2024,, yes ,Yes,100.08
+CMP483 ,CUST9426, black friday, Email,desktop,9/21/2024, yes,No,yes ,197.73
+CMP198 ,CUST3742, black friday,Email,Tablet,9/20/2024,No,No, no,171.63
+CMP948 ,CUST8130,New product launch,Email,Tablet,2/23/2024,Yes,no,yes ,229.49
+CMP155 ,CUST3916,holiday promo ,Email,Moble,1/20/2024, yes,no, no,42.81
+CMP543 ,CUST6183,Summer Sale, Email,Tablet,8/18/2024,,Yes,,174.88
+CMP699 ,CUST1745, new product launch ,Email,Desktop,2/2/2024,Yes, yes ,yes ,204.67
+CMP883 ,CUST8170,Black Friday, Email,tablet ,11/6/2024,no ,No,,0
+CMP500 ,CUST9941,holiday promo ,email,Desktop,4/22/2024,Yes,,,25.34
+CMP105 ,CUST7456, black friday,Email,Desktop,3/13/2024, yes,No, no,0
+CMP245 ,CUST3637,SUMMER SALE,email,Moble,11/26/2024,No,Yes,No,98.45
+CMP972 ,CUST1891, black friday, Email,Tablet,12/9/2024,Yes, yes ,Yes,177.4
+CMP843 ,CUST8982,Holiday  Promo,EMAIL ,mobile ,5/8/2024,Yes, yes ,,240.19
+CMP425 ,CUST8960,Black friday,EMAIL ,Moble,2/5/2024,,No,,125.93
+CMP423 ,CUST8017,SUMMER SALE,Email,Desktop,10/17/2024,No,no,yes ,250.29
+CMP850 ,CUST6432,Black friday, Email,desktop,7/3/2024, yes,no,,9.59
+CMP721 ,CUST2343,holiday promo ,email,Moble,2/25/2024, yes,Yes,Yes,0
+CMP746 ,CUST1511,New Product Launch, Email,tablet ,1/10/2024,Yes,,yes ,115.56
+CMP652 ,CUST8734,New product launch,email,Desktop,10/5/2024,No,,yes ,150.73
+CMP622 ,CUST2483,Black Friday,EMAIL ,Moble,3/9/2024,No,,No,117.38
+CMP263 ,CUST3935,New Product Launch,email,Tablet,9/20/2024, yes,Yes,No,0
+CMP370 ,CUST7052,Holiday Promo,Email,Tablet,9/6/2024,, yes , no,112.87
+CMP147 ,CUST1653,New product launch,EMAIL ,Mobile,8/28/2024, yes, yes ,,15.64
+CMP485 ,CUST7201,Holiday  Promo,Email,Moble,10/5/2024,no ,No,,173.57
+CMP988 ,CUST6653,Black friday, Email,Moble,7/26/2024,,No, no,149.33
+CMP626 ,CUST5600,Holiday Promo,email,mobile ,3/25/2024, yes,,Yes,44.81
+CMP930 ,CUST6410, new product launch ,Email,desktop,12/4/2024,no ,No,,78.89
+CMP520 ,CUST1367,Holiday Promo,Email,mobile ,3/23/2024,No,,Yes,35.26
+CMP270 ,CUST5231,SUMMER SALE, Email,Moble,10/20/2024, yes,Yes,No,114.99
+CMP582 ,CUST8891,SUMMER SALE,email,tablet ,8/17/2024,,No,,196.41
+CMP623 ,CUST5333,SUMMER SALE,EMAIL ,desktop,4/3/2024,No,no, no,41.14
+CMP307 ,CUST9564, black friday, Email,tablet ,3/8/2024,,Yes,No,160.32
+CMP714 ,CUST1639, black friday,Email,Mobile,8/31/2024,No,,,77.58
+CMP893 ,CUST8069, black friday, Email,Desktop,1/1/2024,,no,No,56.57
+CMP490 ,CUST6742,New Product Launch,Email,desktop,9/3/2024, yes,no,No,111.44
+CMP997 ,CUST9908,Black Friday,EMAIL ,mobile ,2/12/2024,Yes,,,37.18
+CMP484 ,CUST4365, new product launch ,EMAIL ,desktop,3/1/2024,Yes,No, no,75.71
+CMP367 ,CUST9783,Black Friday,EMAIL ,Moble,11/29/2024,no ,No, no,24.17
+CMP594 ,CUST3928,Holiday  Promo, Email,Desktop,10/9/2024,, yes , no,277.18
+CMP775 ,CUST2951, new product launch ,email,desktop,3/11/2024,Yes,No,,122.82
+CMP920 ,CUST1852,SUMMER SALE, Email,Tablet,7/24/2024,Yes,No, no,64.02
+CMP165 ,CUST5310,Holiday Promo,EMAIL ,Mobile,11/3/2024,no ,no,,137.12
+CMP828 ,CUST1941,SUMMER SALE, Email,desktop,12/1/2024,No,,yes ,111.01
+CMP713 ,CUST9364, black friday,email,Moble,4/9/2024,Yes, yes ,No,
+CMP261 ,CUST2422,holiday promo , Email,Desktop,12/1/2024,no ,,No,
+CMP820 ,CUST2124, summer sale,EMAIL ,Tablet,9/22/2024,, yes ,yes ,
+CMP299 ,CUST8450,Black Friday,Email,Desktop,5/21/2024,no ,,Yes,77.56
+CMP401 ,CUST6570, summer sale,EMAIL ,Moble,10/13/2024,no ,no,,73.93
+CMP875 ,CUST6565,Black friday, Email,Moble,9/4/2024,no ,Yes,yes ,98
+CMP907 ,CUST4610,New product launch,email,tablet ,2/4/2024,no , yes ,,0
+CMP952 ,CUST5314,Holiday Promo,EMAIL ,Mobile,10/1/2024, yes,Yes,,
+CMP462 ,CUST4580,New Product Launch,EMAIL ,mobile ,4/1/2024,no ,No,No,229.35
+CMP311 ,CUST4755,Holiday Promo,email,tablet ,5/3/2024,No,Yes,Yes,251.6
+CMP779 ,CUST9071,New Product Launch,Email,tablet ,2/10/2024,Yes,no,yes ,100.08
+CMP688 ,CUST5501,Black friday,email,tablet ,11/13/2024, yes,no,No,166.12
+CMP638 ,CUST7933,Black friday,Email,Moble,10/22/2024,no ,No, no,144.9
+CMP571 ,CUST6171, new product launch ,Email,Mobile,3/2/2024,no ,,Yes,366.31
+CMP982 ,CUST5254,SUMMER SALE,EMAIL ,mobile ,6/15/2024,no ,,yes ,209.57
+CMP534 ,CUST4449,Black Friday,EMAIL ,Desktop,7/6/2024, yes,no,No,109.77
+CMP689 ,CUST4744, summer sale,EMAIL ,tablet ,10/19/2024,,no, no,43.56
+CMP856 ,CUST3450,Black friday,Email,mobile ,4/10/2024,no ,No,,0
+CMP904 ,CUST8972,holiday promo ,EMAIL ,Moble,9/30/2024,no ,Yes,No,136.28
+CMP360 ,CUST8807,New product launch,Email,desktop,1/31/2024, yes, yes ,yes ,59.49
+CMP929 ,CUST5222,Holiday  Promo,Email,desktop,10/13/2024, yes,,No,6.22
+CMP764 ,CUST9821,SUMMER SALE,EMAIL ,Desktop,10/22/2024,,no, no,68.27
+CMP393 ,CUST8598,New product launch,email,tablet ,2/10/2024, yes,no,,33.48
+CMP173 ,CUST2296,SUMMER SALE,EMAIL ,mobile ,10/19/2024, yes, yes ,yes ,254.97
+CMP377 ,CUST8289,Holiday  Promo, Email,desktop,11/5/2024,No,Yes,No,190.53
+CMP861 ,CUST2311,Holiday Promo,email,desktop,4/30/2024,Yes,Yes, no,119.36
+CMP889 ,CUST7504, black friday,Email,Mobile,10/7/2024,,No,Yes,238.4
+CMP499 ,CUST6068,Holiday Promo,email,Tablet,12/1/2024,no ,No,No,126.19
+CMP129 ,CUST1575,New product launch,EMAIL ,tablet ,9/26/2024,no ,no,,51.1
+CMP238 ,CUST9835,SUMMER SALE, Email,Tablet,5/19/2024,,,yes ,241.85
+CMP332 ,CUST2467,Black friday,EMAIL ,Desktop,6/26/2024, yes,No,yes ,163.11
+CMP934 ,CUST3233,Holiday  Promo,EMAIL ,desktop,1/6/2024,Yes,no, no,
+CMP540 ,CUST5799,New Product Launch,email,tablet ,6/2/2024,, yes ,No,
+CMP547 ,CUST7467,Holiday Promo,email,Tablet,7/29/2024,no ,No,yes ,49.95
+CMP345 ,CUST9464,New Product Launch,EMAIL ,Desktop,2/10/2024, yes,no,No,9.38
+CMP396 ,CUST2808,New product launch, Email,Moble,2/5/2024, yes,, no,194.09
+CMP255 ,CUST1813, black friday,Email,mobile ,4/6/2024, yes, yes ,No,272.75
+CMP338 ,CUST2477,SUMMER SALE,Email,desktop,8/12/2024, yes,no,yes ,8.11
+CMP574 ,CUST1519,Holiday  Promo,Email,tablet ,9/12/2024,Yes, yes , no,165.04
+CMP285 ,CUST4148,holiday promo , Email,tablet ,2/6/2024,Yes,No, no,67.95
+CMP134 ,CUST4263,Black friday,Email,Moble,8/14/2024,no ,no,yes ,81.03
+CMP845 ,CUST1691, new product launch ,Email,Desktop,6/14/2024, yes,No,yes ,72.61
+CMP323 ,CUST2850,Holiday Promo, Email,Desktop,1/27/2024,No, yes ,,50.88
+CMP348 ,CUST1146,Summer Sale, Email,Tablet,3/2/2024, yes,Yes,No,123.88
+CMP802 ,CUST6544,New product launch,Email,Mobile,3/21/2024,No,,Yes,53.52
+CMP424 ,CUST6690,Black friday,email,Mobile,3/5/2024, yes,No,yes ,141.64
+CMP548 ,CUST5828, black friday, Email,mobile ,1/21/2024,, yes ,yes ,115.98
+CMP951 ,CUST3627, summer sale,email,desktop,8/27/2024, yes,,yes ,100.88
+CMP753 ,CUST9289,Black Friday,email,Mobile,8/20/2024,,No,yes ,
+CMP651 ,CUST7348,Holiday Promo, Email,tablet ,2/2/2024,No,,yes ,73.86
+CMP429 ,CUST2809, summer sale,Email,Mobile,6/14/2024,No,Yes,No,180.43
+CMP201 ,CUST1521,New Product Launch, Email,Tablet,2/24/2024,,,,160.07
+CMP326 ,CUST2161,Summer Sale,email,Tablet,5/11/2024,Yes,no,Yes,
+CMP525 ,CUST7046, new product launch ,Email,tablet ,7/3/2024,,Yes,Yes,127.95
+CMP321 ,CUST9511, summer sale,Email,Tablet,6/4/2024,,no,No,180.11
+CMP354 ,CUST3931, black friday, Email,Tablet,4/8/2024,, yes , no,0
+CMP206 ,CUST3733,SUMMER SALE, Email,Moble,12/25/2024,No,,,163.47
+CMP422 ,CUST6319,Holiday  Promo, Email,tablet ,8/14/2024, yes,,No,66.99
+CMP484 ,CUST5162,Holiday  Promo, Email,desktop,10/15/2024,Yes,Yes,yes ,165.65
+CMP238 ,CUST5945,Summer Sale,EMAIL ,mobile ,11/1/2024, yes,Yes,yes ,
+CMP684 ,CUST3534, summer sale,Email,desktop,10/10/2024,No,No,yes ,0
+CMP355 ,CUST4817,holiday promo ,EMAIL ,Mobile,7/6/2024,,No,Yes,0
+CMP277 ,CUST8999, new product launch ,Email,Moble,6/15/2024,Yes,, no,123.85
+CMP889 ,CUST6478,Holiday  Promo, Email,desktop,2/10/2024,No,,Yes,140.78
+CMP491 ,CUST1886,holiday promo ,Email,Desktop,11/20/2024,,No,yes ,47.65
+CMP256 ,CUST1827,New product launch, Email,desktop,9/14/2024,Yes,No, no,171.09
+CMP251 ,CUST3165,Holiday  Promo,Email,desktop,5/28/2024,,no,yes ,0
+CMP544 ,CUST3136,SUMMER SALE, Email,Moble,2/13/2024,no ,no,,114.71
+CMP853 ,CUST9589,Holiday Promo,email,Mobile,4/10/2024,no , yes ,,23.12
+CMP523 ,CUST7939,Holiday  Promo,EMAIL ,mobile ,2/15/2024, yes,,Yes,67.85
+CMP458 ,CUST8245,New Product Launch,email,desktop,6/5/2024,No,No,yes ,123.79
+CMP973 ,CUST2405, summer sale,Email,mobile ,3/20/2024, yes,Yes,yes ,51.17
+CMP412 ,CUST8373,Black friday,Email,Desktop,12/21/2024,,No,No,89.24
+CMP364 ,CUST9991,Black friday,email,Tablet,10/6/2024,no ,,,200.5
+CMP161 ,CUST5653,Holiday Promo,EMAIL ,Mobile,1/23/2024,Yes,Yes, no,73.85
+CMP972 ,CUST6901, summer sale,Email,Desktop,12/4/2024,No,no,,186.86
+CMP423 ,CUST8940,New Product Launch,Email,mobile ,12/29/2024,,no,,29.62
+CMP353 ,CUST9673,holiday promo ,EMAIL ,desktop,12/30/2024,No,Yes,yes ,
+CMP740 ,CUST5953,Holiday Promo,EMAIL ,tablet ,12/16/2024, yes,no,Yes,235.33
+CMP330 ,CUST3485,Holiday  Promo, Email,Tablet,10/11/2024,Yes,no,,0
+CMP740 ,CUST4726,Black Friday,email,Moble,12/13/2024,no , yes ,,56.25
+CMP234 ,CUST4387,New product launch,email,Moble,6/17/2024,No,No,yes ,166.17
+CMP636 ,CUST3215,Black Friday,email,Tablet,12/18/2024, yes,Yes,,103.76
+CMP221 ,CUST4016,Holiday  Promo,email,Tablet,9/29/2024, yes,no, no,149.69
+CMP941 ,CUST5485,SUMMER SALE,email,Mobile,6/4/2024,No,Yes,,71.68
+CMP680 ,CUST4783,New Product Launch,email,mobile ,11/11/2024, yes,Yes, no,126.93
+CMP719 ,CUST8680, new product launch ,EMAIL ,mobile ,3/9/2024,no ,no,No,107.55
+CMP133 ,CUST7694,Summer Sale,EMAIL ,desktop,3/24/2024,No,No,Yes,213.42
+CMP549 ,CUST9027, new product launch ,EMAIL ,tablet ,3/31/2024,No,no, no,140.35
+CMP944 ,CUST7232, new product launch ,EMAIL ,desktop,1/22/2024,,Yes,,147.01
+CMP946 ,CUST1694,Holiday Promo, Email,Tablet,2/25/2024,,no,,87.05
+CMP294 ,CUST5770,Black friday, Email,Desktop,11/18/2024,no ,No, no,80.99
+CMP155 ,CUST9470,SUMMER SALE, Email,tablet ,5/30/2024,Yes,,Yes,85.4
+CMP812 ,CUST9952,SUMMER SALE, Email,desktop,4/2/2024,no ,Yes,No,151.56
+CMP829 ,CUST4308,Black friday,Email,Desktop,8/20/2024,No,Yes,Yes,86.32
+CMP749 ,CUST6946, summer sale, Email,Tablet,2/28/2024,,No, no,143.18
+CMP886 ,CUST3799,Holiday  Promo,email,mobile ,10/8/2024,No,Yes, no,286.03
+CMP887 ,CUST8311,holiday promo ,email,Mobile,6/6/2024,No,Yes,,189.69
+CMP609 ,CUST9169, black friday,Email,Moble,5/9/2024,No,No,,
+CMP519 ,CUST8239, summer sale,Email,mobile ,12/3/2024, yes,,,216.1
+CMP251 ,CUST1902,New product launch,EMAIL ,Mobile,4/16/2024,Yes,,,
+CMP189 ,CUST1803, summer sale, Email,mobile ,6/1/2024, yes,,,0
+CMP281 ,CUST8460, new product launch ,EMAIL ,Mobile,10/20/2024, yes, yes ,yes ,39.35
+CMP876 ,CUST8001, black friday,Email,Desktop,7/13/2024,No,Yes,yes ,0
+CMP637 ,CUST4438, new product launch ,email,Moble,6/17/2024,Yes,,,91.88
+CMP805 ,CUST5705,Black Friday,EMAIL ,Desktop,2/14/2024,,,yes ,121.47
+CMP608 ,CUST9514, new product launch , Email,desktop,3/7/2024,,No,yes ,254.11
+CMP124 ,CUST8616,New product launch,Email,Tablet,4/9/2024,,no, no,
+CMP673 ,CUST4478,Summer Sale,email,Tablet,1/24/2024, yes,Yes,yes ,102.47
+CMP431 ,CUST1100, summer sale,EMAIL ,Desktop,6/2/2024,,,Yes,186.35
+CMP953 ,CUST6536,New product launch, Email,desktop,3/30/2024,No,no,No,0
+CMP985 ,CUST9797,Holiday  Promo, Email,tablet ,11/17/2024,Yes,,yes ,138.85
+CMP423 ,CUST9779,Summer Sale,email,Moble,10/16/2024, yes,Yes,No,181.67
+CMP447 ,CUST7147,New product launch,email,Moble,5/23/2024,No,,Yes,1.71
+CMP422 ,CUST1518,holiday promo , Email,Mobile,6/6/2024,No, yes , no,211.5
+CMP409 ,CUST3867, summer sale,EMAIL ,tablet ,6/3/2024,No,Yes, no,147.08
+CMP594 ,CUST9192,SUMMER SALE,email,Desktop,9/16/2024,, yes ,yes ,
+CMP200 ,CUST9456,New product launch,email,mobile ,3/14/2024,no ,no,,170.62
+CMP145 ,CUST2426,Holiday  Promo, Email,Mobile,2/29/2024,, yes ,Yes,
+CMP754 ,CUST4438,Holiday  Promo,email,mobile ,10/22/2024, yes,,yes ,134.55
+CMP379 ,CUST3446,SUMMER SALE,EMAIL ,Mobile,8/13/2024,,,,139.86
+CMP458 ,CUST6218,holiday promo ,email,Tablet,2/22/2024,,No,No,83.25
+CMP446 ,CUST9856,Black friday,Email,mobile ,2/6/2024,no ,Yes,Yes,52.01
+CMP536 ,CUST7421,SUMMER SALE, Email,Moble,7/15/2024, yes, yes ,No,186.43
+CMP928 ,CUST9740, summer sale, Email,Moble,12/31/2024,Yes,no,Yes,51.51
+CMP759 ,CUST8625,Black friday,email,mobile ,8/21/2024,, yes ,yes ,125.73
+CMP781 ,CUST6412,Holiday  Promo, Email,desktop,7/19/2024,Yes,no,Yes,81.79
+CMP966 ,CUST3798,holiday promo ,EMAIL ,Moble,6/28/2024,,Yes, no,158.32
+CMP433 ,CUST2162,holiday promo , Email,desktop,12/31/2024,No,,No,146.69
+CMP593 ,CUST7288, summer sale,EMAIL ,mobile ,10/7/2024,no ,,yes ,203
+CMP277 ,CUST2276, new product launch , Email,Mobile,10/5/2024, yes,,Yes,79.2
+CMP515 ,CUST2140,New Product Launch,Email,Tablet,8/15/2024, yes,no,Yes,98.41
+CMP242 ,CUST1003,SUMMER SALE,email,desktop,2/16/2024, yes,no,,41.7
+CMP310 ,CUST6187,holiday promo ,EMAIL ,desktop,10/22/2024,Yes,,Yes,84.46
+CMP513 ,CUST3089,holiday promo ,Email,Desktop,11/9/2024,Yes,Yes,,150.18
+CMP388 ,CUST1510,Holiday Promo, Email,Tablet,7/2/2024, yes,no, no,180.56
+CMP316 ,CUST3841,Black friday,email,mobile ,7/14/2024,no , yes , no,46.23
+CMP993 ,CUST3056,SUMMER SALE,Email,Mobile,3/19/2024,No,no, no,189.57
+CMP757 ,CUST7813,Black friday, Email,Moble,3/10/2024,no ,, no,228.45
+CMP493 ,CUST6821,Holiday Promo,email,desktop,10/9/2024,,no,No,153.07
+CMP520 ,CUST9948,New Product Launch,EMAIL ,Mobile,12/30/2024,,no,yes ,270.14
+CMP807 ,CUST2311,SUMMER SALE,EMAIL ,desktop,2/27/2024,Yes,,,58.1
+CMP745 ,CUST2279,New product launch,EMAIL ,Moble,2/15/2024, yes,,Yes,20.43
+CMP580 ,CUST6431,Black Friday,EMAIL ,tablet ,8/28/2024, yes,No,Yes,0
+CMP867 ,CUST5981, new product launch ,EMAIL ,Mobile,12/21/2024,,No,,239.68
+CMP398 ,CUST1447,holiday promo , Email,Mobile,1/27/2024,,Yes,yes ,172.35
+CMP387 ,CUST5509,holiday promo ,Email,Tablet,5/9/2024,,No,,115.55
+CMP478 ,CUST3873,holiday promo ,email,desktop,3/18/2024,,Yes,yes ,142.4
+CMP709 ,CUST3525,Black friday, Email,tablet ,2/13/2024,No,no,No,29.96
+CMP962 ,CUST6653,Summer Sale,EMAIL ,tablet ,4/17/2024,Yes,No, no,315.66
+CMP587 ,CUST9724,Holiday Promo, Email,Tablet,7/23/2024,no , yes ,No,130.34
+CMP112 ,CUST5731,Black friday, Email,Tablet,9/28/2024,,Yes,Yes,128.75
+CMP964 ,CUST8074,New Product Launch,EMAIL ,Desktop,9/29/2024, yes,Yes,yes ,178.06
+CMP572 ,CUST4961, new product launch ,email,Moble,12/1/2024,No, yes ,,158.48
+CMP951 ,CUST2113,Summer Sale, Email,Mobile,1/6/2024,Yes,no,yes ,137.91
+CMP357 ,CUST4163,Summer Sale,Email,Moble,4/22/2024,Yes,,No,56.76
+CMP825 ,CUST2965, summer sale,email,desktop,11/2/2024,Yes,No,yes ,157.72
+CMP177 ,CUST8429,holiday promo , Email,Tablet,5/30/2024, yes,No,Yes,270.56
+CMP491 ,CUST7366,Holiday  Promo,Email,Desktop,5/21/2024,No,no,Yes,227.63
+CMP305 ,CUST7432,SUMMER SALE, Email,Mobile,9/8/2024,,no,No,247.45
+CMP552 ,CUST5243, summer sale,Email,Mobile,11/10/2024,, yes , no,79.1
+CMP252 ,CUST1014,Summer Sale, Email,Desktop,1/10/2024, yes,no,,40.83
+CMP889 ,CUST9039,Black friday, Email,desktop,1/2/2024,,No,Yes,109.94
+CMP937 ,CUST8898, summer sale,EMAIL ,Desktop,7/15/2024,no ,Yes,Yes,124.46
+CMP448 ,CUST2318,Black friday,EMAIL ,Tablet,7/6/2024,No,,Yes,207.54
+CMP406 ,CUST7391, summer sale,EMAIL ,desktop,7/15/2024,no ,No,No,0
+CMP837 ,CUST4907,Black friday, Email,Mobile,1/19/2024, yes,no,,242.36
+CMP116 ,CUST1606,Holiday  Promo,Email,Desktop,8/18/2024,no ,Yes,No,107.36
+CMP569 ,CUST9791,SUMMER SALE,email,Mobile,11/30/2024,No,no,Yes,85.85
+CMP733 ,CUST1750,Holiday Promo,email,Mobile,8/29/2024,Yes, yes ,Yes,39.03
+CMP955 ,CUST2047, summer sale,Email,desktop,8/21/2024,Yes,No, no,0
+CMP855 ,CUST7586,Holiday  Promo,Email,Tablet,6/21/2024,No, yes ,No,185.85
+CMP443 ,CUST2035, summer sale,EMAIL ,mobile ,1/24/2024,No, yes ,,125.87
+CMP695 ,CUST1666,SUMMER SALE,Email,tablet ,3/25/2024,No,Yes, no,16.8
+CMP283 ,CUST2460, new product launch ,EMAIL ,desktop,2/11/2024,No,No,No,
+CMP561 ,CUST7750,Holiday Promo,email,Moble,11/23/2024,,No, no,93.14
+CMP742 ,CUST5934,Holiday  Promo, Email,Mobile,11/9/2024,No,No,Yes,253.52
+CMP733 ,CUST6929, black friday,email,desktop,9/28/2024, yes,Yes,No,99.23
+CMP801 ,CUST8772,Black friday,email,mobile ,2/27/2024,Yes, yes ,yes ,0
+CMP442 ,CUST8424,Summer Sale,Email,Tablet,4/17/2024,,No,No,100.34
+CMP218 ,CUST2160,Holiday Promo, Email,Moble,1/15/2024,no ,No,yes ,98.18
+CMP433 ,CUST4731, summer sale,email,Tablet,4/27/2024,No,no,No,0
+CMP596 ,CUST1890,Black Friday,email,mobile ,2/7/2024,No,no,yes ,115.66
+CMP298 ,CUST6875,holiday promo ,email,Desktop,3/10/2024,Yes,,Yes,101.53
+CMP972 ,CUST8627,Black friday, Email,mobile ,5/23/2024,No, yes ,,175.7
+CMP753 ,CUST3784,New Product Launch,email,Mobile,3/21/2024,,no,No,267.92
+CMP573 ,CUST5573,Summer Sale, Email,Tablet,10/29/2024,No, yes , no,210.13
+CMP705 ,CUST3440,New Product Launch,Email,desktop,10/23/2024,Yes,no,,98.49
+CMP503 ,CUST8852, new product launch ,Email,desktop,1/18/2024,No,Yes,,31.48
+CMP516 ,CUST4571,SUMMER SALE,EMAIL ,Desktop,1/7/2024,Yes,Yes, no,325.87
+CMP820 ,CUST8524,New Product Launch,Email,desktop,12/8/2024,No,no,No,124.74
+CMP820 ,CUST1022,New product launch,Email,desktop,7/8/2024,,Yes,yes ,121.11
+CMP814 ,CUST9887,New Product Launch,email,tablet ,8/6/2024,, yes ,Yes,118.07
+CMP790 ,CUST6963,Summer Sale,Email,desktop,9/20/2024,no ,,Yes,135.85
+CMP763 ,CUST2097, black friday,email,mobile ,7/6/2024,No,,Yes,108.45
+CMP870 ,CUST4437, new product launch ,email,Desktop,11/28/2024, yes,, no,74.11
+CMP481 ,CUST6656,Black friday, Email,Moble,5/21/2024,Yes,no,,76.25
+CMP399 ,CUST8405,New Product Launch,EMAIL ,tablet ,12/13/2024,No,no,Yes,117.38
+CMP283 ,CUST5724, summer sale,Email,mobile ,2/11/2024,Yes,No, no,76.53
+CMP633 ,CUST1371,holiday promo , Email,Tablet,3/18/2024,No,no,yes ,62.97
+CMP760 ,CUST1351,holiday promo ,email,Mobile,8/3/2024,No,,yes ,128.51
+CMP771 ,CUST6346,Black friday, Email,desktop,7/29/2024,,No,yes ,99.6
+CMP332 ,CUST8933,Holiday  Promo,EMAIL ,tablet ,3/28/2024,No, yes ,yes ,240.32
+CMP733 ,CUST3634, new product launch ,EMAIL ,mobile ,8/21/2024,No,No,No,0
+CMP424 ,CUST3072,Black friday,EMAIL ,Desktop,2/29/2024,No,,Yes,
+CMP452 ,CUST3423,Holiday  Promo, Email,Moble,12/6/2024,, yes ,Yes,219.69
+CMP611 ,CUST3381,Black friday,EMAIL ,mobile ,1/13/2024,,,yes ,0
+CMP585 ,CUST5748,New Product Launch,email,tablet ,11/27/2024, yes,Yes, no,92.58
+CMP664 ,CUST2914,holiday promo ,Email,desktop,1/21/2024,no , yes ,Yes,90.28
+CMP756 ,CUST4197,New Product Launch,email,tablet ,6/16/2024,No,Yes,Yes,7.4
+CMP793 ,CUST2431, black friday, Email,mobile ,10/2/2024, yes,,,57.77
+CMP782 ,CUST6915,Black Friday,email,Tablet,9/18/2024, yes,no,yes ,31.15
+CMP459 ,CUST6047,Black friday,Email,mobile ,1/7/2024,no ,no,yes ,260.18
+CMP534 ,CUST7786,SUMMER SALE,Email,mobile ,3/24/2024, yes,no,,194.85
+CMP704 ,CUST7156, summer sale,Email,desktop,6/20/2024,no ,No,,221.72
+CMP873 ,CUST3243,Holiday Promo,email,tablet ,8/24/2024, yes,, no,177.73
+CMP409 ,CUST5979,Black friday, Email,mobile ,1/22/2024,Yes,No,yes ,29.68
+CMP954 ,CUST8742, summer sale,EMAIL ,desktop,6/2/2024,no ,No,Yes,78.04
+CMP604 ,CUST2093,New Product Launch,EMAIL ,Moble,3/2/2024,,no,yes ,159.15
+CMP810 ,CUST2959,Holiday  Promo,Email,tablet ,11/17/2024,No,,Yes,22.23
+CMP999 ,CUST3219,Holiday  Promo,email,Mobile,3/15/2024, yes,no,yes ,177.04
+CMP642 ,CUST2258, black friday,email,tablet ,1/25/2024,Yes,,No,100.77
+CMP423 ,CUST5932,holiday promo ,EMAIL ,Mobile,10/5/2024,, yes ,No,90.01
+CMP388 ,CUST7111,Black friday, Email,Desktop,1/7/2024,Yes,No,No,176.88
+CMP292 ,CUST9612, black friday,Email,desktop,9/14/2024,Yes,Yes,No,155.54
+CMP419 ,CUST6940,SUMMER SALE, Email,Moble,1/9/2024, yes,No,yes ,91.12
+CMP221 ,CUST4643,SUMMER SALE,email,Tablet,1/15/2024, yes,No,No,212.75
+CMP535 ,CUST2830, summer sale,Email,tablet ,3/7/2024,no ,Yes,No,33.51
+CMP775 ,CUST9412,New Product Launch,Email,desktop,2/25/2024, yes,Yes,Yes,
+CMP872 ,CUST2581, summer sale,email,Moble,6/3/2024,No, yes ,Yes,167.45
+CMP864 ,CUST5544,New Product Launch,EMAIL ,Desktop,2/16/2024,,,No,95.24
+CMP201 ,CUST1229, black friday,email,Tablet,9/15/2024, yes,No,,146.09
+CMP201 ,CUST4506, black friday, Email,Desktop,1/3/2024,no ,Yes,No,19.91
+CMP534 ,CUST4510, black friday,email,desktop,6/30/2024, yes,Yes, no,193.92
+CMP607 ,CUST6918, new product launch ,EMAIL ,Moble,2/26/2024,Yes, yes , no,105.21
+CMP567 ,CUST6111,New product launch, Email,mobile ,2/29/2024,no , yes , no,78.18
+CMP961 ,CUST8793,New product launch,EMAIL ,mobile ,4/6/2024,no ,Yes, no,203.92
+CMP792 ,CUST2392, summer sale,email,desktop,8/12/2024,,Yes,No,63.65
+CMP303 ,CUST6548,Holiday Promo, Email,Mobile,2/3/2024,no ,no,yes ,7.32
+CMP707 ,CUST5472,New product launch, Email,Desktop,12/31/2024,,no, no,0
+CMP886 ,CUST8448, summer sale,Email,Desktop,9/18/2024,no ,No,No,168.48
+CMP154 ,CUST2117,Black friday,Email,mobile ,1/16/2024,, yes ,No,17.57
+CMP198 ,CUST2253,New product launch, Email,tablet ,6/4/2024,No, yes , no,260.38
+CMP655 ,CUST6629, black friday,Email,tablet ,9/8/2024,no ,Yes, no,0
+CMP485 ,CUST8250,Black friday,Email,Mobile,8/18/2024,, yes ,No,255.72
+CMP419 ,CUST7374,Black friday,Email,Moble,9/8/2024,,,,136.88
+CMP974 ,CUST3560, black friday,Email,desktop,8/28/2024,no ,, no,112.26
+CMP884 ,CUST5660,Holiday  Promo,Email,Mobile,11/11/2024,No, yes ,yes ,76.41
+CMP740 ,CUST6591,Black Friday,Email,desktop,10/25/2024, yes,no,yes ,
+CMP353 ,CUST4844,New product launch,EMAIL ,Moble,1/29/2024,Yes, yes ,Yes,116.99
+CMP651 ,CUST6343,Summer Sale, Email,Tablet,6/21/2024,,, no,208.26
+CMP580 ,CUST1364,Holiday  Promo, Email,Moble,5/16/2024, yes,,Yes,
+CMP791 ,CUST4373,Holiday  Promo, Email,Moble,9/7/2024,No,,yes ,132.02
+CMP306 ,CUST9142,New product launch,Email,tablet ,7/5/2024,No, yes ,yes ,90.91
+CMP687 ,CUST7586,Holiday Promo,Email,Tablet,1/25/2024,, yes ,yes ,115.44
+CMP643 ,CUST8786,Black Friday,email,Desktop,2/4/2024, yes,,yes ,144.62
+CMP420 ,CUST4278,Black Friday, Email,Desktop,8/9/2024,no ,,No,0
+CMP628 ,CUST4056,New Product Launch, Email,mobile ,1/10/2024, yes,,,12.15
+CMP844 ,CUST1981, black friday,email,Desktop,8/10/2024,No,No,No,179.46
+CMP964 ,CUST8133,Black Friday,EMAIL ,tablet ,12/16/2024,No,no,yes ,133.67
+CMP362 ,CUST4868,Black Friday,email,Mobile,5/26/2024,No,Yes,No,105.28
+CMP673 ,CUST8145,Black Friday,Email,mobile ,6/7/2024, yes,No,Yes,121.47
+CMP384 ,CUST3883,New product launch,Email,Tablet,5/12/2024,Yes,Yes,Yes,147.81
+CMP987 ,CUST2041,Black Friday,EMAIL ,Tablet,6/9/2024,no ,No,No,76.82
+CMP612 ,CUST2976, black friday,EMAIL ,desktop,2/27/2024,No,,Yes,57.74
+CMP698 ,CUST7388, new product launch ,email,desktop,6/9/2024,No,Yes,No,135.67
+CMP550 ,CUST7690,holiday promo ,Email,desktop,4/19/2024, yes,Yes,yes ,41.73
+CMP799 ,CUST5036,holiday promo ,email,Desktop,10/6/2024, yes, yes ,Yes,152.66
+CMP720 ,CUST1570, new product launch ,Email,Tablet,11/26/2024, yes,, no,0
+CMP817 ,CUST6945,New product launch,Email,Moble,6/7/2024,no ,no,Yes,202.33
+CMP361 ,CUST5929, summer sale,email,Desktop,7/20/2024,No,no,yes ,157.81
+CMP134 ,CUST5489, summer sale, Email,desktop,11/25/2024, yes,no,Yes,140.48
+CMP618 ,CUST2087,Holiday  Promo, Email,Moble,3/23/2024, yes,no,Yes,198.62
+CMP288 ,CUST8264,New product launch,email,Mobile,1/27/2024,No, yes ,yes ,253.24
+CMP261 ,CUST5089, black friday,email,tablet ,10/21/2024, yes,no, no,201.15
+CMP803 ,CUST6367,holiday promo ,email,Mobile,3/9/2024, yes,No, no,0
+CMP684 ,CUST4677,Summer Sale,Email,Moble,7/12/2024,Yes,no,No,17.63
+CMP272 ,CUST1815,Black Friday, Email,Moble,5/14/2024,No,Yes,yes ,70.01
+CMP220 ,CUST1231, new product launch , Email,tablet ,3/28/2024,no ,Yes,No,122.09
+CMP982 ,CUST5361,holiday promo , Email,desktop,12/31/2024,no ,No,,161.41
+CMP389 ,CUST4102,Black Friday,email,desktop,4/20/2024,Yes, yes ,yes ,61.94
+CMP354 ,CUST7056,New Product Launch, Email,Mobile,4/30/2024,no ,No,yes ,134.94
+CMP317 ,CUST7283, new product launch , Email,Tablet,12/20/2024,Yes,Yes,,59.57
+CMP340 ,CUST8715,Holiday  Promo,Email,Mobile,1/31/2024,,, no,71.08
+CMP787 ,CUST7076,SUMMER SALE,Email,Moble,6/3/2024, yes,No,,7.47
+CMP998 ,CUST8669,SUMMER SALE,Email,Desktop,9/9/2024,no ,No,yes ,46.14
+CMP230 ,CUST9179,holiday promo ,EMAIL ,desktop,2/29/2024, yes,,yes ,11.87
+CMP268 ,CUST6169, new product launch , Email,tablet ,9/21/2024,,no,Yes,41.93
+CMP335 ,CUST4000,Summer Sale, Email,Desktop,4/6/2024,no ,no,Yes,204.29
+CMP465 ,CUST8949,Black friday, Email,Mobile,9/10/2024,Yes, yes ,Yes,
+CMP284 ,CUST3757, new product launch ,EMAIL ,Moble,4/14/2024,,Yes,,330.59
+CMP178 ,CUST5033,Black friday,Email,Desktop,10/19/2024, yes,Yes, no,159.47
+CMP208 ,CUST6300,SUMMER SALE,Email,Mobile,7/10/2024,no ,no,yes ,134.79
+CMP437 ,CUST1718,New product launch, Email,Desktop,10/31/2024,No,Yes,yes ,51.33
+CMP861 ,CUST2158, black friday, Email,Mobile,6/14/2024, yes,No,No,176.02
+CMP972 ,CUST4411,SUMMER SALE, Email,tablet ,7/23/2024, yes,No,Yes,73.95
+CMP542 ,CUST6080,New product launch,email,Desktop,6/1/2024, yes,,No,129.76
+CMP497 ,CUST8805,holiday promo , Email,Mobile,9/7/2024, yes,,No,324.81
+CMP195 ,CUST1662, black friday,EMAIL ,desktop,8/10/2024,No,no,,112.32
+CMP185 ,CUST5762,Black friday, Email,Mobile,11/18/2024, yes,No,No,211.94
+CMP961 ,CUST5073, black friday, Email,Desktop,12/16/2024,,Yes,Yes,63.75
+CMP535 ,CUST7766, summer sale, Email,Tablet,9/19/2024, yes, yes ,,117.2
+CMP116 ,CUST2866, new product launch , Email,mobile ,2/11/2024,no ,Yes,Yes,261.66
+CMP404 ,CUST6143,New Product Launch, Email,tablet ,8/1/2024,, yes ,yes ,69.84
+CMP180 ,CUST5248,New product launch,Email,desktop,4/5/2024,Yes,Yes, no,265
+CMP771 ,CUST8817,Black friday, Email,tablet ,2/29/2024, yes,,,
+CMP806 ,CUST7471,holiday promo ,Email,mobile ,7/3/2024,Yes,No,Yes,75
+CMP292 ,CUST1439,Holiday Promo, Email,Tablet,1/9/2024,No,no,,170.59
+CMP888 ,CUST8592,SUMMER SALE, Email,desktop,4/7/2024,Yes,No,No,197.8
+CMP596 ,CUST8724,Summer Sale, Email,Moble,12/25/2024,No, yes ,,169.74
+CMP108 ,CUST2682,New product launch, Email,desktop,7/19/2024,,,,0
+CMP509 ,CUST8964, black friday, Email,mobile ,5/28/2024,,Yes, no,
+CMP165 ,CUST5388,New product launch, Email,desktop,10/22/2024,no ,,yes ,100.2
+CMP121 ,CUST3643,holiday promo ,email,desktop,8/17/2024,no ,No,,114.05
+CMP801 ,CUST6556,New Product Launch, Email,mobile ,4/22/2024,no ,no,yes ,169.65
+CMP964 ,CUST3654,New Product Launch,email,Desktop,8/29/2024,no ,No,No,134.22
+CMP603 ,CUST2653,Black Friday, Email,Desktop,4/12/2024,No,,Yes,13.17
+CMP367 ,CUST6849,New product launch,email,mobile ,1/10/2024,Yes,Yes,yes ,150.42
+CMP332 ,CUST2977, black friday,email,desktop,8/8/2024, yes, yes ,Yes,168.85
+CMP254 ,CUST9444,New Product Launch,Email,Tablet,10/12/2024,no ,no,Yes,164.78
+CMP724 ,CUST2669, black friday,Email,Moble,2/24/2024,No,Yes,No,206.46
+CMP399 ,CUST8233, black friday, Email,Tablet,7/4/2024,No, yes ,yes ,186.71
+CMP306 ,CUST8194,Black Friday,Email,mobile ,3/11/2024, yes, yes ,,156.73
+CMP481 ,CUST7799,Holiday  Promo,email,mobile ,3/28/2024,no ,No,No,114.39
+CMP519 ,CUST8516, black friday,EMAIL ,Mobile,8/7/2024,No,Yes,,0
+CMP422 ,CUST7580,SUMMER SALE, Email,Mobile,2/5/2024,Yes,No,,154.37
+CMP830 ,CUST9516,holiday promo , Email,desktop,1/30/2024, yes, yes ,yes ,136.62
+CMP640 ,CUST3406, new product launch , Email,desktop,1/5/2024,,,,141.73
+CMP453 ,CUST7627,Holiday Promo,EMAIL ,Mobile,11/29/2024,, yes , no,17.86
+CMP653 ,CUST5651,Holiday Promo,Email,Moble,3/5/2024, yes,,yes ,33.52
+CMP128 ,CUST9846,New Product Launch,EMAIL ,mobile ,11/21/2024,no ,,Yes,204.25
+CMP365 ,CUST9314,Holiday  Promo,Email,Mobile,1/31/2024,no , yes ,,116.84
+CMP341 ,CUST9737,New Product Launch,email,Desktop,1/3/2024, yes,,No,174.52
+CMP855 ,CUST5057, summer sale,EMAIL ,Moble,12/31/2024, yes,no,Yes,122.27
+CMP948 ,CUST7751, summer sale,Email,Mobile,3/16/2024,No,no,No,122.38
+CMP793 ,CUST9622,Black Friday, Email,tablet ,8/16/2024,,no, no,195.06
+CMP601 ,CUST7830,SUMMER SALE,email,Moble,8/13/2024,no ,no,No,78.72
+CMP641 ,CUST2934, new product launch ,email,desktop,12/26/2024,Yes,No,,127.69
+CMP221 ,CUST7694, summer sale,Email,Desktop,7/8/2024,Yes,,No,83.02
+CMP483 ,CUST5968,holiday promo , Email,Mobile,3/1/2024,No,, no,85.24
+CMP412 ,CUST5644,Holiday Promo,email,tablet ,1/25/2024,Yes,Yes,,95.27
+CMP145 ,CUST7841,Black friday,EMAIL ,Moble,6/27/2024, yes,no, no,137.77
+CMP241 ,CUST9270,New product launch, Email,tablet ,11/6/2024,no ,No,yes ,81.7
+CMP780 ,CUST7711,Black Friday,email,desktop,2/15/2024,,Yes, no,220.46
+CMP986 ,CUST3713, new product launch ,Email,Moble,5/22/2024,,Yes,,48.43
+CMP733 ,CUST9877,New Product Launch,Email,Moble,2/13/2024,No,no,,105.05
+CMP644 ,CUST3944,Summer Sale,EMAIL ,tablet ,1/10/2024,No,, no,84.82
+CMP721 ,CUST6249,Black Friday,Email,desktop,2/13/2024, yes,no,No,235.76
+CMP640 ,CUST6199,Black Friday,EMAIL ,Mobile,7/31/2024,Yes,,No,
+CMP361 ,CUST2468,SUMMER SALE,EMAIL ,desktop,5/26/2024,Yes,,yes ,202.55
+CMP159 ,CUST5882,Black Friday,Email,Desktop,4/2/2024,no , yes ,yes ,
+CMP223 ,CUST1849,Holiday Promo,email,tablet ,7/11/2024,no ,,,141.36
+CMP375 ,CUST1993,Holiday  Promo, Email,Moble,7/16/2024,Yes,no,Yes,191.17
+CMP119 ,CUST5409, black friday,Email,mobile ,7/27/2024,No, yes ,,126.58
+CMP966 ,CUST9199,Holiday Promo,email,Desktop,7/27/2024,No,No,,205.24
+CMP668 ,CUST8401,Summer Sale,Email,tablet ,8/4/2024,, yes ,No,78.62
+CMP593 ,CUST5477,New Product Launch,EMAIL ,tablet ,1/1/2024, yes,No,,232.75
+CMP265 ,CUST9750,New Product Launch,Email,Desktop,9/18/2024,no ,Yes,No,303.91
+CMP999 ,CUST8077,Holiday Promo,EMAIL ,Tablet,10/11/2024, yes,no,yes ,90.97
+CMP429 ,CUST6597,Holiday Promo, Email,Moble,5/5/2024,Yes,No,Yes,84.36
+CMP109 ,CUST3843,Black Friday, Email,tablet ,11/7/2024,,Yes,Yes,236.27
+CMP952 ,CUST8293,New product launch,Email,Desktop,10/2/2024,, yes , no,
+CMP931 ,CUST1138, summer sale, Email,Desktop,3/31/2024,no ,Yes,No,78.17
+CMP796 ,CUST6862,Holiday Promo,Email,tablet ,1/11/2024,No,No, no,86.39
+CMP604 ,CUST4425,Summer Sale,email,tablet ,7/4/2024,Yes, yes ,,
+CMP665 ,CUST4174,New product launch,email,Mobile,9/13/2024,Yes,No,yes ,12.44
+CMP635 ,CUST5494,Holiday Promo,Email,Tablet,10/18/2024,, yes ,,46.51
+CMP537 ,CUST1849,Holiday  Promo, Email,tablet ,8/20/2024, yes,Yes,,
+CMP629 ,CUST1712, new product launch ,email,Mobile,8/26/2024,no ,, no,58.58
+CMP299 ,CUST6483, summer sale,Email,Tablet,6/10/2024,no ,Yes,No,
+CMP418 ,CUST2029,New product launch,Email,Mobile,4/10/2024,no ,Yes,,138.74
+CMP960 ,CUST5102,Holiday Promo,Email,desktop,11/16/2024, yes,Yes,yes ,244.04
+CMP174 ,CUST8184, summer sale, Email,Moble,9/23/2024,Yes,Yes,Yes,40.13
+CMP968 ,CUST2065,SUMMER SALE,Email,tablet ,7/12/2024,Yes, yes ,,198.75
+CMP204 ,CUST1914, black friday,Email,Desktop,11/16/2024,no ,Yes,,102.88
+CMP713 ,CUST1173,Black friday, Email,desktop,7/29/2024,,,Yes,116.04
+CMP791 ,CUST1425,Black friday,EMAIL ,Moble,6/22/2024,Yes,Yes,Yes,173.99
+CMP707 ,CUST4172,New Product Launch,email,Tablet,10/31/2024, yes, yes , no,30.18
+CMP555 ,CUST4046,Holiday Promo,email,tablet ,9/3/2024,Yes,No,yes ,150.59
+CMP767 ,CUST6861,holiday promo ,email,mobile ,10/26/2024, yes,,yes ,133.32
+CMP108 ,CUST9481,New Product Launch,email,Mobile,5/29/2024,,,Yes,159.4
+CMP305 ,CUST4297, summer sale,EMAIL ,mobile ,8/4/2024,no ,,yes ,143.13
+CMP443 ,CUST5909,Black Friday,EMAIL ,mobile ,10/23/2024,no ,Yes, no,316.42
+CMP754 ,CUST4654, new product launch ,email,desktop,4/22/2024,No,no,yes ,68.98
+CMP288 ,CUST1110,Holiday  Promo,Email,Mobile,7/11/2024,Yes,,Yes,77.52
+CMP299 ,CUST6896,Summer Sale,Email,mobile ,3/13/2024, yes,No,No,70.15
+CMP447 ,CUST5029,SUMMER SALE,email,Mobile,5/14/2024, yes,Yes,Yes,75.56
+CMP770 ,CUST2818,Holiday  Promo,email,Desktop,12/12/2024,No, yes ,yes ,69.01
+CMP639 ,CUST8106, new product launch ,Email,Mobile,12/4/2024,No,No,No,215.12
+CMP483 ,CUST6209,New Product Launch, Email,Tablet,9/29/2024,Yes,,,233.64
+CMP401 ,CUST3434,Holiday  Promo,email,Mobile,4/6/2024,No,,,74.34
+CMP183 ,CUST8711,New product launch,Email,mobile ,9/7/2024,no ,,yes ,53.41
+CMP283 ,CUST6272, new product launch ,EMAIL ,Moble,9/12/2024,no ,no,yes ,157.71
+CMP909 ,CUST1599,Holiday Promo,email,mobile ,10/24/2024,No,no,No,75.82
+CMP486 ,CUST3575,Holiday  Promo,EMAIL ,Moble,6/5/2024,No,Yes,yes ,170.63
+CMP335 ,CUST1674,Black friday,EMAIL ,desktop,8/15/2024,no ,no, no,136.23
+CMP424 ,CUST5473,Black Friday,Email,mobile ,7/7/2024,No, yes ,Yes,0
+CMP401 ,CUST9220, black friday,Email,tablet ,7/2/2024,No,Yes,Yes,243.8
+CMP659 ,CUST4281,Holiday  Promo,email,Tablet,2/6/2024, yes, yes ,yes ,263.67
+CMP241 ,CUST9898,holiday promo ,Email,tablet ,4/7/2024, yes, yes , no,70.98
+CMP875 ,CUST1194,Black friday,email,tablet ,7/26/2024,No,No,No,88.98
+CMP701 ,CUST8679, new product launch , Email,Desktop,8/30/2024, yes,No, no,142.87
+CMP549 ,CUST8372, black friday,Email,Desktop,12/23/2024,,No,yes ,146.76
+CMP774 ,CUST6810,Holiday  Promo,email,desktop,1/5/2024,no ,,yes ,172.68
+CMP681 ,CUST1527,SUMMER SALE,email,Desktop,6/15/2024,no ,No, no,280.82
+CMP292 ,CUST8778, summer sale,EMAIL ,Moble,2/2/2024, yes,Yes,No,105.84
+CMP281 ,CUST1525, new product launch , Email,Mobile,2/23/2024,No,Yes, no,56.14
+CMP398 ,CUST9591, summer sale, Email,Mobile,5/25/2024,,Yes,No,9.65
+CMP520 ,CUST7407,SUMMER SALE,Email,mobile ,6/16/2024,no ,no,Yes,61.53
+CMP986 ,CUST4382,SUMMER SALE,email,Desktop,7/18/2024,no ,No,,117.35
+CMP701 ,CUST4325, black friday, Email,Desktop,10/21/2024,Yes,No, no,263.56
+CMP719 ,CUST5044, black friday,EMAIL ,Moble,2/2/2024,no ,no,,78.59
+CMP394 ,CUST8476,Holiday  Promo,EMAIL ,desktop,1/21/2024,no ,No,No,137.9
+CMP568 ,CUST7302,New product launch,email,Tablet,11/12/2024,no ,Yes,No,118.69
+CMP743 ,CUST9810,holiday promo ,Email,Tablet,3/21/2024,no ,no,,215.07
+CMP178 ,CUST2723, black friday,EMAIL ,desktop,3/3/2024,No, yes ,No,322.15
+CMP127 ,CUST2199,New product launch, Email,desktop,9/16/2024,no ,No, no,
+CMP217 ,CUST3236,Holiday  Promo, Email,desktop,1/20/2024,Yes,Yes,,
+CMP548 ,CUST3297,Black friday,EMAIL ,tablet ,12/2/2024,No,Yes,,203.53
+CMP227 ,CUST9759, new product launch , Email,mobile ,2/21/2024,Yes, yes ,No,174.55
+CMP321 ,CUST1564,New product launch,email,desktop,8/13/2024,,Yes, no,267.74
+CMP153 ,CUST1076,Summer Sale, Email,tablet ,12/19/2024,No, yes ,No,166.71
+CMP531 ,CUST1457,Summer Sale,EMAIL ,tablet ,4/12/2024,Yes,No,Yes,91.26
+CMP271 ,CUST1721,Black Friday,Email,tablet ,12/6/2024, yes,,No,167.25
+CMP654 ,CUST7472,Black Friday,Email,mobile ,11/15/2024,Yes, yes ,yes ,208.7
+CMP769 ,CUST6181,Summer Sale, Email,mobile ,3/29/2024,No,Yes,yes ,
+CMP144 ,CUST2103,Holiday Promo, Email,Desktop,11/28/2024,Yes,,,160.58
+CMP197 ,CUST6314,New product launch, Email,Tablet,3/28/2024, yes,No,yes ,205.33
+CMP443 ,CUST1289,New Product Launch, Email,desktop,12/7/2024,No,,,213.54
+CMP338 ,CUST1347,New Product Launch,Email,Desktop,12/26/2024,no ,No,,230.57
+CMP483 ,CUST9171,holiday promo ,email,mobile ,2/10/2024,No,Yes,No,171.9
+CMP554 ,CUST6385,SUMMER SALE,EMAIL ,Desktop,11/2/2024,,no,yes ,106.63
+CMP850 ,CUST6427,Holiday  Promo,email,mobile ,1/13/2024,Yes,No,No,131.74
+CMP633 ,CUST6269,SUMMER SALE, Email,Tablet,11/7/2024,Yes,no,Yes,216.52
+CMP244 ,CUST4345,SUMMER SALE,Email,mobile ,4/8/2024,No,No,,54.65
+CMP578 ,CUST6103,SUMMER SALE,email,mobile ,2/10/2024,No,,No,149.49
+CMP559 ,CUST4299,holiday promo , Email,Mobile,6/4/2024,no ,no,No,88.53
+CMP617 ,CUST8101,SUMMER SALE, Email,Mobile,8/29/2024,no ,Yes,yes ,122.3
+CMP666 ,CUST3878,holiday promo , Email,desktop,10/31/2024,no , yes , no,222.28
+CMP173 ,CUST6459,SUMMER SALE, Email,mobile ,10/14/2024,No,Yes,Yes,135.29
+CMP483 ,CUST9051,Black Friday, Email,desktop,9/13/2024,no ,no,yes ,123.71
+CMP172 ,CUST7697,Summer Sale,Email,desktop,11/24/2024,No,no,yes ,11.21
+CMP600 ,CUST7032, new product launch ,Email,Tablet,6/27/2024,no ,No,No,179.7
+CMP932 ,CUST6921,New product launch,Email,Tablet,9/1/2024, yes,, no,
+CMP353 ,CUST3644,Summer Sale,Email,tablet ,12/14/2024,no ,no,,293.06
+CMP293 ,CUST7929,SUMMER SALE, Email,Desktop,2/11/2024,,, no,95.38
+CMP521 ,CUST2456, summer sale,EMAIL ,tablet ,10/27/2024, yes,No, no,137.53
+CMP272 ,CUST9056,Summer Sale,Email,Mobile,12/23/2024,,no,yes ,139.95
+CMP483 ,CUST4053, new product launch ,email,mobile ,8/8/2024,No,,Yes,246.2
+CMP317 ,CUST4041,Holiday Promo,Email,Tablet,8/18/2024,No, yes , no,112.38
+CMP739 ,CUST2789,New product launch,email,Mobile,8/13/2024,Yes,no,Yes,142.32
+CMP130 ,CUST4846,Black friday, Email,Tablet,5/21/2024,Yes,Yes,yes ,168.63
+CMP908 ,CUST1685, summer sale,email,Moble,1/4/2024,no ,,,134.93
+CMP584 ,CUST6521,New Product Launch, Email,Desktop,5/16/2024, yes, yes ,No,84.29
+CMP487 ,CUST1937,Holiday  Promo,EMAIL ,tablet ,7/3/2024,Yes,no, no,135.53
+CMP225 ,CUST9693,holiday promo ,email,Desktop,3/12/2024,,no,,
+CMP103 ,CUST6278,Summer Sale,EMAIL ,tablet ,7/30/2024, yes,no,No,37.88
+CMP856 ,CUST2333,Holiday  Promo, Email,desktop,11/6/2024,no , yes ,,130.64
+CMP990 ,CUST9520,New Product Launch,Email,mobile ,4/9/2024,Yes, yes ,,63.99
+CMP556 ,CUST2895,Black friday,email,mobile ,8/27/2024,No,Yes,Yes,215.6
+CMP129 ,CUST3625,Holiday  Promo, Email,tablet ,8/10/2024,No, yes , no,0
+CMP239 ,CUST9757,New product launch, Email,Mobile,12/9/2024,No,,,75.29
+CMP486 ,CUST7252,New product launch, Email,tablet ,2/3/2024,No, yes ,Yes,150.18
+CMP191 ,CUST6574, new product launch ,email,Tablet,5/28/2024,, yes ,No,245.24
+CMP690 ,CUST1027,holiday promo ,Email,Moble,6/9/2024,No,no, no,114.74
+CMP916 ,CUST3069, black friday,email,Mobile,6/12/2024,Yes,, no,75.58
+CMP403 ,CUST4586,Black friday, Email,mobile ,6/10/2024,No,Yes,,270.49
+CMP805 ,CUST3022,holiday promo , Email,Tablet,6/12/2024,no , yes , no,4.16
+CMP441 ,CUST3501, new product launch ,email,tablet ,1/31/2024,Yes,No, no,0
+CMP934 ,CUST3608,Summer Sale, Email,Desktop,7/19/2024,no , yes , no,155.2
+CMP844 ,CUST5637,holiday promo ,email,Tablet,7/19/2024,no ,Yes,No,79.84
+CMP694 ,CUST1886, new product launch ,EMAIL ,desktop,6/14/2024,,No, no,38.3
+CMP248 ,CUST4436,Holiday Promo,email,Tablet,12/22/2024, yes,,Yes,176.67
+CMP979 ,CUST3418,Black Friday, Email,Tablet,12/13/2024,Yes,Yes,yes ,139.5
+CMP153 ,CUST2922, black friday,EMAIL ,Moble,8/30/2024,No,no,No,74.87
+CMP506 ,CUST9005,holiday promo ,email,Tablet,1/18/2024,Yes,no, no,17.58
+CMP555 ,CUST7018,Summer Sale,Email,Mobile,5/20/2024,Yes,no,,189.8
+CMP686 ,CUST8856,holiday promo ,Email,tablet ,4/25/2024,no ,no, no,
+CMP201 ,CUST6328, summer sale,email,desktop,6/1/2024,no ,,,112.07
+CMP631 ,CUST9830, new product launch ,Email,tablet ,9/28/2024,Yes,No,,267.73
+CMP668 ,CUST8327,Holiday  Promo,Email,Mobile,12/21/2024,,No,No,34.39
+CMP971 ,CUST1573, summer sale,Email,Moble,2/14/2024, yes,,No,0
+CMP773 ,CUST1001,Holiday Promo,EMAIL ,Mobile,8/4/2024, yes,, no,64.65
+CMP811 ,CUST6127, black friday,EMAIL ,Moble,3/12/2024,,No,Yes,116.35
+CMP342 ,CUST1601,Holiday Promo,email,Desktop,12/5/2024,No,,,139.47
+CMP384 ,CUST3105, new product launch , Email,Mobile,4/20/2024, yes, yes , no,100.7
+CMP509 ,CUST8472, summer sale,EMAIL ,Tablet,11/28/2024,No,,No,148.16
+CMP375 ,CUST4156, new product launch ,EMAIL ,Moble,2/6/2024,,No, no,19.88
+CMP906 ,CUST8104,Black Friday,Email,Moble,3/19/2024,Yes, yes ,Yes,235.5
+CMP661 ,CUST7664, summer sale,EMAIL ,Tablet,9/29/2024, yes, yes ,yes ,113.43
+CMP331 ,CUST5483,Summer Sale,Email,desktop,3/15/2024,no ,Yes,Yes,209.38
+CMP996 ,CUST6022,New Product Launch, Email,Mobile,3/30/2024, yes,,yes ,147.42
+CMP201 ,CUST1785,SUMMER SALE,EMAIL ,tablet ,10/9/2024,No, yes ,,156.54
+CMP970 ,CUST7597,Black friday,email,Desktop,10/9/2024,,No,No,165.58
+CMP853 ,CUST5380,Summer Sale,EMAIL ,Tablet,3/14/2024,,no, no,155.82
+CMP462 ,CUST8678, black friday,EMAIL ,Desktop,4/3/2024,,No,yes ,171.42
+CMP412 ,CUST7660,Holiday  Promo,Email,Tablet,11/21/2024,Yes,No,Yes,226.33
+CMP186 ,CUST5683, black friday, Email,tablet ,3/25/2024,no ,,No,135.72
+CMP801 ,CUST9722, new product launch ,Email,desktop,9/2/2024,,No,Yes,176.72
+CMP647 ,CUST6653,Holiday Promo,Email,Moble,12/31/2024,No,,No,112.82
+CMP959 ,CUST3184, black friday,EMAIL ,Mobile,3/30/2024,no ,no,No,235.21
+CMP446 ,CUST5092, black friday,Email,Desktop,7/10/2024,no , yes ,yes ,65.89
+CMP746 ,CUST7449,Holiday Promo,EMAIL ,Tablet,4/19/2024,Yes,no,,
+CMP106 ,CUST8542,Holiday  Promo,EMAIL ,Desktop,9/6/2024,Yes, yes ,No,116.79
+CMP203 ,CUST8058,Black friday,email,Mobile,7/24/2024,,No, no,5.54
+CMP107 ,CUST3549,New product launch,EMAIL ,mobile ,3/4/2024,no , yes ,yes ,130.25
+CMP286 ,CUST9788,holiday promo ,Email,desktop,7/5/2024,No,No,yes ,65.52
+CMP991 ,CUST4251, summer sale,email,Desktop,8/10/2024,No,no, no,
+CMP264 ,CUST4260,Black friday,EMAIL ,Mobile,6/18/2024,no ,, no,67.79
+CMP432 ,CUST7551, black friday, Email,mobile ,12/15/2024,Yes,Yes,No,84.31
+CMP113 ,CUST4874,Summer Sale,EMAIL ,desktop,3/20/2024,no ,no,yes ,0
+CMP879 ,CUST8027,Holiday Promo,email,Tablet,5/24/2024,No,No,yes ,83.82
+CMP817 ,CUST5052,New product launch, Email,mobile ,2/28/2024,Yes,,,0
+CMP975 ,CUST3436,Holiday Promo,Email,mobile ,4/2/2024,Yes, yes ,No,0
+CMP731 ,CUST4270, summer sale,Email,desktop,3/15/2024,, yes ,No,180.83
+CMP590 ,CUST2005, black friday, Email,Tablet,4/23/2024, yes,Yes,yes ,182.86
+CMP459 ,CUST7849,Holiday Promo,EMAIL ,Mobile,7/5/2024,Yes,Yes,Yes,154.04
+CMP317 ,CUST5674,Black friday,EMAIL ,Moble,12/4/2024,no ,No,yes ,42.64
+CMP411 ,CUST2827, summer sale,Email,Tablet,9/8/2024,No, yes ,yes ,116.18
+CMP703 ,CUST9664,New Product Launch,EMAIL ,mobile ,7/4/2024,No,, no,119.71
+CMP233 ,CUST2971,Summer Sale,email,mobile ,2/14/2024,Yes,Yes,,27.33
+CMP842 ,CUST8769,Holiday Promo,email,Mobile,11/12/2024,No,no,,240.27
+CMP998 ,CUST6690,Holiday  Promo, Email,Tablet,12/30/2024,no ,Yes, no,190.19
+CMP615 ,CUST1358,SUMMER SALE,EMAIL ,Tablet,8/2/2024, yes,Yes,,102.32
+CMP810 ,CUST4116, new product launch , Email,desktop,2/1/2024,,Yes,No,122.15
+CMP493 ,CUST7393,Black Friday,EMAIL ,mobile ,8/12/2024,Yes,No,,136.67
+CMP109 ,CUST9401,Black friday,EMAIL ,Desktop,4/21/2024, yes, yes ,,0
+CMP146 ,CUST9741,Holiday Promo,EMAIL ,Mobile,3/1/2024, yes,No,yes ,100.23
+CMP354 ,CUST4440, black friday,Email,Mobile,1/27/2024,, yes ,yes ,65.44
+CMP662 ,CUST5326, new product launch ,email,desktop,2/12/2024, yes,Yes,Yes,39.87
+CMP386 ,CUST3895,holiday promo ,Email,Moble,7/1/2024,no , yes ,,97.51
+CMP552 ,CUST4614,Holiday  Promo,EMAIL ,mobile ,10/9/2024,No,no,No,263.81
+CMP590 ,CUST2535,Black friday,email,desktop,8/10/2024,No,No,,171.27
+CMP284 ,CUST5621,Summer Sale,EMAIL ,mobile ,9/8/2024,no ,,No,74.31
+CMP536 ,CUST5018,Black friday, Email,Mobile,2/5/2024,No,Yes,,165.81
+CMP121 ,CUST2802,Summer Sale,Email,mobile ,2/21/2024,Yes, yes ,No,231.95
+CMP911 ,CUST1153, summer sale,EMAIL ,tablet ,11/17/2024,No,No, no,193.97
+CMP935 ,CUST3672,holiday promo ,EMAIL ,desktop,10/15/2024,No,Yes,,124.77
+CMP656 ,CUST3016,Summer Sale,Email,Mobile,12/20/2024, yes,Yes,,68.25
+CMP329 ,CUST1393,Holiday Promo, Email,desktop,7/31/2024, yes, yes ,No,175.86
+CMP832 ,CUST2841,Black friday,email,Mobile,12/16/2024,Yes, yes ,yes ,151.48
+CMP221 ,CUST6906, summer sale,Email,Moble,2/9/2024,No,no,,191.62
+CMP795 ,CUST7967,SUMMER SALE,EMAIL ,Moble,6/20/2024, yes,Yes,yes ,170.81
+CMP371 ,CUST2251,Summer Sale,email,tablet ,9/12/2024, yes,No, no,203.96
+CMP904 ,CUST8838, summer sale,Email,Moble,8/16/2024, yes,No,Yes,77.18
+CMP286 ,CUST7308,Holiday  Promo,EMAIL ,desktop,6/14/2024,no ,no,,225.39
+CMP921 ,CUST5028,Black Friday, Email,Moble,11/21/2024,,, no,135.81
+CMP335 ,CUST7301, summer sale, Email,Moble,9/29/2024,Yes,No,yes ,286.02
+CMP971 ,CUST1281,Holiday  Promo, Email,mobile ,1/2/2024,Yes, yes ,yes ,64.86
+CMP247 ,CUST7898,Holiday Promo,email,tablet ,3/12/2024,Yes,No,Yes,258.88
+CMP486 ,CUST1431, new product launch , Email,Desktop,12/22/2024,Yes,,Yes,135.83
+CMP991 ,CUST3591,Summer Sale,email,Desktop,9/1/2024,Yes,No,Yes,67.89
+CMP933 ,CUST7823,SUMMER SALE,email,desktop,1/7/2024,, yes , no,81.29
+CMP554 ,CUST1216,holiday promo ,Email,mobile ,7/29/2024,Yes,,No,94.37
+CMP505 ,CUST7940,New product launch, Email,Moble,9/14/2024,,,yes ,153.93
+CMP260 ,CUST5453, summer sale, Email,mobile ,12/29/2024,no ,,Yes,161.83
+CMP942 ,CUST2264, new product launch , Email,desktop,4/22/2024,no ,no,No,74.1
+CMP762 ,CUST7950,Holiday Promo,EMAIL ,Mobile,1/28/2024,Yes, yes ,,118.05
+CMP388 ,CUST3666, black friday,Email,Mobile,6/20/2024,,Yes,yes ,
+CMP753 ,CUST1530,Holiday Promo,EMAIL ,Mobile,4/6/2024,,no,Yes,258.2
+CMP416 ,CUST1138,Holiday  Promo,EMAIL ,desktop,1/25/2024,No, yes , no,154.91
+CMP819 ,CUST2595,Holiday  Promo, Email,Tablet,7/1/2024,Yes,,No,123.04
+CMP491 ,CUST8814,New Product Launch,Email,Desktop,1/13/2024,No,no,Yes,129.6
+CMP835 ,CUST4794,Holiday Promo,email,tablet ,11/16/2024,,,,169.08
+CMP887 ,CUST6593,Black friday,email,Desktop,11/29/2024, yes,, no,38.18
+CMP892 ,CUST7350,Holiday Promo,email,Moble,1/21/2024,No,, no,99.41
+CMP246 ,CUST6071, black friday,Email,desktop,2/19/2024,no , yes ,No,0
+CMP386 ,CUST6952,Holiday  Promo,Email,Mobile,5/31/2024,no , yes , no,151.94
+CMP552 ,CUST3301, summer sale, Email,Mobile,5/11/2024, yes,no, no,171.78
+CMP232 ,CUST8222,Holiday  Promo,EMAIL ,Desktop,11/13/2024,no ,, no,81.35
+CMP798 ,CUST1699,New Product Launch,Email,Tablet,5/14/2024,,Yes,No,245.92
+CMP262 ,CUST7541, summer sale,email,desktop,2/23/2024,Yes, yes , no,21.94
+CMP937 ,CUST8616, summer sale,Email,mobile ,8/27/2024,no ,no,No,2.85
+CMP424 ,CUST6610,New Product Launch, Email,mobile ,7/24/2024,Yes, yes , no,137.96
+CMP581 ,CUST3384,New product launch,email,Desktop,1/20/2024,,no,Yes,203.77
+CMP584 ,CUST4496,Summer Sale,email,tablet ,7/4/2024,no , yes ,yes ,254.71
+CMP245 ,CUST2134,holiday promo , Email,Mobile,11/21/2024,no ,no,,83.29
+CMP365 ,CUST4015,Summer Sale,Email,desktop,4/19/2024, yes,No,No,206.29
+CMP593 ,CUST8790, black friday,email,Tablet,6/27/2024, yes,, no,116.92
+CMP711 ,CUST4253, summer sale,email,Desktop,1/6/2024,Yes,No, no,106.19
+CMP424 ,CUST2861,New product launch, Email,Desktop,3/16/2024,Yes,no,No,190.69
+CMP692 ,CUST2596,Summer Sale,email,Tablet,11/20/2024,no ,,No,172.19
+CMP456 ,CUST4436,Holiday Promo,Email,Desktop,11/3/2024,Yes, yes ,yes ,0
+CMP227 ,CUST9177,New product launch, Email,desktop,9/14/2024, yes, yes ,,238.12
+CMP883 ,CUST6502, summer sale,email,desktop,8/6/2024, yes,No,,230.41
+CMP546 ,CUST7251,holiday promo , Email,Tablet,10/31/2024,,Yes,Yes,69.95
+CMP116 ,CUST7738, summer sale, Email,Tablet,2/23/2024,Yes,no,,151.66
+CMP783 ,CUST5749,Black Friday,email,mobile ,10/24/2024,,no,Yes,159.52
+CMP227 ,CUST6744,Black friday, Email,tablet ,4/10/2024,Yes, yes ,No,140.85
+CMP774 ,CUST5333,holiday promo , Email,Tablet,9/16/2024,Yes,no,Yes,75.98
+CMP909 ,CUST7134, black friday,EMAIL ,Desktop,1/8/2024,,no,No,
+CMP297 ,CUST7444,Summer Sale, Email,mobile ,10/11/2024,No,no,yes ,117.96
+CMP336 ,CUST2631, new product launch ,email,Moble,9/21/2024,,no,yes ,213.82
+CMP430 ,CUST4338, summer sale,Email,Mobile,10/10/2024,Yes,,No,163.49
+CMP656 ,CUST2290,New Product Launch, Email,Mobile,1/15/2024,no , yes ,No,90.35
+CMP327 ,CUST5864,Holiday Promo,email,Tablet,5/2/2024, yes,Yes,yes ,181.74
+CMP742 ,CUST1379,New product launch,Email,Mobile,2/12/2024,,Yes,Yes,0
+CMP284 ,CUST2520, summer sale, Email,tablet ,3/13/2024,No,no,Yes,211.9
+CMP523 ,CUST2205,Black friday,Email,mobile ,9/8/2024,no , yes , no,0
+CMP110 ,CUST3927,New product launch,Email,Mobile,3/23/2024, yes,no,,91
+CMP262 ,CUST9548, new product launch ,EMAIL ,Mobile,11/3/2024,,Yes,,30.43
+CMP879 ,CUST3496,Holiday Promo,EMAIL ,Mobile,1/12/2024,Yes, yes ,No,16.43
+CMP808 ,CUST3073,holiday promo ,EMAIL ,desktop,4/22/2024,Yes, yes ,,212.87
+CMP863 ,CUST9123,Black Friday, Email,mobile ,11/29/2024,No,No,yes ,82.58
+CMP912 ,CUST6105,SUMMER SALE,email,Tablet,7/20/2024,no ,no, no,147.72
+CMP935 ,CUST6222,New Product Launch,Email,Moble,11/1/2024,no ,No,,116.25
+CMP747 ,CUST2052,Black friday,email,Mobile,6/29/2024, yes,, no,158.16
+CMP998 ,CUST9691,Holiday  Promo, Email,Mobile,5/30/2024,No, yes , no,126.15
+CMP174 ,CUST4525,New product launch,EMAIL ,Desktop,4/5/2024, yes,Yes,Yes,17.36
+CMP834 ,CUST6388,Holiday Promo, Email,Moble,6/12/2024,No,,Yes,199.7
+CMP317 ,CUST9638,Holiday Promo,Email,Moble,7/16/2024,,Yes,,80.5
+CMP874 ,CUST8130,Holiday  Promo,EMAIL ,mobile ,11/26/2024,Yes,no, no,0
+CMP531 ,CUST2953, summer sale, Email,mobile ,1/24/2024,,no,No,85.75
+CMP118 ,CUST1076,Black friday,EMAIL ,mobile ,10/22/2024,Yes,,,
+CMP116 ,CUST2137,Black friday,Email,tablet ,1/21/2024, yes, yes ,yes ,188.02
+CMP669 ,CUST6131,Black friday,Email,desktop,6/26/2024,no ,no,Yes,92.11
+CMP205 ,CUST1479,Holiday Promo,Email,tablet ,7/10/2024,No,Yes,yes ,92.06
+CMP331 ,CUST3788, summer sale,email,Tablet,12/18/2024,,Yes,Yes,94.27
+CMP144 ,CUST2815,Summer Sale,EMAIL ,Mobile,5/12/2024, yes,, no,286.14
+CMP241 ,CUST8548, summer sale,email,Desktop,5/18/2024,,no, no,150.55
+CMP640 ,CUST4940,New Product Launch, Email,Tablet,12/8/2024, yes, yes , no,154.4
+CMP884 ,CUST5853, new product launch ,Email,Desktop,4/25/2024,No,No,Yes,202.42
+CMP161 ,CUST4481,Summer Sale,email,desktop,2/8/2024,No,no,Yes,139.1
+CMP704 ,CUST9644, black friday,EMAIL ,tablet ,6/23/2024,no ,No,,99.28
+CMP324 ,CUST6957,Black Friday, Email,tablet ,2/24/2024,No,no,No,104.29
+CMP268 ,CUST6032,New Product Launch,Email,mobile ,2/5/2024,Yes,Yes,No,114.27
+CMP291 ,CUST5370,Summer Sale, Email,Tablet,1/9/2024,no , yes ,yes ,117.02
+CMP186 ,CUST6806,Black Friday,email,mobile ,3/1/2024,,no,,178.21
+CMP379 ,CUST7058, summer sale,Email,Tablet,6/19/2024,no ,No,yes ,124.16
+CMP708 ,CUST5520, black friday, Email,Moble,4/6/2024,Yes,Yes,No,178.61
+CMP154 ,CUST1584,New Product Launch,EMAIL ,mobile ,2/26/2024,,Yes,yes ,113.54
+CMP816 ,CUST7628,Black Friday, Email,Mobile,4/25/2024, yes,no,No,126.29
+CMP455 ,CUST5718, new product launch ,EMAIL ,Tablet,3/28/2024,Yes,No,,0
+CMP856 ,CUST6002, new product launch ,email,mobile ,12/24/2024,Yes,No,No,193.31
+CMP245 ,CUST1208,New product launch, Email,desktop,6/19/2024,Yes,No,yes ,147.72
+CMP878 ,CUST1159,New Product Launch,EMAIL ,desktop,2/9/2024,no ,No, no,199.84
+CMP117 ,CUST5762,Holiday Promo,email,tablet ,2/26/2024,Yes,Yes,yes ,
+CMP852 ,CUST6747, black friday,EMAIL ,Tablet,6/20/2024, yes, yes , no,287.07
+CMP408 ,CUST6467, black friday, Email,Mobile,1/7/2024,,Yes,No,108.83
+CMP775 ,CUST3320,Holiday  Promo, Email,Mobile,7/29/2024,,no,yes ,208.65
+CMP298 ,CUST7189,New product launch,Email,Desktop,4/15/2024,no ,,No,36.81
+CMP457 ,CUST6426,Black Friday, Email,Desktop,5/15/2024,No,Yes,,169.02
+CMP954 ,CUST3014,Black Friday, Email,Moble,9/23/2024, yes,Yes,Yes,35.73
+CMP250 ,CUST8640,New product launch,email,Moble,9/12/2024,,,No,70.1
+CMP166 ,CUST5828,Summer Sale, Email,Mobile,6/4/2024, yes,,Yes,273.12
+CMP105 ,CUST8050,Holiday  Promo,Email,Mobile,1/28/2024,No, yes ,yes ,104.75
+CMP887 ,CUST3540, summer sale,EMAIL ,mobile ,9/14/2024,no ,,Yes,137.39
+CMP584 ,CUST6810,Holiday Promo, Email,desktop,5/28/2024,Yes, yes ,yes ,189.61
+CMP677 ,CUST8140,New product launch,EMAIL ,tablet ,11/1/2024,No, yes ,No,159.65
+CMP408 ,CUST5997, summer sale,EMAIL ,Moble,8/1/2024,,No, no,132.03
+CMP639 ,CUST8240, new product launch ,EMAIL ,Moble,8/11/2024,no , yes , no,149.2
+CMP520 ,CUST8557,Summer Sale,Email,tablet ,8/26/2024,Yes,No,,312.27
+CMP694 ,CUST9391,Holiday  Promo,email,Moble,6/3/2024,, yes ,Yes,115.39
+CMP786 ,CUST1097,Black friday, Email,tablet ,7/20/2024,Yes,Yes,yes ,136.09
+CMP708 ,CUST2595,holiday promo , Email,Tablet,11/28/2024,Yes,Yes,,204.05
+CMP834 ,CUST1868, new product launch ,email,Moble,12/11/2024,,no,No,208.44
+CMP755 ,CUST3535,holiday promo ,EMAIL ,Tablet,4/24/2024,no ,,No,214.96
+CMP256 ,CUST2983, black friday,Email,mobile ,2/28/2024,Yes,no,Yes,171.1
+CMP156 ,CUST2995,holiday promo , Email,desktop,9/15/2024,No,,yes ,28.56
+CMP979 ,CUST3018,Black Friday,email,Tablet,11/9/2024,No,No,No,250.67
+CMP816 ,CUST9956,Holiday Promo, Email,desktop,3/28/2024, yes,Yes,,28.29
+CMP381 ,CUST7409,Black Friday,Email,desktop,9/9/2024,no ,No,Yes,144.21
+CMP677 ,CUST7380,Summer Sale,EMAIL ,Mobile,5/25/2024,Yes, yes ,No,59.66
+CMP569 ,CUST5536,Summer Sale,email,Desktop,8/27/2024,,No,yes ,114.87
+CMP625 ,CUST2028,SUMMER SALE,email,Desktop,12/27/2024,no ,No,yes ,146.3
+CMP503 ,CUST2117,New product launch, Email,desktop,12/3/2024,,No,,145.71
+CMP894 ,CUST9608,holiday promo ,email,Tablet,12/28/2024,,,yes ,153.75
+CMP513 ,CUST2107,Summer Sale,Email,tablet ,10/26/2024,No,Yes,Yes,249.1
+CMP587 ,CUST6302,Holiday Promo,email,Mobile,9/12/2024,no ,no,Yes,156.28
+CMP217 ,CUST1613, new product launch ,Email,desktop,2/1/2024,,Yes,No,100.47
+CMP560 ,CUST7187,SUMMER SALE,email,mobile ,6/13/2024,no ,no,yes ,197.13
+CMP265 ,CUST8111, black friday,email,Mobile,4/25/2024,Yes,No,Yes,215.16
+CMP468 ,CUST7685,New Product Launch,Email,Desktop,3/12/2024,,no,No,21.79
+CMP585 ,CUST9205,Holiday  Promo,EMAIL ,Moble,4/16/2024,No,Yes, no,167.79
+CMP994 ,CUST2161,New Product Launch,Email,mobile ,8/6/2024, yes,Yes,Yes,176.09
+CMP715 ,CUST9856,Holiday  Promo,Email,mobile ,9/12/2024, yes,no,yes ,96.19
+CMP261 ,CUST5719, summer sale,email,tablet ,2/4/2024,,,yes ,230.06
+CMP659 ,CUST2816,New Product Launch, Email,Desktop,7/23/2024,Yes, yes , no,108
+CMP883 ,CUST1973,SUMMER SALE,email,Moble,5/13/2024,Yes,No, no,130.05
+CMP677 ,CUST1579,Holiday  Promo,Email,desktop,2/7/2024,,no,No,106.15
+CMP206 ,CUST1583,Black friday,email,Tablet,5/18/2024,no ,no,yes ,121.25
+CMP156 ,CUST1431,Holiday Promo, Email,Tablet,4/26/2024,,no,Yes,
+CMP812 ,CUST3051,Black Friday, Email,Moble,7/17/2024,Yes,no,Yes,4.8
+CMP476 ,CUST6763,Holiday Promo,EMAIL ,desktop,11/11/2024,No,No,Yes,247.56
+CMP522 ,CUST9785,New Product Launch,Email,tablet ,10/28/2024,No,Yes,Yes,
+CMP284 ,CUST5630,Summer Sale,EMAIL ,Desktop,1/30/2024, yes,No,,40.69
+CMP225 ,CUST2258, summer sale,EMAIL ,Moble,7/22/2024,no , yes ,No,0
+CMP475 ,CUST5795,New product launch,email,Moble,8/15/2024, yes,,,68.88
+CMP520 ,CUST8966,holiday promo ,Email,mobile ,2/23/2024,,No,yes ,14.15
+CMP481 ,CUST3325,Summer Sale,email,Tablet,10/10/2024,no ,Yes,Yes,251.36
+CMP376 ,CUST5554,New Product Launch, Email,Desktop,9/12/2024,Yes, yes ,,200.79
+CMP983 ,CUST7268,Black Friday, Email,Mobile,7/15/2024,No,no,No,64.95
+CMP153 ,CUST5999,Summer Sale,EMAIL ,Mobile,12/3/2024, yes,,No,300.19
+CMP949 ,CUST8111,Black Friday,Email,tablet ,1/15/2024,,no,yes ,198.54
+CMP686 ,CUST9501,holiday promo ,email,desktop,9/30/2024,No,No,Yes,94.01
+CMP380 ,CUST2401,Holiday Promo,EMAIL ,Desktop,5/23/2024,Yes,,yes ,0
+CMP356 ,CUST1202, summer sale,EMAIL ,Moble,7/4/2024, yes,No, no,303.28
+CMP109 ,CUST8642,Summer Sale,EMAIL ,desktop,8/24/2024,No,no,Yes,
+CMP383 ,CUST6145, summer sale, Email,mobile ,10/23/2024, yes, yes , no,0
+CMP278 ,CUST3406,New Product Launch,Email,mobile ,3/6/2024,Yes,No,,201.81
+CMP142 ,CUST4734,Summer Sale,EMAIL ,Desktop,8/13/2024, yes,,Yes,315.18
+CMP211 ,CUST2269, black friday, Email,Mobile,11/3/2024,Yes,No,No,230.74
+CMP949 ,CUST7815, summer sale, Email,Desktop,6/15/2024,Yes, yes ,,165.11
+CMP517 ,CUST7139,Black friday,EMAIL ,Moble,7/3/2024,No, yes ,Yes,167.58
+CMP705 ,CUST1418, summer sale,email,tablet ,5/28/2024,,,,188.27
+CMP320 ,CUST7206,New Product Launch,Email,Tablet,12/30/2024,no ,Yes,Yes,180.71
+CMP688 ,CUST9982, new product launch , Email,Moble,4/24/2024,,Yes,,142.5
+CMP632 ,CUST8225,Holiday  Promo,EMAIL ,mobile ,8/29/2024,No, yes ,No,128.34
+CMP422 ,CUST2890, new product launch ,email,desktop,7/4/2024, yes,Yes,yes ,114.99
+CMP470 ,CUST8932,New Product Launch,email,desktop,10/13/2024,No,,No,59.68
+CMP517 ,CUST3263,New Product Launch,EMAIL ,tablet ,10/2/2024, yes, yes ,Yes,97.55
+CMP617 ,CUST3431,New Product Launch, Email,Tablet,2/11/2024,No,no,Yes,0
+CMP369 ,CUST8698, new product launch ,Email,mobile ,3/26/2024,no ,Yes,No,112.13
+CMP987 ,CUST9672,Black Friday, Email,Desktop,2/7/2024,no ,,No,40.91
+CMP444 ,CUST6515,New Product Launch,Email,Tablet,12/30/2024,Yes, yes , no,31.71
+CMP858 ,CUST8138,holiday promo , Email,Tablet,7/28/2024,No,,,134.39
+CMP107 ,CUST7060,New product launch, Email,desktop,2/12/2024,no ,No,,231.36
+CMP891 ,CUST2587,Holiday Promo,EMAIL ,desktop,10/28/2024,Yes,,,193.47
+CMP964 ,CUST7990,holiday promo ,EMAIL ,desktop,9/25/2024,No,No,Yes,0
+CMP384 ,CUST6150, summer sale,EMAIL ,Desktop,4/17/2024,Yes, yes ,yes ,40.83
+CMP273 ,CUST5726,holiday promo ,Email,mobile ,9/6/2024,No,Yes,No,195.26
+CMP872 ,CUST3766,Summer Sale,Email,Moble,10/9/2024,No,Yes, no,41.4
+CMP388 ,CUST7987, new product launch , Email,Moble,1/14/2024,no , yes ,Yes,102.03
+CMP222 ,CUST8281,Black Friday, Email,Desktop,12/27/2024,No, yes ,Yes,164
+CMP862 ,CUST4644, new product launch ,Email,Desktop,6/30/2024,, yes ,yes ,42.53
+CMP625 ,CUST2213, new product launch ,EMAIL ,Mobile,8/20/2024,Yes,,yes ,128.43
+CMP776 ,CUST1583,New product launch,Email,mobile ,4/7/2024,,no,No,13.28
+CMP581 ,CUST3481,Black friday,email,Tablet,12/10/2024, yes,No,No,71.89
+CMP628 ,CUST4509,Summer Sale, Email,Mobile,11/21/2024,,,No,145.58
+CMP528 ,CUST5310,New Product Launch, Email,Tablet,12/29/2024, yes,no,,0
+CMP998 ,CUST5916,Holiday Promo,EMAIL ,Tablet,12/2/2024,no ,no,,155.24
+CMP402 ,CUST2581,Holiday Promo,Email,tablet ,7/1/2024,no ,no,yes ,118.43
+CMP218 ,CUST3886,Black friday,EMAIL ,Tablet,5/6/2024, yes,no,No,164.2
+CMP984 ,CUST9014,New Product Launch, Email,Tablet,9/4/2024,Yes, yes ,yes ,137.91
+CMP971 ,CUST7701,Summer Sale,EMAIL ,Desktop,9/16/2024,no ,no, no,229.13
+CMP155 ,CUST5396,Black friday,email,Desktop,8/5/2024, yes,no, no,130.02
+CMP270 ,CUST9782,Holiday Promo,Email,Moble,4/23/2024,No,,,85.65
+CMP121 ,CUST7212, summer sale,EMAIL ,Desktop,1/11/2024,Yes,Yes,,129.78
+CMP303 ,CUST3572, black friday, Email,tablet ,4/17/2024, yes,No,yes ,163.46
+CMP666 ,CUST5074,Summer Sale,Email,tablet ,6/18/2024,,Yes,,123.91
+CMP143 ,CUST3571,holiday promo ,EMAIL ,Mobile,7/22/2024,No,Yes,yes ,123.25
+CMP486 ,CUST7565,SUMMER SALE,EMAIL ,tablet ,3/4/2024,Yes,Yes,,63.84
+CMP525 ,CUST1330,Summer Sale,email,Mobile,12/26/2024,No,,yes ,66.97
+CMP861 ,CUST1383,holiday promo ,EMAIL ,desktop,6/14/2024,Yes, yes ,,7.79
+CMP539 ,CUST2524,Holiday Promo, Email,Moble,8/29/2024,no , yes ,,259.97
+CMP117 ,CUST9143, new product launch , Email,Desktop,9/16/2024,Yes,no,No,20.49
+CMP506 ,CUST4802,Black friday,EMAIL ,desktop,10/22/2024, yes, yes ,No,64.57
+CMP197 ,CUST3773,Holiday Promo, Email,Moble,11/18/2024,Yes,No, no,62.53
+CMP635 ,CUST4808,Summer Sale, Email,Desktop,11/11/2024, yes, yes ,No,191.59
+CMP678 ,CUST7660,Summer Sale,EMAIL ,Tablet,1/19/2024,,no,,96.4
+CMP767 ,CUST4862,Holiday  Promo, Email,Tablet,9/12/2024,,,Yes,219.82
+CMP179 ,CUST7155,SUMMER SALE,Email,mobile ,2/23/2024,Yes,No,No,66.12
+CMP216 ,CUST1639,Black Friday, Email,mobile ,8/12/2024,no ,No,,142.32
+CMP403 ,CUST2926,Black Friday,EMAIL ,Tablet,8/2/2024,, yes ,,53.17
+CMP269 ,CUST3318,holiday promo ,email,tablet ,7/9/2024,,,yes ,291.61
+CMP438 ,CUST3217,SUMMER SALE, Email,Mobile,8/29/2024,no ,No,No,24.99
+CMP105 ,CUST6109, new product launch ,email,mobile ,8/28/2024,,no,yes ,144.79
+CMP579 ,CUST3563, summer sale,EMAIL ,Tablet,2/18/2024,No, yes ,Yes,170.7
+CMP940 ,CUST7982,New Product Launch,EMAIL ,Desktop,4/8/2024, yes,,,153.1
+CMP179 ,CUST3497, summer sale,email,Desktop,11/24/2024, yes,,Yes,105.18
+CMP701 ,CUST7274,Holiday  Promo,EMAIL ,tablet ,3/5/2024,No,No,Yes,109.61
+CMP193 ,CUST3400,SUMMER SALE,email,desktop,4/28/2024, yes,Yes,Yes,123.5
+CMP550 ,CUST7969,New product launch, Email,Desktop,3/11/2024,,Yes,No,108.24
+CMP892 ,CUST7316, new product launch , Email,Desktop,10/13/2024,, yes ,,197.11
+CMP962 ,CUST4504,SUMMER SALE,EMAIL ,Tablet,2/10/2024,no ,, no,296.84
+CMP356 ,CUST2970, black friday, Email,Tablet,9/7/2024,No,Yes,yes ,75.4
+CMP454 ,CUST7948,Holiday Promo,email,desktop,8/26/2024,No,Yes,No,10.42
+CMP299 ,CUST1091,New Product Launch,EMAIL ,Desktop,8/14/2024, yes, yes ,,112.94
+CMP134 ,CUST5504,New product launch, Email,desktop,1/7/2024, yes, yes ,Yes,326.38
+CMP983 ,CUST8713,New Product Launch, Email,desktop,10/19/2024,no ,,Yes,55.71
+CMP727 ,CUST3509, new product launch ,email,tablet ,1/20/2024,Yes,no,Yes,251.13
+CMP827 ,CUST2021,Holiday  Promo,Email,tablet ,1/29/2024, yes,No,,254.22
+CMP788 ,CUST6185, new product launch ,email,Moble,1/9/2024,,Yes, no,75.71
+CMP785 ,CUST2007, summer sale,email,tablet ,8/1/2024,No, yes ,Yes,165.52
+CMP382 ,CUST4255, new product launch , Email,mobile ,3/29/2024, yes, yes ,,250.27
+CMP577 ,CUST2410,New Product Launch, Email,Mobile,6/28/2024,Yes,No,Yes,89.67
+CMP741 ,CUST1329,SUMMER SALE,Email,mobile ,4/5/2024,no ,Yes,No,103.71
+CMP757 ,CUST4130, new product launch ,email,Desktop,6/6/2024,no , yes ,No,73.47
+CMP423 ,CUST7782,Holiday Promo,email,Desktop,5/22/2024,No, yes ,yes ,38.82
+CMP194 ,CUST9026,Holiday  Promo,EMAIL ,Desktop,12/23/2024,no ,No,Yes,68.06
+CMP650 ,CUST4451, new product launch , Email,Desktop,10/26/2024,No, yes ,,22.08
+CMP913 ,CUST5406, summer sale,email,Desktop,10/9/2024,no , yes ,Yes,122.73
+CMP746 ,CUST4054,Black friday,email,desktop,2/29/2024, yes,, no,58.4
+CMP134 ,CUST6281, new product launch ,Email,Tablet,12/3/2024,Yes,No, no,138.7
+CMP763 ,CUST2641,SUMMER SALE,EMAIL ,Desktop,8/31/2024,no ,,No,0
+CMP731 ,CUST8478,New Product Launch, Email,Tablet,1/12/2024,no ,No,yes ,146.47
+CMP594 ,CUST7572,holiday promo ,Email,mobile ,7/10/2024,Yes,no, no,186.68
+CMP510 ,CUST1467,SUMMER SALE,email,Desktop,5/17/2024,No,,No,0
+CMP907 ,CUST1881, summer sale,EMAIL ,tablet ,3/7/2024, yes,no, no,149.92
+CMP774 ,CUST3416,Holiday Promo,email,Desktop,3/25/2024,Yes,No,No,218.21
+CMP841 ,CUST5009,SUMMER SALE,EMAIL ,Mobile,4/14/2024,No, yes ,Yes,23.23
+CMP503 ,CUST4481,Black friday, Email,tablet ,8/29/2024,No,Yes, no,253.81
+CMP236 ,CUST7551,Holiday  Promo,EMAIL ,tablet ,3/6/2024,,no,,153.52
+CMP785 ,CUST1440,Holiday Promo,email,tablet ,2/6/2024, yes, yes ,yes ,63.6
+CMP725 ,CUST7523, summer sale,email,mobile ,9/13/2024,No,Yes,No,115.54
+CMP447 ,CUST7292,New product launch,email,desktop,6/3/2024, yes, yes , no,164.67
+CMP135 ,CUST5276,Black Friday,email,mobile ,12/11/2024,,Yes, no,126.08
+CMP850 ,CUST2661,New product launch, Email,tablet ,2/12/2024,No, yes ,No,163.1
+CMP802 ,CUST8449,Summer Sale, Email,Tablet,10/21/2024,no ,Yes,yes ,46.35
+CMP749 ,CUST2899,New Product Launch, Email,Moble,8/5/2024,no , yes ,,133.55
+CMP283 ,CUST7947, black friday, Email,tablet ,7/5/2024,No,Yes,yes ,6.9
+CMP302 ,CUST9436,New Product Launch, Email,desktop,12/28/2024,no , yes ,Yes,111.1
+CMP571 ,CUST7014,Summer Sale,EMAIL ,Desktop,3/3/2024, yes, yes ,Yes,47.69
+CMP400 ,CUST6847,Black Friday,Email,desktop,10/4/2024, yes,Yes,,61.16
+CMP137 ,CUST9704, new product launch , Email,mobile ,2/27/2024,Yes,,Yes,218.89
+CMP748 ,CUST9084,Black Friday,EMAIL ,Desktop,3/5/2024,,No,,207.3
+CMP178 ,CUST6350,Holiday  Promo,Email,mobile ,10/18/2024,no ,,Yes,168.73
+CMP867 ,CUST5947,Black Friday, Email,Mobile,6/21/2024, yes,Yes, no,32.61
+CMP684 ,CUST5275,holiday promo ,email,Tablet,2/29/2024, yes,, no,94.69
+CMP547 ,CUST5502, new product launch ,email,Desktop,4/20/2024,Yes,, no,217.05
+CMP379 ,CUST1082,Black Friday,email,Mobile,4/2/2024,No, yes ,yes ,131.34
+CMP750 ,CUST6212, summer sale,email,mobile ,8/24/2024, yes,No,Yes,305.55
+CMP829 ,CUST8547,New Product Launch, Email,Tablet,11/9/2024,,no, no,151.47
+CMP448 ,CUST6237,Holiday  Promo, Email,mobile ,10/12/2024,no ,No,,
+CMP499 ,CUST5189,Black Friday,Email,Tablet,12/23/2024,no ,,yes ,95.27
+CMP642 ,CUST7048,holiday promo ,EMAIL ,tablet ,2/12/2024,no ,no,Yes,130.68
+CMP270 ,CUST6761,New Product Launch, Email,desktop,3/20/2024, yes,, no,107.8
+CMP650 ,CUST3157,Black Friday,Email,Mobile,4/30/2024,No,No,Yes,176.65
+CMP985 ,CUST3606, new product launch , Email,Moble,10/19/2024, yes,No, no,196.54
+CMP888 ,CUST6950,New product launch,Email,Tablet,11/2/2024,,,,57.12
+CMP513 ,CUST9107,Black friday,EMAIL ,tablet ,7/19/2024,No,No, no,13.5
+CMP949 ,CUST6473,Black friday,email,Tablet,5/27/2024,no ,, no,
+CMP751 ,CUST1475,New Product Launch,email,mobile ,8/2/2024,Yes,,,160.64
+CMP432 ,CUST5095,SUMMER SALE, Email,Tablet,7/28/2024, yes,Yes,,31.73
+CMP623 ,CUST4162,SUMMER SALE, Email,Desktop,11/30/2024,No,no,No,0
+CMP166 ,CUST1506,Holiday Promo, Email,desktop,6/14/2024,,no,No,151.09
+CMP612 ,CUST2821,New Product Launch,EMAIL ,tablet ,3/31/2024,No,no,Yes,319.44
+CMP798 ,CUST7657, black friday, Email,tablet ,1/4/2024,Yes,no,yes ,119.51
+CMP895 ,CUST9751, new product launch ,Email,desktop,10/2/2024,Yes, yes , no,187.08
+CMP833 ,CUST9381,New product launch, Email,desktop,1/21/2024,Yes,No,yes ,126.55
+CMP214 ,CUST3768,Holiday  Promo, Email,Tablet,10/23/2024,No,No, no,112.09
+CMP437 ,CUST2213,Black friday, Email,tablet ,4/17/2024, yes, yes ,yes ,193.53
+CMP906 ,CUST8378, new product launch ,EMAIL ,Moble,12/18/2024,,Yes,No,96.78
+CMP126 ,CUST4621,Holiday  Promo,EMAIL ,Tablet,3/16/2024, yes,No,,141.39
+CMP830 ,CUST8206,New product launch,EMAIL ,mobile ,11/20/2024,No,,yes ,145.74
+CMP333 ,CUST1458,Holiday Promo,EMAIL ,mobile ,7/15/2024, yes, yes ,,66.55
+CMP733 ,CUST3791,Holiday  Promo,email,Moble,9/21/2024, yes,,yes ,199.36
+CMP596 ,CUST3770, black friday, Email,mobile ,7/12/2024,no ,Yes,Yes,106
+CMP311 ,CUST4675,SUMMER SALE,EMAIL ,Moble,6/24/2024,No, yes , no,59.54
+CMP753 ,CUST1199, new product launch ,email,Tablet,8/23/2024, yes,Yes, no,162.92
+CMP437 ,CUST9313, summer sale,EMAIL ,Moble,11/16/2024,,Yes,Yes,48.12
+CMP353 ,CUST5009,holiday promo ,email,Tablet,8/16/2024,No,no,No,122.25
+CMP372 ,CUST5546, summer sale,email,Tablet,1/21/2024,No,,yes ,119.27
+CMP349 ,CUST8819,Black friday,Email,Moble,2/1/2024, yes,Yes,No,206.87
+CMP185 ,CUST8799,Holiday Promo,Email,Moble,9/1/2024,,no,yes ,157.98
+CMP540 ,CUST2827, new product launch , Email,tablet ,10/18/2024,,, no,
+CMP516 ,CUST5435,Black friday,email,Desktop,1/1/2024,no ,,yes ,185.42
+CMP988 ,CUST9719,Holiday Promo,EMAIL ,Desktop,11/26/2024,, yes , no,231.22
+CMP286 ,CUST8988,Summer Sale,EMAIL ,Moble,2/27/2024,no ,No,No,164.62
+CMP789 ,CUST5991, summer sale, Email,Desktop,2/3/2024,No,No,Yes,120.83
+CMP613 ,CUST6003,Holiday  Promo, Email,Mobile,4/28/2024,,No,,15.05
+CMP260 ,CUST4144,Black Friday,email,tablet ,12/10/2024,,No,yes ,34.79
+CMP769 ,CUST7830, new product launch ,EMAIL ,mobile ,9/21/2024,no , yes ,yes ,95.58
+CMP844 ,CUST6798, new product launch ,EMAIL ,desktop,3/15/2024,no ,, no,71.24
+CMP513 ,CUST1906,Black Friday,EMAIL ,Tablet,8/1/2024,no , yes ,Yes,
+CMP777 ,CUST5193,holiday promo ,EMAIL ,Mobile,12/26/2024,no ,no,yes ,124.53
+CMP304 ,CUST4522,New Product Launch, Email,tablet ,10/12/2024,Yes,Yes,No,162.38
+CMP591 ,CUST8698,Summer Sale, Email,Tablet,3/23/2024,No, yes ,,114.36
+CMP203 ,CUST1919,New product launch,EMAIL ,Desktop,10/27/2024, yes,no,yes ,158.92
+CMP867 ,CUST2212,Holiday  Promo, Email,tablet ,2/26/2024,No,,yes ,125.16
+CMP190 ,CUST8180,Holiday Promo,EMAIL ,Moble,10/20/2024, yes,,,0
+CMP243 ,CUST2114, new product launch ,EMAIL ,tablet ,5/29/2024,no ,No,No,44.85
+CMP571 ,CUST6934,Holiday  Promo,email,Tablet,6/13/2024, yes,,Yes,108.47
+CMP520 ,CUST8001,Black Friday, Email,tablet ,3/12/2024,,Yes,,23.22
+CMP547 ,CUST1525, black friday,EMAIL ,tablet ,7/10/2024,no , yes ,,
+CMP852 ,CUST2237,New Product Launch,Email,Moble,6/19/2024,,No,,242.46
+CMP579 ,CUST4127, summer sale, Email,tablet ,2/14/2024,no ,no,No,217.5
+CMP286 ,CUST6567,Black friday, Email,Mobile,11/29/2024,, yes ,Yes,102.92
+CMP119 ,CUST1139,Holiday Promo,EMAIL ,desktop,11/15/2024, yes,No,,239.26
+CMP645 ,CUST8499,New product launch,email,tablet ,12/11/2024,,No,No,131.89
+CMP285 ,CUST2653,Summer Sale,Email,tablet ,3/16/2024,, yes ,Yes,93.03
+CMP335 ,CUST4421,Holiday Promo,EMAIL ,mobile ,6/16/2024, yes,No,No,70.93
+CMP998 ,CUST8203, summer sale, Email,Mobile,6/30/2024,No,no,Yes,
+CMP303 ,CUST4369,Black Friday,Email,Mobile,8/16/2024,,,,88.95
+CMP314 ,CUST2971,Black friday,EMAIL ,Tablet,3/3/2024,no ,No,No,133.63
+CMP468 ,CUST8831,holiday promo ,Email,desktop,2/16/2024,Yes,no, no,132.85
+CMP202 ,CUST6811,Holiday  Promo,EMAIL ,tablet ,7/23/2024,no , yes ,No,120.24
+CMP759 ,CUST7384,Black friday,Email,Desktop,12/25/2024,Yes,No,No,154.96
+CMP231 ,CUST9497,SUMMER SALE,email,Tablet,3/31/2024,Yes,Yes,,215.25
+CMP776 ,CUST5801,Holiday  Promo, Email,tablet ,4/17/2024,no ,No,No,195.96
+CMP859 ,CUST3975,Holiday  Promo,Email,tablet ,9/22/2024,Yes,no,No,1.21
+CMP482 ,CUST5344,New Product Launch,EMAIL ,Mobile,6/5/2024, yes,Yes, no,0
+CMP247 ,CUST7679,Summer Sale, Email,tablet ,1/18/2024,No,No,Yes,194.75
+CMP328 ,CUST2509,Black Friday,Email,Mobile,1/8/2024,no ,no,,10.65
+CMP717 ,CUST1011,holiday promo , Email,desktop,8/13/2024,No, yes ,,102.02
+CMP784 ,CUST2579,Black friday, Email,Tablet,7/6/2024,No,No,,26.39
+CMP246 ,CUST4695,New product launch,Email,Tablet,3/7/2024,no , yes ,,0
+CMP356 ,CUST4024, new product launch ,EMAIL ,Desktop,2/23/2024,,,,163.32
+CMP373 ,CUST3157,Holiday  Promo, Email,Desktop,10/22/2024,,Yes, no,180.73
+CMP302 ,CUST3984,Summer Sale,email,Tablet,11/19/2024,No,No, no,
+CMP592 ,CUST8927,Holiday  Promo,email,Tablet,6/14/2024,no ,No, no,
+CMP550 ,CUST2930, new product launch ,EMAIL ,Tablet,11/14/2024, yes, yes ,No,76.3
+CMP992 ,CUST8984, black friday, Email,Tablet,5/10/2024, yes,,yes ,151.34
+CMP536 ,CUST1416, black friday,email,Mobile,2/2/2024,no ,Yes,Yes,1.69
+CMP229 ,CUST6695,holiday promo , Email,desktop,10/8/2024,Yes,,No,134.67
+CMP623 ,CUST4192,SUMMER SALE,email,tablet ,7/22/2024,No, yes ,,118.78
+CMP676 ,CUST9692, black friday,Email,tablet ,11/3/2024, yes,,No,166.34
+CMP643 ,CUST3732,Holiday  Promo,email,Mobile,12/21/2024,,No,No,129.57
+CMP724 ,CUST7947,Holiday Promo,EMAIL ,Mobile,10/3/2024, yes,no,,42.15
+CMP579 ,CUST6274,SUMMER SALE,EMAIL ,Mobile,8/3/2024, yes,,yes ,215.73
+CMP727 ,CUST2094,Summer Sale, Email,mobile ,4/16/2024,no ,No,No,107.32
+CMP761 ,CUST7865,Black Friday,email,mobile ,7/19/2024,Yes,No,yes ,117.82
+CMP226 ,CUST3487,Holiday Promo, Email,mobile ,3/12/2024, yes,Yes,Yes,45.34
+CMP205 ,CUST8718,Holiday Promo, Email,Desktop,9/23/2024,,, no,84.54
+CMP872 ,CUST6593,holiday promo ,Email,desktop,3/19/2024,Yes,no, no,49.22
+CMP826 ,CUST8983,holiday promo ,email,Moble,10/26/2024,Yes,,,106.16
+CMP970 ,CUST9102, new product launch , Email,desktop,7/4/2024,Yes, yes ,yes ,256.94
+CMP436 ,CUST7875,New product launch,EMAIL ,Desktop,5/8/2024,Yes,Yes, no,10.25
+CMP326 ,CUST8106,New product launch,EMAIL ,Mobile,5/4/2024,,,,0
+CMP991 ,CUST7268,Summer Sale,Email,Moble,7/11/2024,,Yes,Yes,237.69
+CMP788 ,CUST7911,Black Friday,Email,Desktop,5/2/2024,no ,,,103.25
+CMP932 ,CUST8074,New product launch,Email,mobile ,1/20/2024,Yes, yes ,Yes,66.47
+CMP921 ,CUST1464, new product launch , Email,tablet ,5/29/2024, yes, yes ,yes ,203.19
+CMP902 ,CUST1783,Holiday  Promo, Email,Tablet,5/7/2024,No,No,,71.55
+CMP858 ,CUST7575,Holiday  Promo,email,tablet ,10/7/2024,Yes, yes ,yes ,266.08
+CMP924 ,CUST4728,Holiday  Promo,EMAIL ,Mobile,11/11/2024,no , yes ,,174.23
+CMP874 ,CUST7270,Holiday Promo,EMAIL ,tablet ,9/11/2024, yes, yes , no,80.97
+CMP272 ,CUST6288,Summer Sale,Email,mobile ,7/4/2024,,,yes ,292.58
+CMP507 ,CUST2244,Holiday Promo,Email,Mobile,10/13/2024, yes,No,yes ,71.54
+CMP236 ,CUST7311, summer sale,EMAIL ,Moble,9/29/2024, yes,No, no,179.37
+CMP258 ,CUST5485,Summer Sale, Email,mobile ,1/21/2024,No,No, no,143.94
+CMP248 ,CUST1203,holiday promo ,email,Mobile,11/27/2024,no ,no,,224.14
+CMP296 ,CUST7755,SUMMER SALE, Email,Tablet,10/9/2024, yes, yes ,yes ,244.92
+CMP340 ,CUST6245, black friday,EMAIL ,Mobile,8/8/2024, yes,No,,122.56
+CMP903 ,CUST9314, new product launch , Email,Moble,10/23/2024,Yes,,No,59.73
+CMP760 ,CUST4669,Black friday,EMAIL ,Moble,6/27/2024,no ,, no,156.8
+CMP166 ,CUST3807,Summer Sale, Email,Moble,9/11/2024, yes,no,No,65.78
+CMP166 ,CUST5523,New Product Launch,EMAIL ,Tablet,2/2/2024,,no, no,281.07
+CMP236 ,CUST7492,Holiday Promo, Email,Desktop,12/26/2024, yes, yes ,No,130.92
+CMP620 ,CUST7670,SUMMER SALE,EMAIL ,tablet ,10/18/2024,,Yes,yes ,90.77
+CMP172 ,CUST2042, black friday, Email,Tablet,10/27/2024,No,No,,134.77
+CMP130 ,CUST9109, new product launch ,Email,Desktop,4/1/2024,Yes,no,,12.23
+CMP496 ,CUST7677,Black Friday, Email,mobile ,12/24/2024,No,Yes,yes ,42.27
+CMP540 ,CUST5128,Black friday,Email,mobile ,6/30/2024,no ,No,No,216.03
+CMP748 ,CUST2336,Holiday  Promo, Email,tablet ,6/28/2024,, yes ,Yes,67.45
+CMP670 ,CUST1969,New product launch,EMAIL ,Mobile,11/6/2024,Yes,,Yes,36.25
+CMP413 ,CUST1453,New Product Launch,EMAIL ,tablet ,1/3/2024,No,No,,162.93
+CMP323 ,CUST6656, summer sale,email,Moble,9/12/2024,,No, no,214.86
+CMP890 ,CUST3908, black friday,email,tablet ,12/27/2024,Yes,,Yes,177.52
+CMP912 ,CUST2970,holiday promo ,EMAIL ,Mobile,10/2/2024,No,,,199.68
+CMP609 ,CUST4164,New Product Launch,email,Moble,3/26/2024,no ,, no,59.46
+CMP784 ,CUST2072,Holiday  Promo,email,Desktop,8/17/2024,No,no,No,6.26
+CMP160 ,CUST8871,New product launch,Email,tablet ,7/25/2024,Yes, yes ,,
+CMP644 ,CUST9547,Black Friday,email,Desktop,10/15/2024,No,no,No,94.19
+CMP536 ,CUST7623,Black Friday, Email,Mobile,5/29/2024,Yes,no,Yes,99.93
+CMP724 ,CUST7370,holiday promo , Email,tablet ,6/13/2024,Yes,,Yes,226.26
+CMP414 ,CUST9893,SUMMER SALE,EMAIL ,Tablet,4/6/2024,,Yes,Yes,164.5
+CMP460 ,CUST9810,Summer Sale, Email,Tablet,6/4/2024,,No,,156.47
+CMP145 ,CUST4514, summer sale, Email,mobile ,7/8/2024, yes,Yes,No,293.2
+CMP755 ,CUST1255,Summer Sale, Email,mobile ,9/10/2024, yes,Yes,No,68.52
+CMP951 ,CUST6419,SUMMER SALE, Email,tablet ,12/3/2024, yes,no,Yes,194.23
+CMP352 ,CUST5230,Black Friday,EMAIL ,mobile ,3/20/2024,no ,Yes, no,124.56
+CMP962 ,CUST4104,Black friday,EMAIL ,Moble,7/30/2024,no ,Yes, no,141.49
+CMP328 ,CUST2155,New product launch,Email,Mobile,3/6/2024,no ,Yes,No,242.28
+CMP857 ,CUST5202,New product launch, Email,Desktop,10/1/2024, yes, yes ,,160.63
+CMP222 ,CUST7470,Holiday Promo,Email,Moble,5/13/2024,No,No,,163.06
+CMP211 ,CUST2825,Holiday Promo,Email,tablet ,1/19/2024,No,Yes,Yes,205.8
+CMP479 ,CUST8177, new product launch ,email,desktop,5/3/2024,,No,No,90.8
+CMP114 ,CUST3502,Holiday  Promo,EMAIL ,mobile ,6/11/2024,no ,No,Yes,
+CMP398 ,CUST9283, summer sale,email,mobile ,7/19/2024, yes,no,Yes,36.42
+CMP351 ,CUST9659,holiday promo ,email,mobile ,8/13/2024, yes,Yes,Yes,0
+CMP630 ,CUST9753,Summer Sale,email,Tablet,12/16/2024, yes,Yes,No,284.5
+CMP106 ,CUST7245,Summer Sale,Email,tablet ,2/23/2024,,Yes,No,31.74
+CMP658 ,CUST2211,Summer Sale, Email,Moble,11/17/2024, yes,, no,
+CMP343 ,CUST9037,New Product Launch,EMAIL ,Desktop,8/18/2024,no ,No, no,97.85
+CMP329 ,CUST3365,holiday promo ,email,desktop,10/1/2024,No, yes ,Yes,144.59
+CMP247 ,CUST1697,Black friday, Email,Tablet,8/9/2024,No,no,No,185.26
+CMP515 ,CUST7899,Black Friday, Email,Tablet,11/16/2024,no ,no, no,188.84
+CMP781 ,CUST7535,SUMMER SALE,email,mobile ,7/5/2024,No,,No,73.35
+CMP472 ,CUST8591, black friday, Email,Desktop,12/3/2024,No,no,No,106.63
+CMP767 ,CUST8410,holiday promo , Email,Mobile,8/28/2024,No, yes ,,142.61
+CMP629 ,CUST8074,SUMMER SALE, Email,Mobile,3/21/2024,no ,,No,100.1
+CMP796 ,CUST3553,New product launch, Email,Moble,5/19/2024,No,no,yes ,248.59
+CMP856 ,CUST3139,Black friday,EMAIL ,Moble,8/27/2024,Yes,Yes,Yes,159.28
+CMP982 ,CUST1864,Holiday  Promo,Email,Desktop,2/13/2024,No,No,No,
+CMP471 ,CUST6169,New Product Launch, Email,desktop,6/6/2024,No, yes ,yes ,173.03
+CMP263 ,CUST3490,SUMMER SALE, Email,Mobile,2/21/2024,,no,No,213.88
+CMP580 ,CUST5607, new product launch ,email,Mobile,10/14/2024,no ,Yes,Yes,134.48
+CMP584 ,CUST7215,Black friday,email,tablet ,3/10/2024,, yes , no,16.25
+CMP558 ,CUST1325,Black friday,EMAIL ,Desktop,10/26/2024, yes,Yes,No,151.98
+CMP793 ,CUST7449,SUMMER SALE,Email,tablet ,3/10/2024, yes, yes ,Yes,67.89
+CMP918 ,CUST9105,Summer Sale, Email,mobile ,6/30/2024, yes,No,,77.71
+CMP124 ,CUST9021,Holiday  Promo,email,Mobile,5/23/2024, yes, yes , no,166.91
+CMP379 ,CUST8505,New product launch,Email,Desktop,8/9/2024,Yes,No,,219.06
+CMP119 ,CUST5959,Black Friday,email,desktop,1/6/2024,no ,Yes,yes ,121.7
+CMP475 ,CUST9398,Black Friday, Email,Tablet,12/22/2024,No, yes ,yes ,144.71
+CMP388 ,CUST5369, summer sale, Email,Tablet,10/9/2024, yes,,Yes,256.18
+CMP925 ,CUST2753,Holiday Promo,Email,mobile ,1/12/2024,Yes,No,,139.26
+CMP984 ,CUST2235,Summer Sale,Email,Tablet,5/1/2024,,Yes,No,328.13
+CMP992 ,CUST8549,New product launch,EMAIL ,tablet ,10/25/2024,,Yes,Yes,165.24
+CMP863 ,CUST2329,SUMMER SALE,Email,Tablet,12/26/2024,Yes,no,No,0
+CMP181 ,CUST7338,Holiday  Promo,email,desktop,4/17/2024,no ,,No,
+CMP792 ,CUST2003,Black friday,email,Moble,8/28/2024,Yes,No,No,150.49
+CMP655 ,CUST4102, new product launch ,Email,Tablet,5/14/2024,No,No,yes ,223.18
+CMP750 ,CUST5861,New Product Launch, Email,Moble,4/26/2024,No,no,yes ,173.85
+CMP643 ,CUST1114,New product launch,EMAIL ,Desktop,6/25/2024,Yes,Yes,Yes,108.92
+CMP850 ,CUST1989,New Product Launch, Email,Mobile,9/9/2024,Yes,Yes,yes ,22.06
+CMP470 ,CUST2079,New Product Launch,EMAIL ,Tablet,10/28/2024,no , yes , no,103.28
+CMP881 ,CUST9013,Holiday  Promo,email,mobile ,7/8/2024,Yes, yes , no,51.96
+CMP432 ,CUST7606,Black friday, Email,desktop,8/26/2024,No,no, no,73.56
+CMP907 ,CUST6189,Black Friday,email,desktop,1/13/2024,Yes,no,No,167.09
+CMP288 ,CUST4555, summer sale,Email,desktop,3/18/2024,No, yes ,yes ,253.59
+CMP501 ,CUST3593,holiday promo ,EMAIL ,mobile ,4/11/2024,no ,, no,
+CMP972 ,CUST3618,Black friday,Email,Desktop,8/9/2024,Yes, yes , no,24.33
+CMP340 ,CUST9499,Black friday,email,desktop,11/7/2024,Yes, yes ,No,155.57
+CMP800 ,CUST8028,New Product Launch,Email,Moble,6/22/2024,, yes ,yes ,215.73
+CMP984 ,CUST3099,Holiday  Promo, Email,Mobile,7/10/2024,no , yes , no,71.22
+CMP434 ,CUST4824,Holiday  Promo, Email,tablet ,5/6/2024,, yes ,,109.28
+CMP230 ,CUST6272,New product launch,email,Tablet,6/18/2024,No,no,,121.18
+CMP420 ,CUST9371, summer sale, Email,tablet ,8/28/2024,, yes ,Yes,57.21
+CMP717 ,CUST5358, summer sale, Email,desktop,9/27/2024, yes,No,yes ,171.86
+CMP328 ,CUST1050,Holiday  Promo,EMAIL ,tablet ,1/31/2024,,No,yes ,110.32
+CMP421 ,CUST9786,Holiday Promo,email,Moble,6/12/2024, yes,Yes,No,153.56
+CMP389 ,CUST5066,Black Friday, Email,Tablet,9/25/2024, yes, yes ,No,49
+CMP129 ,CUST7904, summer sale,EMAIL ,desktop,3/14/2024,no ,no,,85
+CMP876 ,CUST6146, summer sale,EMAIL ,desktop,3/21/2024,No,, no,177.79
+CMP231 ,CUST6288,Summer Sale,Email,Mobile,5/25/2024,,no,yes ,90.17
+CMP837 ,CUST7144, black friday,Email,Tablet,3/13/2024, yes,no,No,258.16
+CMP878 ,CUST1565,New product launch,EMAIL ,Desktop,6/16/2024,,Yes,No,88.03
+CMP169 ,CUST3292,SUMMER SALE,Email,Moble,9/11/2024,No,Yes,yes ,137.97
+CMP522 ,CUST6629, summer sale, Email,desktop,7/1/2024,Yes,, no,194.61
+CMP811 ,CUST3539, black friday,Email,tablet ,11/24/2024,no ,No,Yes,6.53
+CMP157 ,CUST1396,Summer Sale,email,desktop,5/13/2024,Yes,No,No,0
+CMP240 ,CUST9201,Holiday  Promo,EMAIL ,desktop,3/19/2024,Yes,,yes ,0
+CMP831 ,CUST7798, black friday,Email,Mobile,9/9/2024,,Yes,No,
+CMP107 ,CUST6724, new product launch ,Email,Moble,4/27/2024,,No, no,75.85
+CMP107 ,CUST5610,holiday promo ,EMAIL ,Moble,4/18/2024,No,No,,324.66
+CMP434 ,CUST5265,Black Friday,Email,Tablet,5/11/2024,no ,Yes, no,74.86
+CMP787 ,CUST9385,Black Friday,email,mobile ,11/4/2024,Yes,no,Yes,134.76
+CMP683 ,CUST5892, new product launch ,email,Moble,4/15/2024, yes,no,Yes,243.37
+CMP680 ,CUST5134,Holiday Promo,Email,Desktop,11/27/2024,No,No,yes ,280.49
+CMP837 ,CUST7366, new product launch ,EMAIL ,desktop,4/15/2024,,No, no,284.92
+CMP392 ,CUST5071, summer sale,Email,Mobile,9/2/2024,,Yes,Yes,216.67
+CMP410 ,CUST8291,Black Friday,email,Mobile,5/20/2024, yes,No,No,201.93
+CMP481 ,CUST2246,holiday promo , Email,Tablet,8/4/2024, yes,Yes,Yes,167.4
+CMP567 ,CUST4353, summer sale,Email,desktop,6/3/2024,Yes,Yes,Yes,182.27
+CMP693 ,CUST5475,holiday promo ,Email,Tablet,4/30/2024,Yes,No,No,75.91
+CMP486 ,CUST1489,Summer Sale, Email,desktop,2/3/2024,no ,No,Yes,54.54
+CMP772 ,CUST2032,holiday promo ,EMAIL ,Tablet,10/22/2024,No, yes ,Yes,119.73
+CMP992 ,CUST4081,Holiday Promo, Email,tablet ,12/9/2024,Yes,, no,106.39
+CMP600 ,CUST4793, new product launch ,Email,Desktop,10/13/2024,Yes,,yes ,83.74
+CMP657 ,CUST3685,Holiday  Promo,EMAIL ,Tablet,8/21/2024,,No,yes ,175.71
+CMP278 ,CUST7582,Holiday  Promo, Email,Desktop,11/23/2024,No,no,,196.42
+CMP542 ,CUST2416,New Product Launch,EMAIL ,mobile ,7/27/2024, yes,no, no,127.07
+CMP268 ,CUST1700,Holiday  Promo,email,Moble,10/3/2024,,No,,238.2
+CMP911 ,CUST4372, new product launch , Email,Mobile,3/12/2024,Yes,,,28.66
+CMP689 ,CUST1066,holiday promo ,email,Tablet,1/22/2024, yes,no,Yes,104.51
+CMP916 ,CUST7116, black friday, Email,Moble,6/15/2024,No,,yes ,62.65
+CMP208 ,CUST4699,New product launch, Email,mobile ,7/27/2024,Yes,,Yes,0
+CMP173 ,CUST6022,Holiday Promo, Email,Desktop,9/10/2024,,Yes,No,113.39
+CMP402 ,CUST2983,Holiday Promo,email,tablet ,1/13/2024,Yes, yes , no,
+CMP466 ,CUST7602,Summer Sale,EMAIL ,Desktop,3/1/2024, yes,No,yes ,241.08
+CMP589 ,CUST1686,New product launch, Email,Mobile,8/7/2024, yes, yes ,Yes,170.46
+CMP981 ,CUST7287, black friday,Email,desktop,5/10/2024,no ,Yes, no,38.07
+CMP877 ,CUST2422,Black friday,EMAIL ,Moble,1/20/2024,Yes,No,Yes,268.33
+CMP445 ,CUST4954,New Product Launch, Email,Mobile,8/20/2024, yes,, no,217.68
+CMP197 ,CUST1168,New product launch,email,Moble,4/20/2024,,no,Yes,166.57
+CMP381 ,CUST7359, black friday,Email,Desktop,9/14/2024,,no,No,101.88
+CMP266 ,CUST1652,holiday promo ,EMAIL ,desktop,8/19/2024,No,Yes,No,43.24
+CMP105 ,CUST7345, new product launch ,email,tablet ,9/3/2024,Yes, yes ,No,90.22
+CMP799 ,CUST9083,Holiday Promo, Email,tablet ,4/24/2024,Yes,No,No,207.1
+CMP719 ,CUST1387,Black friday, Email,Desktop,3/8/2024,Yes,,yes ,270.77
+CMP528 ,CUST8760,Summer Sale,EMAIL ,desktop,11/21/2024,no ,Yes,Yes,243.46
+CMP780 ,CUST6859,Black friday, Email,Moble,2/14/2024,No,Yes,Yes,80.89
+CMP291 ,CUST4219,Black friday,EMAIL ,Moble,3/23/2024,no ,Yes,No,30.43
+CMP673 ,CUST1651,Holiday Promo,email,mobile ,10/25/2024,No,no,Yes,131.27
+CMP907 ,CUST1199, summer sale,EMAIL ,Moble,7/9/2024,Yes, yes ,No,0
+CMP981 ,CUST8870,Holiday Promo,email,Tablet,6/12/2024,no ,no,No,145.85
+CMP666 ,CUST9870, summer sale,email,Tablet,2/20/2024,,No,Yes,108.19
+CMP174 ,CUST3698,Holiday Promo, Email,tablet ,9/1/2024,No, yes , no,82.72
+CMP143 ,CUST6250,Black Friday,Email,mobile ,1/31/2024,no ,no,,0
+CMP230 ,CUST8853,New Product Launch, Email,Tablet,4/25/2024,No,,,161.09
+CMP176 ,CUST8090,New Product Launch,Email,desktop,5/27/2024,,Yes,No,77.38
+CMP384 ,CUST7443,holiday promo , Email,Tablet,11/24/2024, yes,,,
+CMP975 ,CUST8699, black friday, Email,desktop,6/16/2024,,,,0
+CMP193 ,CUST9022,Holiday  Promo,Email,Desktop,3/11/2024, yes, yes ,,117.8
+CMP431 ,CUST4922,New Product Launch,email,Desktop,9/19/2024,No, yes ,,261.78
+CMP370 ,CUST7944,New product launch,email,tablet ,12/12/2024, yes,No,yes ,252.9
+CMP428 ,CUST4349,Black friday,email,Mobile,12/30/2024,No,No,,83.43
+CMP287 ,CUST9142,Holiday  Promo,email,desktop,11/20/2024, yes,, no,71.82
+CMP360 ,CUST2180,holiday promo ,Email,desktop,10/2/2024,no ,Yes,Yes,157.5
+CMP360 ,CUST9110,Black friday,EMAIL ,Moble,4/6/2024,No, yes ,Yes,40.13
+CMP601 ,CUST2770,Black friday, Email,desktop,8/6/2024,Yes,No,No,144.14
+CMP920 ,CUST1892,Summer Sale,Email,Desktop,3/3/2024,,,yes ,181.29
+CMP860 ,CUST7934,Holiday Promo,Email,Tablet,3/6/2024,Yes,Yes,yes ,218.15
+CMP391 ,CUST8041,Holiday Promo,email,mobile ,11/15/2024,, yes ,No,111.99
+CMP698 ,CUST6189,Holiday Promo,email,tablet ,3/18/2024,No,,,
+CMP193 ,CUST5419,Black friday,Email,Mobile,1/9/2024,no ,No,No,49.76
+CMP277 ,CUST4610,holiday promo ,Email,Mobile,8/23/2024, yes,no,,53.85
+CMP556 ,CUST4496,Holiday Promo,Email,tablet ,11/3/2024,no ,no, no,101.88
+CMP493 ,CUST7228,Summer Sale,EMAIL ,mobile ,3/17/2024,no ,,yes ,149.39
+CMP619 ,CUST7355,Black friday,email,Desktop,6/13/2024,Yes,, no,
+CMP312 ,CUST4570,Holiday  Promo,EMAIL ,desktop,3/27/2024,No, yes ,No,55.75
+CMP580 ,CUST1397,New product launch,email,Tablet,7/13/2024,no ,Yes, no,239.42
+CMP490 ,CUST1335,Black friday, Email,Tablet,10/19/2024,no ,Yes, no,98.31
+CMP375 ,CUST7006,holiday promo , Email,mobile ,5/10/2024,No,,,118.29
+CMP300 ,CUST1594,Black Friday,EMAIL ,Mobile,11/2/2024,Yes,No,Yes,60.22
+CMP151 ,CUST5102, summer sale,EMAIL ,desktop,11/11/2024, yes,No, no,0
+CMP290 ,CUST4753,Black Friday,EMAIL ,mobile ,5/22/2024,Yes,No,Yes,190.72
+CMP770 ,CUST3882,holiday promo , Email,desktop,11/13/2024,No,Yes,No,178.95
+CMP168 ,CUST2663,holiday promo ,email,Moble,11/4/2024,no ,,yes ,97.49
+CMP291 ,CUST5024,Summer Sale,EMAIL ,tablet ,4/1/2024, yes,,Yes,125.36
+CMP158 ,CUST7452,SUMMER SALE,email,Mobile,9/13/2024,No,No,No,161.28
+CMP687 ,CUST5575,Black friday,email,desktop,11/7/2024,Yes,No,No,0
+CMP143 ,CUST2098,Black Friday,email,Mobile,11/23/2024,no ,, no,77.68
+CMP663 ,CUST9871, new product launch , Email,Moble,12/12/2024,, yes ,,183.54
+CMP867 ,CUST7638,holiday promo , Email,mobile ,10/22/2024,no ,No,Yes,19.66
+CMP476 ,CUST5889, summer sale, Email,desktop,4/15/2024, yes, yes ,Yes,143.48
+CMP868 ,CUST1262,Holiday Promo, Email,tablet ,6/10/2024,no ,,No,11.47
+CMP505 ,CUST5005,SUMMER SALE,Email,mobile ,11/28/2024, yes,no, no,157.31
+CMP480 ,CUST4353,Black friday,email,desktop,8/26/2024,No,No,Yes,117.15
+CMP458 ,CUST8620,Black Friday, Email,Mobile,5/31/2024, yes,,,0
+CMP989 ,CUST8855, summer sale,EMAIL ,Desktop,9/1/2024, yes,,No,
+CMP249 ,CUST5417,Summer Sale,Email,Moble,1/6/2024,, yes ,Yes,61.23
+CMP917 ,CUST8541,Holiday  Promo,EMAIL ,Desktop,8/17/2024,Yes,,,55.18
+CMP876 ,CUST8987,Black Friday,Email,Tablet,3/4/2024,,,Yes,136.05
+CMP486 ,CUST6409,New product launch, Email,Tablet,3/19/2024,No,No,No,211.89
+CMP382 ,CUST7461,Holiday Promo,Email,Mobile,2/17/2024,Yes,No,No,38.73
+CMP527 ,CUST3484,Black Friday,EMAIL ,mobile ,8/2/2024,Yes,No,Yes,124.93
+CMP905 ,CUST2082,Holiday Promo, Email,mobile ,5/15/2024,Yes,Yes, no,154.31
+CMP481 ,CUST8682,holiday promo ,EMAIL ,Tablet,6/24/2024,,No,,175.45
+CMP925 ,CUST5018,Holiday Promo,Email,desktop,9/23/2024, yes, yes ,,134.12
+CMP841 ,CUST7630,Summer Sale,EMAIL ,tablet ,6/2/2024,Yes,No,,90.64
+CMP324 ,CUST5075,Black friday,email,Mobile,4/24/2024,, yes , no,53.79
+CMP439 ,CUST5900, summer sale,email,mobile ,7/23/2024,Yes, yes ,Yes,126.89
+CMP542 ,CUST3523,Black Friday, Email,Mobile,8/11/2024, yes,Yes,yes ,34.23
+CMP603 ,CUST7493,New Product Launch,email,desktop,4/30/2024,No, yes ,No,0
+CMP444 ,CUST3608,New Product Launch,EMAIL ,Moble,11/8/2024,Yes,Yes,Yes,154.92
+CMP108 ,CUST3458, black friday, Email,desktop,2/12/2024,No,Yes,Yes,192.31
+CMP236 ,CUST5774,Holiday  Promo,EMAIL ,Tablet,8/29/2024,Yes,No,yes ,0
+CMP696 ,CUST2349,Summer Sale,Email,tablet ,6/18/2024,No,no, no,39.22
+CMP398 ,CUST9619, summer sale,EMAIL ,mobile ,2/25/2024,no ,,yes ,169.53
+CMP816 ,CUST9435, summer sale, Email,Moble,3/21/2024, yes,Yes, no,284.6
+CMP811 ,CUST8744,Black friday,EMAIL ,Moble,6/22/2024, yes,no, no,121.66
+CMP967 ,CUST6067,New product launch,EMAIL ,mobile ,4/30/2024,no ,No,No,61.76
+CMP701 ,CUST2928,SUMMER SALE,Email,desktop,1/19/2024,No,Yes,yes ,105.37
+CMP693 ,CUST4919, new product launch , Email,desktop,6/19/2024,Yes,,,229.99
+CMP314 ,CUST8753,New product launch,Email,Desktop,6/3/2024,no ,No,yes ,68.32
+CMP961 ,CUST5131,Black Friday,email,tablet ,2/3/2024,no ,no,yes ,
+CMP434 ,CUST7919,New product launch,EMAIL ,tablet ,8/18/2024,Yes,No,yes ,81.38
+CMP996 ,CUST6481,SUMMER SALE,Email,mobile ,7/31/2024,,, no,43.73
+CMP838 ,CUST3957,Black Friday,Email,tablet ,5/22/2024, yes, yes ,,129.81
+CMP207 ,CUST8910, black friday,email,mobile ,7/9/2024, yes,,yes ,249.97
+CMP641 ,CUST4222,Black Friday,Email,desktop,9/28/2024, yes,, no,145.85
+CMP118 ,CUST7673,New Product Launch,Email,desktop,1/23/2024,no ,,,99.81
+CMP954 ,CUST4651,Black friday,EMAIL ,Desktop,4/28/2024,No,,yes ,96.66
+CMP643 ,CUST4755,Summer Sale,email,tablet ,7/21/2024,No,no,Yes,0
+CMP177 ,CUST5483, black friday, Email,Mobile,8/8/2024, yes,,Yes,
+CMP318 ,CUST9750,New product launch,EMAIL ,tablet ,9/11/2024,No,no,,113.77
+CMP771 ,CUST4281,Summer Sale, Email,Mobile,6/17/2024,No,no,Yes,105.56
+CMP867 ,CUST5230,SUMMER SALE,EMAIL ,Tablet,2/20/2024,no ,No, no,375.45
+CMP470 ,CUST2599,holiday promo ,EMAIL ,Moble,4/14/2024,Yes,Yes,No,143.9
+CMP103 ,CUST4924, summer sale,EMAIL ,mobile ,3/3/2024,no , yes ,Yes,59.86
+CMP898 ,CUST9758,Black friday,Email,desktop,9/13/2024,Yes, yes ,Yes,85.89
+CMP925 ,CUST4101, black friday,EMAIL ,Tablet,6/29/2024,,Yes,Yes,211.88
+CMP264 ,CUST9553, new product launch ,email,desktop,3/24/2024,Yes, yes , no,129.06
+CMP624 ,CUST7593,Holiday Promo,email,mobile ,8/9/2024,,Yes,No,4.94
+CMP899 ,CUST9099, black friday, Email,desktop,12/2/2024, yes,No,Yes,193.54
+CMP103 ,CUST6823,Summer Sale,EMAIL ,Tablet,1/19/2024,no ,Yes,yes ,66.55
+CMP963 ,CUST2572,New Product Launch,Email,Moble,8/25/2024,no ,no,,269.86
+CMP448 ,CUST2962,New Product Launch,Email,tablet ,10/9/2024,No, yes ,,206.4
+CMP979 ,CUST2746,Summer Sale,EMAIL ,Tablet,8/5/2024, yes,no,No,84.21
+CMP521 ,CUST2218, black friday,EMAIL ,Mobile,5/23/2024, yes, yes , no,222.48
+CMP391 ,CUST6369,SUMMER SALE,Email,tablet ,1/12/2024,,,,
+CMP197 ,CUST5328,Holiday  Promo,EMAIL ,Mobile,2/21/2024,,No,,188.22
+CMP383 ,CUST6103, black friday,Email,tablet ,2/10/2024,,,yes ,158.78
+CMP202 ,CUST7613,Summer Sale,EMAIL ,desktop,10/9/2024, yes, yes ,Yes,52.29
+CMP702 ,CUST1065, summer sale, Email,Mobile,3/11/2024, yes,no,,68.52
+CMP705 ,CUST5056, summer sale,EMAIL ,mobile ,2/24/2024,,Yes,Yes,202.4
+CMP825 ,CUST3075,SUMMER SALE,email,desktop,8/28/2024,, yes ,,93.22
+CMP343 ,CUST1972,Black Friday,email,Moble,4/6/2024,No,,yes ,87.71
+CMP704 ,CUST7742,New Product Launch,EMAIL ,Desktop,6/25/2024,,Yes, no,43.59
+CMP609 ,CUST1023, summer sale, Email,Moble,5/10/2024, yes,No,,153.89
+CMP694 ,CUST2965,New product launch,email,mobile ,4/4/2024,No,No,Yes,285
+CMP236 ,CUST4573,holiday promo ,Email,Moble,2/6/2024,No,Yes,Yes,34.6
+CMP311 ,CUST8324,SUMMER SALE,email,Tablet,7/30/2024, yes, yes , no,121.94
+CMP796 ,CUST5506,Black friday,email,tablet ,7/12/2024,No,no,yes ,232.98
+CMP978 ,CUST4977,Black friday, Email,Desktop,4/6/2024,Yes, yes ,Yes,113.63
+CMP162 ,CUST1976, new product launch , Email,Moble,8/9/2024,No,no,Yes,156.19
+CMP386 ,CUST3900,Black Friday,Email,desktop,5/27/2024,Yes,, no,35.01
+CMP329 ,CUST8362,Holiday Promo,EMAIL ,tablet ,6/27/2024,no , yes ,No,154.26
+CMP236 ,CUST1280,Holiday Promo, Email,desktop,9/2/2024,,,No,105.03
+CMP479 ,CUST9552,holiday promo ,Email,Desktop,2/26/2024, yes,no,Yes,198.86
+CMP209 ,CUST4952,holiday promo ,EMAIL ,tablet ,2/2/2024,,,,214.99
+CMP742 ,CUST9143, black friday,Email,mobile ,9/28/2024, yes,, no,327.17
+CMP592 ,CUST4168,SUMMER SALE,Email,Tablet,10/17/2024,no , yes ,yes ,166.37
+CMP511 ,CUST6847, summer sale, Email,desktop,10/27/2024,No, yes ,Yes,146.06
+CMP877 ,CUST4951, black friday,EMAIL ,desktop,6/21/2024,no ,,Yes,135.55
+CMP678 ,CUST3244,Holiday Promo, Email,tablet ,12/19/2024,No,no, no,91.75
+CMP174 ,CUST2681,New product launch, Email,Tablet,9/30/2024,No,No,No,147.08
+CMP362 ,CUST1191,New Product Launch, Email,Mobile,7/8/2024,,no,No,96.37
+CMP342 ,CUST2946, summer sale,EMAIL ,tablet ,2/17/2024,No,Yes, no,133.48
+CMP271 ,CUST1104,Black friday,email,tablet ,12/18/2024, yes,Yes,Yes,225.41
+CMP689 ,CUST5549,Summer Sale, Email,Tablet,9/14/2024, yes,no,,39.48
+CMP856 ,CUST2597,New product launch,Email,Tablet,12/22/2024,No,No,No,211.19
+CMP850 ,CUST3939,Holiday Promo,email,mobile ,4/29/2024, yes,no,Yes,225.37
+CMP733 ,CUST3203,Summer Sale,Email,Tablet,12/4/2024, yes, yes , no,110.55
+CMP953 ,CUST3606,Black friday, Email,Mobile,3/19/2024, yes,Yes,,0
+CMP530 ,CUST2778, summer sale,email,mobile ,3/30/2024,No,no,Yes,71.37
+CMP932 ,CUST3722,holiday promo ,EMAIL ,desktop,8/10/2024,,,,223.76
+CMP535 ,CUST3820,New Product Launch, Email,Desktop,4/20/2024, yes,,No,118.17
+CMP402 ,CUST7152, black friday, Email,Mobile,1/11/2024,No,Yes,No,40.06
+CMP977 ,CUST2854, black friday, Email,desktop,12/24/2024,Yes,,No,79.62
+CMP918 ,CUST3071,Holiday Promo,Email,Moble,10/2/2024,Yes,No,,187.25
+CMP637 ,CUST9807, summer sale,EMAIL ,Desktop,10/9/2024,,No,No,163.74
+CMP970 ,CUST4363,SUMMER SALE,email,Tablet,1/23/2024,,No,,100.89
+CMP838 ,CUST9957, summer sale,EMAIL ,desktop,8/14/2024, yes, yes ,Yes,90.65
+CMP898 ,CUST1447,New product launch,Email,tablet ,1/17/2024,Yes, yes ,No,88.66
+CMP184 ,CUST4119,Black friday,Email,desktop,11/22/2024, yes,Yes,,46.21
+CMP461 ,CUST6125,Black Friday,Email,tablet ,1/14/2024, yes, yes ,yes ,249.23
+CMP932 ,CUST3423,New Product Launch, Email,Desktop,3/22/2024,,Yes,No,94.21
+CMP395 ,CUST9215,New Product Launch,Email,Desktop,3/30/2024,no ,Yes,,217.37
+CMP145 ,CUST1800,Summer Sale,EMAIL ,mobile ,8/10/2024, yes, yes ,Yes,241.71
+CMP381 ,CUST9684,SUMMER SALE, Email,desktop,7/4/2024,No,no,No,199.86
+CMP429 ,CUST7054,New product launch,Email,Desktop,5/17/2024,No,, no,85.47
+CMP140 ,CUST8696,Summer Sale, Email,mobile ,1/22/2024,no ,,,152.3
+CMP463 ,CUST1278,New Product Launch,email,mobile ,10/12/2024,Yes, yes ,Yes,118.06
+CMP358 ,CUST9660, summer sale,Email,Desktop,3/3/2024,No,, no,47.7
+CMP354 ,CUST9448,Holiday Promo, Email,Tablet,9/12/2024,,Yes, no,145.95
+CMP789 ,CUST2073,SUMMER SALE, Email,Moble,5/17/2024,No,,,25.68
+CMP848 ,CUST6038,Black Friday,EMAIL ,mobile ,11/26/2024,No,no,No,215.01
+CMP965 ,CUST9656,Black Friday,email,Mobile,7/7/2024, yes,Yes, no,82.83
+CMP398 ,CUST7387,SUMMER SALE,EMAIL ,tablet ,1/21/2024, yes,Yes,No,136.09
+CMP838 ,CUST7046,Holiday  Promo,email,Desktop,7/25/2024,Yes,Yes, no,142.66
+CMP911 ,CUST5584,holiday promo ,Email,tablet ,7/12/2024,Yes, yes ,No,99.29
+CMP631 ,CUST3923,holiday promo ,EMAIL ,Tablet,10/11/2024,no ,,Yes,166.94
+CMP138 ,CUST5746,New product launch,Email,tablet ,12/10/2024,No,No,No,82.01
+CMP943 ,CUST6817,Holiday Promo,EMAIL ,Moble,4/16/2024,Yes,no,No,189.7
+CMP192 ,CUST2549, new product launch , Email,Moble,3/13/2024,Yes,,Yes,12.32
+CMP346 ,CUST2497,New product launch,email,desktop,11/6/2024,No,no,yes ,130.11
+CMP516 ,CUST1569, new product launch ,Email,Mobile,4/25/2024,no , yes , no,
+CMP612 ,CUST7671, black friday,Email,Mobile,2/18/2024,No,Yes,Yes,39.97
+CMP897 ,CUST7799, summer sale,email,tablet ,10/27/2024,Yes,No, no,65.78
+CMP819 ,CUST9148,holiday promo ,EMAIL ,tablet ,6/19/2024,no ,Yes,,161.11
+CMP476 ,CUST6665,SUMMER SALE,Email,Mobile,12/14/2024,,Yes,Yes,134.37
+CMP688 ,CUST5699, summer sale,EMAIL ,mobile ,9/26/2024,no ,, no,148.05
+CMP700 ,CUST3282,Black Friday,email,mobile ,6/24/2024,No,,,159.13
+CMP345 ,CUST8393,holiday promo ,EMAIL ,Desktop,9/15/2024,Yes,Yes,yes ,170.78
+CMP977 ,CUST5816,SUMMER SALE, Email,Tablet,1/19/2024, yes,Yes,yes ,208.78
+CMP504 ,CUST8023,Black Friday,Email,Moble,5/1/2024,Yes,No, no,152.79
+CMP297 ,CUST1907, black friday,email,Desktop,1/10/2024,no ,,Yes,100.7
+CMP801 ,CUST8465, summer sale,EMAIL ,Tablet,1/14/2024,Yes,No,No,173.81
+CMP464 ,CUST1852,Black Friday,email,desktop,5/10/2024,no ,no, no,271.99
+CMP246 ,CUST4454, black friday,EMAIL ,Desktop,10/14/2024,Yes,No,yes ,109.39
+CMP640 ,CUST8330,Holiday Promo,EMAIL ,Desktop,10/10/2024,no ,,,
+CMP317 ,CUST4829,New product launch,EMAIL ,Moble,3/10/2024,Yes,Yes,yes ,208.57
+CMP118 ,CUST1778, black friday,EMAIL ,Moble,8/19/2024, yes, yes ,,110.37
+CMP831 ,CUST8423,holiday promo ,email,desktop,4/3/2024,,, no,0
+CMP665 ,CUST8474, summer sale,EMAIL ,mobile ,12/2/2024, yes,, no,187.79
+CMP354 ,CUST3407,Holiday  Promo,Email,Desktop,11/22/2024,, yes ,,77.17
+CMP977 ,CUST4185,SUMMER SALE,email,Mobile,11/12/2024,No, yes ,No,112.76
+CMP673 ,CUST1897,Black Friday,Email,Moble,8/8/2024,No,no,Yes,146.56
+CMP131 ,CUST8241,SUMMER SALE,email,Desktop,8/22/2024,No,,,135.24
+CMP778 ,CUST6927,New product launch,email,Moble,4/22/2024,,Yes,yes ,176.76
+CMP517 ,CUST2930,SUMMER SALE, Email,Desktop,1/2/2024,,No, no,85.16
+CMP657 ,CUST3402,Black Friday,EMAIL ,Mobile,10/29/2024,no ,, no,161.05
+CMP174 ,CUST4549,Summer Sale, Email,tablet ,6/25/2024,Yes,No,No,99.24
+CMP444 ,CUST2969,holiday promo ,email,tablet ,9/27/2024,no ,,No,179.1
+CMP891 ,CUST6091, black friday,EMAIL ,Tablet,5/3/2024,Yes,No, no,169.23
+CMP783 ,CUST9419,Black Friday, Email,desktop,4/24/2024,Yes,Yes, no,
+CMP183 ,CUST4167,New Product Launch,EMAIL ,tablet ,9/14/2024,Yes,Yes, no,206.88
+CMP763 ,CUST5575, summer sale,EMAIL ,Tablet,9/27/2024, yes,Yes, no,77.12
+CMP983 ,CUST9549,Holiday Promo, Email,Tablet,7/27/2024,No,Yes,yes ,184.64
+CMP376 ,CUST1275,Black friday, Email,desktop,4/22/2024,no ,No,Yes,149.38
+CMP243 ,CUST7606,Black Friday,email,Moble,12/31/2024, yes,Yes,,267.05
+CMP603 ,CUST8768,Black Friday,Email,mobile ,2/17/2024, yes,Yes, no,102.12
+CMP369 ,CUST2100,Holiday Promo,email,mobile ,9/25/2024,No,Yes,No,92.05
+CMP275 ,CUST4319,Holiday  Promo, Email,Mobile,6/9/2024,,Yes, no,118.45
+CMP268 ,CUST2665, summer sale,email,Mobile,1/6/2024,Yes,No, no,95.75
+CMP785 ,CUST6206,SUMMER SALE, Email,desktop,5/1/2024,, yes , no,184
+CMP558 ,CUST2217,New product launch,EMAIL ,Desktop,3/3/2024,,Yes,No,0
+CMP244 ,CUST7481,holiday promo ,Email,tablet ,10/23/2024,no , yes ,yes ,35.71
+CMP309 ,CUST5098, summer sale, Email,desktop,1/28/2024,Yes,No, no,34.58
+CMP274 ,CUST4058, summer sale,Email,tablet ,9/12/2024,Yes,no,,196.02
+CMP204 ,CUST4168,holiday promo , Email,mobile ,10/1/2024, yes,no,,256.85
+CMP536 ,CUST4795, black friday,email,Mobile,8/12/2024,No,,yes ,111.64
+CMP334 ,CUST8366, new product launch ,Email,desktop,7/28/2024,no ,no,Yes,
+CMP162 ,CUST7597,Black friday,email,desktop,8/20/2024,No,Yes,yes ,125.6
+CMP247 ,CUST2382,New product launch,email,mobile ,1/2/2024, yes, yes ,No,212.95
+CMP795 ,CUST6997,Summer Sale,EMAIL ,Moble,2/14/2024,Yes, yes , no,45.81
+CMP174 ,CUST9566,New product launch,email,Mobile,10/18/2024, yes,, no,139.07
+CMP140 ,CUST9753,New product launch,EMAIL ,mobile ,8/21/2024,,,,198.02
+CMP988 ,CUST1264,SUMMER SALE,email,Mobile,5/27/2024,Yes,,No,160.09
+CMP543 ,CUST5108, black friday,EMAIL ,Tablet,12/5/2024, yes,,yes ,135.17
+CMP744 ,CUST2081,New product launch,Email,Desktop,11/8/2024,no ,,,200.08
+CMP869 ,CUST1586, new product launch , Email,Mobile,8/22/2024,No,No,,0
+CMP589 ,CUST4211, black friday,email,Mobile,7/24/2024, yes,no,Yes,174.23
+CMP742 ,CUST8559,Black friday, Email,desktop,11/10/2024,No,,,67.67
+CMP835 ,CUST3521,SUMMER SALE,EMAIL ,Moble,8/11/2024,no ,Yes,,0
+CMP100 ,CUST7530,New product launch,email,Tablet,6/11/2024, yes,Yes,yes ,160.9
+CMP988 ,CUST6904,Black Friday, Email,Tablet,1/16/2024,no ,,Yes,229.89
+CMP271 ,CUST5580, black friday,email,tablet ,1/16/2024, yes, yes ,yes ,109
+CMP502 ,CUST8547,New Product Launch, Email,mobile ,4/3/2024, yes,,yes ,196.23
+CMP749 ,CUST3180,New product launch,EMAIL ,tablet ,4/5/2024,No,No,,248.98
+CMP448 ,CUST7633,SUMMER SALE,EMAIL ,Mobile,10/20/2024,No,,yes ,225.19
+CMP451 ,CUST7374,SUMMER SALE,email,desktop,9/4/2024,No, yes ,,251.2
+CMP478 ,CUST2674,Holiday Promo,Email,Moble,11/7/2024, yes, yes ,Yes,179.37
+CMP369 ,CUST7328, black friday,EMAIL ,Mobile,11/26/2024,no , yes ,yes ,126.03
+CMP413 ,CUST2965,New product launch,Email,tablet ,4/24/2024,no ,, no,
+CMP634 ,CUST6465,New Product Launch,email,Desktop,3/25/2024,Yes, yes ,No,
+CMP433 ,CUST5811,Black friday,Email,Desktop,7/20/2024,No,Yes,No,52.54
+CMP319 ,CUST7872,Black friday,Email,mobile ,3/29/2024,no , yes ,Yes,293.68
+CMP372 ,CUST3452, new product launch ,Email,Desktop,1/9/2024,Yes, yes ,No,105.93
+CMP641 ,CUST2999, new product launch , Email,Moble,8/21/2024,,No, no,129.86
+CMP232 ,CUST4850, black friday,EMAIL ,desktop,1/4/2024,No, yes ,,164.12
+CMP432 ,CUST9297,Black Friday, Email,Moble,8/7/2024, yes, yes ,No,123.49
+CMP445 ,CUST9359,Holiday  Promo,EMAIL ,Moble,3/11/2024,,no,yes ,255.6
+CMP961 ,CUST5719,SUMMER SALE,email,Desktop,6/11/2024,Yes,no,yes ,70.19
+CMP971 ,CUST1102,Summer Sale,Email,mobile ,1/14/2024, yes,No,,135.57
+CMP174 ,CUST4873,SUMMER SALE,Email,tablet ,11/27/2024, yes,Yes,No,60.6
+CMP592 ,CUST1553, black friday,email,Tablet,1/3/2024,,No,Yes,14.4
+CMP971 ,CUST9516, black friday, Email,desktop,5/25/2024,No,no,No,71.06
+CMP752 ,CUST8226, new product launch ,EMAIL ,Tablet,8/4/2024,No,Yes,No,117.04
+CMP856 ,CUST3747,Holiday  Promo,EMAIL ,mobile ,7/6/2024,,No,No,85.66
+CMP935 ,CUST2734, new product launch ,email,mobile ,12/28/2024,No,No,,64.61
+CMP760 ,CUST1116,New product launch,EMAIL ,Moble,3/14/2024,Yes,no,Yes,7.49
+CMP525 ,CUST5299,Black friday,email,mobile ,2/16/2024,no , yes ,Yes,113.35
+CMP582 ,CUST7619, black friday,Email,Tablet,9/29/2024,No,No,yes ,0
+CMP366 ,CUST6950, black friday,EMAIL ,desktop,9/2/2024,no ,No,,180.8
+CMP733 ,CUST2478, black friday, Email,desktop,1/17/2024,No,Yes, no,126.6
+CMP286 ,CUST8201, summer sale, Email,mobile ,1/28/2024,no ,No,No,3.4
+CMP845 ,CUST4559,New Product Launch,email,tablet ,8/14/2024, yes,No,No,95.26
+CMP680 ,CUST4507, new product launch , Email,mobile ,3/20/2024,no , yes ,,59.83
+CMP341 ,CUST3357,Holiday Promo,email,Desktop,2/8/2024,No,,,145.53
+CMP415 ,CUST5370,Black Friday,Email,desktop,4/14/2024,no ,No,No,227.24
+CMP120 ,CUST6449,holiday promo ,EMAIL ,Moble,7/20/2024,,Yes,No,0
+CMP968 ,CUST8189,Summer Sale,email,Moble,8/16/2024,no ,Yes,No,129.2
+CMP782 ,CUST8676, black friday, Email,Tablet,1/29/2024,No,no,yes ,107.19
+CMP671 ,CUST9502,Holiday Promo,email,mobile ,3/11/2024,Yes,No,yes ,173.71
+CMP843 ,CUST1889, black friday,email,mobile ,7/22/2024,Yes, yes ,,137.06
+CMP802 ,CUST8628, black friday, Email,Desktop,9/7/2024, yes,,yes ,59.84
+CMP647 ,CUST7460,Summer Sale,Email,mobile ,4/4/2024, yes, yes ,No,94.48
+CMP934 ,CUST6254, summer sale, Email,Mobile,7/17/2024,No,No,,56.32
+CMP252 ,CUST3743, new product launch ,EMAIL ,Tablet,2/17/2024,Yes, yes ,No,
+CMP988 ,CUST9378,Holiday Promo,Email,Moble,9/1/2024,Yes,, no,121.7
+CMP803 ,CUST9189, summer sale,Email,mobile ,8/28/2024,Yes,No,No,272.1
+CMP220 ,CUST8542,Black Friday, Email,tablet ,2/29/2024,Yes,Yes,,115.15
+CMP215 ,CUST7268,Black Friday,Email,mobile ,12/10/2024,Yes,Yes,,63.33
+CMP840 ,CUST6618,New product launch, Email,mobile ,1/17/2024,,No,Yes,0
+CMP541 ,CUST7230,Holiday  Promo,email,Moble,5/30/2024,No,no,yes ,0
+CMP882 ,CUST5621,SUMMER SALE,Email,Mobile,9/23/2024,Yes,, no,0
+CMP445 ,CUST1143,New Product Launch,EMAIL ,mobile ,11/16/2024,, yes , no,141.37
+CMP942 ,CUST4172, new product launch ,EMAIL ,Desktop,3/6/2024,Yes,Yes,No,
+CMP453 ,CUST3100, new product launch , Email,tablet ,12/7/2024,Yes,No, no,0
+CMP295 ,CUST7944,Holiday  Promo,EMAIL ,Moble,3/1/2024,no , yes ,No,191.6
+CMP365 ,CUST2227, new product launch ,email,Mobile,4/18/2024,no ,Yes, no,81.36
+CMP265 ,CUST8853,Holiday Promo, Email,Desktop,3/4/2024,No,,,131.74
+CMP838 ,CUST2398,Black Friday, Email,tablet ,2/1/2024,no ,No,No,248.98
+CMP643 ,CUST2753,Holiday  Promo,EMAIL ,Desktop,3/5/2024,Yes,No,yes ,191.75
+CMP227 ,CUST1276,New Product Launch,EMAIL ,desktop,1/17/2024,,no,yes ,98.52
+CMP415 ,CUST2063,Holiday  Promo, Email,Moble,8/4/2024, yes, yes , no,48.7
+CMP357 ,CUST8857, summer sale,email,tablet ,3/29/2024,no ,no,Yes,0
+CMP160 ,CUST2941, black friday,Email,Mobile,2/26/2024,Yes,no,,
+CMP508 ,CUST5524, summer sale, Email,mobile ,4/27/2024,,Yes,,103.11
+CMP931 ,CUST7000,Black friday,Email,mobile ,1/7/2024,Yes, yes ,Yes,41.03
+CMP620 ,CUST1695,Black Friday, Email,Mobile,8/25/2024,Yes,no,No,109.5
+CMP148 ,CUST5714,Holiday  Promo,EMAIL ,desktop,6/19/2024,No,no,No,126.15
+CMP125 ,CUST1285,New Product Launch, Email,mobile ,2/28/2024,,,yes ,102.01
+CMP539 ,CUST5157,Black friday,Email,mobile ,8/16/2024,,Yes,yes ,68
+CMP922 ,CUST4282,New Product Launch, Email,mobile ,4/11/2024, yes,no, no,133.49
+CMP180 ,CUST6787,New Product Launch,Email,Moble,8/11/2024,No,no,Yes,155.36
+CMP372 ,CUST7602,Black Friday, Email,Mobile,1/17/2024, yes,,Yes,32.77
+CMP151 ,CUST8322,New Product Launch, Email,Tablet,2/4/2024,Yes, yes ,Yes,232.87
+CMP368 ,CUST4865, black friday,Email,tablet ,1/11/2024,,Yes,yes ,112.11
+CMP824 ,CUST2077,Holiday  Promo,email,Mobile,5/7/2024,,,,121.51
+CMP404 ,CUST9141,Black Friday, Email,Tablet,1/20/2024,Yes,No, no,176.66
+CMP223 ,CUST7792,Black Friday,EMAIL ,Mobile,10/29/2024,no ,Yes,No,138.66
+CMP150 ,CUST8946,Black friday,EMAIL ,mobile ,4/20/2024,No, yes , no,196.25
+CMP805 ,CUST9444,New product launch,EMAIL ,Moble,4/3/2024,,no,Yes,142.97
+CMP370 ,CUST3705,Black Friday,email,Mobile,2/4/2024,no ,Yes,,71.01
+CMP653 ,CUST3810, summer sale,Email,desktop,8/23/2024,No,Yes,yes ,148.92
+CMP658 ,CUST2371,Holiday Promo,EMAIL ,Tablet,2/18/2024,,,,28.5
+CMP214 ,CUST2368,Black friday,Email,Tablet,8/17/2024,,,yes ,128.68
+CMP934 ,CUST2156, black friday, Email,Desktop,12/4/2024,,No,No,117.34
+CMP464 ,CUST9551, black friday,email,Moble,3/2/2024,, yes , no,103.35
+CMP163 ,CUST1420,holiday promo ,Email,desktop,1/6/2024, yes,no,Yes,109.72
+CMP489 ,CUST2394,holiday promo , Email,Mobile,4/2/2024,No,, no,0
+CMP376 ,CUST3709,New Product Launch, Email,Moble,12/11/2024,No,no, no,76.1
+CMP786 ,CUST8817,New product launch,Email,Desktop,10/23/2024,, yes ,No,127.43
+CMP909 ,CUST2448,New Product Launch, Email,Mobile,12/31/2024,no ,Yes, no,132.79
+CMP281 ,CUST8987,holiday promo ,email,Desktop,10/9/2024, yes,Yes, no,37.79
+CMP924 ,CUST7523,SUMMER SALE,EMAIL ,Tablet,10/24/2024,,no,yes ,221.26
+CMP659 ,CUST5073, new product launch ,EMAIL ,Moble,11/8/2024,Yes, yes , no,50.71
+CMP166 ,CUST8273,Summer Sale,email,Moble,9/18/2024,Yes,no,No,197.56
+CMP464 ,CUST4983,New product launch, Email,Desktop,3/22/2024,,No,Yes,154.18
+CMP908 ,CUST4637,holiday promo , Email,Moble,9/14/2024,No,,Yes,68.3
+CMP364 ,CUST7474,Black friday,email,tablet ,8/11/2024,no ,,,262.02
+CMP738 ,CUST2038, summer sale,EMAIL ,Mobile,2/4/2024,Yes,,No,24.51
+CMP714 ,CUST3674,Holiday Promo, Email,Mobile,7/2/2024,No,no, no,193.53
+CMP354 ,CUST1717,holiday promo ,EMAIL ,Moble,1/1/2024,Yes,no,yes ,200.05
+CMP269 ,CUST6903,holiday promo ,EMAIL ,desktop,12/24/2024, yes,Yes,,
+CMP765 ,CUST1517,Holiday Promo,EMAIL ,Desktop,2/19/2024,,no, no,231.4
+CMP858 ,CUST8933, new product launch ,Email,tablet ,2/2/2024,No, yes ,,100
+CMP659 ,CUST1685, black friday,Email,tablet ,10/2/2024,no ,,No,143.1
+CMP553 ,CUST5437,Black Friday,Email,tablet ,2/19/2024, yes,,No,140.83
+CMP371 ,CUST9944,Black Friday,email,Tablet,7/20/2024,,, no,109.26
+CMP490 ,CUST6117, new product launch ,Email,Desktop,6/8/2024,, yes ,yes ,184.86
+CMP227 ,CUST3208, new product launch ,email,Mobile,12/3/2024, yes,No, no,
+CMP216 ,CUST2153,Black friday,Email,desktop,12/21/2024,No,,,
+CMP312 ,CUST7901,Holiday  Promo,email,desktop,10/11/2024,Yes,,,224.35
+CMP713 ,CUST1914,Black Friday, Email,Mobile,5/13/2024,Yes,,,0
+CMP405 ,CUST9689,New Product Launch,EMAIL ,mobile ,6/3/2024, yes,no, no,202.6
+CMP904 ,CUST8125,Black Friday, Email,desktop,12/15/2024, yes,no,yes ,210.14
+CMP909 ,CUST6091,Holiday  Promo, Email,tablet ,3/23/2024,no ,no,yes ,
+CMP684 ,CUST8382,holiday promo ,EMAIL ,mobile ,10/2/2024,,,Yes,87.13
+CMP977 ,CUST7054,holiday promo , Email,desktop,8/5/2024,No,no,yes ,31.54
+CMP211 ,CUST7496,New product launch,EMAIL ,Moble,12/24/2024,No,Yes,Yes,102.81
+CMP535 ,CUST3625,SUMMER SALE,Email,mobile ,12/21/2024, yes,No, no,95.36
+CMP589 ,CUST8765,holiday promo , Email,mobile ,8/7/2024,,Yes, no,182.37
+CMP281 ,CUST5602, new product launch ,Email,Mobile,1/15/2024,, yes ,,224.82
+CMP161 ,CUST1100, black friday,Email,Mobile,9/21/2024,,, no,231.65
+CMP672 ,CUST3094,Holiday Promo,Email,mobile ,9/3/2024,no ,Yes,yes ,75.03
+CMP835 ,CUST7693,holiday promo ,email,Tablet,8/16/2024,Yes,No,Yes,103.26
+CMP641 ,CUST5116,Holiday Promo, Email,Desktop,3/25/2024,no , yes ,,0
+CMP645 ,CUST1787,Black friday,EMAIL ,tablet ,7/16/2024, yes, yes ,,55.53
+CMP226 ,CUST4810, black friday,EMAIL ,Desktop,3/30/2024, yes,Yes,Yes,197.19
+CMP360 ,CUST6005,New product launch,EMAIL ,Desktop,12/12/2024, yes,No,No,249.25
+CMP298 ,CUST3525, new product launch , Email,Desktop,2/9/2024,,no,,21.25
+CMP892 ,CUST7523,Holiday Promo,email,Tablet,2/13/2024,No,no,No,72.6
+CMP952 ,CUST9829,Black Friday,email,tablet ,1/16/2024,no , yes ,Yes,117.89
+CMP920 ,CUST2102,New Product Launch, Email,mobile ,12/1/2024, yes, yes ,No,142.41
+CMP911 ,CUST4760,Holiday  Promo,email,Desktop,1/17/2024, yes,No,yes ,55.23
+CMP983 ,CUST2701, black friday,Email,Tablet,1/7/2024,no ,no,,
+CMP168 ,CUST7962,Holiday  Promo,email,Desktop,5/26/2024, yes, yes ,yes ,82.09
+CMP945 ,CUST9711,Holiday Promo,EMAIL ,Tablet,5/14/2024,no ,,,118.84
+CMP903 ,CUST2755,Summer Sale,EMAIL ,mobile ,4/21/2024,No,, no,163.7
+CMP361 ,CUST9828, new product launch , Email,tablet ,9/14/2024,,,,120.51
+CMP882 ,CUST1998,holiday promo ,EMAIL ,desktop,3/20/2024,no ,Yes,yes ,85.09
+CMP359 ,CUST7174,Holiday Promo,Email,tablet ,8/18/2024,,, no,111.23
+CMP374 ,CUST3165,Holiday Promo,email,Moble,12/29/2024,No,,No,112.93
+CMP205 ,CUST3473, summer sale, Email,Mobile,5/1/2024,No,,No,90.4
+CMP627 ,CUST1808, new product launch ,email,mobile ,3/29/2024,Yes,Yes,Yes,99.3
+CMP279 ,CUST1034,Summer Sale,Email,Tablet,1/8/2024,no ,no, no,247.89
+CMP130 ,CUST9321,New product launch, Email,Tablet,7/13/2024,Yes,Yes,,164.87
+CMP293 ,CUST7105,Black Friday,Email,Desktop,2/12/2024,No,,yes ,96.36
+CMP756 ,CUST2393,New Product Launch,Email,tablet ,6/12/2024, yes,no,,175.76
+CMP422 ,CUST6068,Black Friday,EMAIL ,tablet ,11/24/2024,Yes,Yes,No,93.29
+CMP869 ,CUST7623,SUMMER SALE,Email,Desktop,1/9/2024, yes,, no,213.85
+CMP439 ,CUST1320, new product launch ,Email,desktop,8/12/2024,no ,no,yes ,149.57
+CMP762 ,CUST7438,Holiday  Promo,EMAIL ,tablet ,2/17/2024,Yes,No,yes ,111.42
+CMP654 ,CUST6307, summer sale, Email,Moble,1/1/2024,,no,Yes,155.82
+CMP476 ,CUST4189,Black Friday, Email,Moble,9/24/2024, yes,,No,0
+CMP681 ,CUST7639,SUMMER SALE, Email,Moble,7/12/2024,Yes,,No,29.86
+CMP668 ,CUST9520,New product launch,Email,desktop,10/3/2024,no ,,Yes,24.49
+CMP922 ,CUST8024,SUMMER SALE,EMAIL ,desktop,7/5/2024,,no, no,
+CMP342 ,CUST3072,Summer Sale,Email,mobile ,1/12/2024, yes,no,,258.6
+CMP993 ,CUST4060,Black Friday,Email,Desktop,10/22/2024,,Yes,,298.5
+CMP174 ,CUST8552,Holiday  Promo,EMAIL ,Moble,7/7/2024,Yes,no, no,171.04
+CMP192 ,CUST3260,Black friday,EMAIL ,desktop,8/21/2024,Yes,Yes,,160.07
+CMP760 ,CUST3370,holiday promo ,Email,Moble,12/10/2024,No,no,yes ,0
+CMP717 ,CUST8823,Holiday  Promo,Email,desktop,3/31/2024, yes, yes ,yes ,76.59
+CMP666 ,CUST6678,New product launch,EMAIL ,Desktop,3/8/2024,Yes, yes , no,56.98
+CMP965 ,CUST3318,SUMMER SALE,EMAIL ,desktop,9/15/2024,,Yes,Yes,70.33
+CMP324 ,CUST6606,Black Friday,EMAIL ,Mobile,2/2/2024,No,No,No,106.55
+CMP581 ,CUST3910, black friday,email,Moble,5/22/2024, yes,Yes,Yes,82.23
+CMP767 ,CUST9465,SUMMER SALE,email,Tablet,2/15/2024,no ,No,Yes,0
+CMP174 ,CUST7381, black friday,EMAIL ,Mobile,3/10/2024,Yes,Yes,yes ,179.83
+CMP871 ,CUST1966, summer sale,Email,Moble,10/14/2024,Yes,,No,34.18
+CMP211 ,CUST2411,Holiday  Promo,email,desktop,8/25/2024,Yes, yes ,No,139.14
+CMP683 ,CUST3230,Holiday Promo,Email,Mobile,8/13/2024,Yes,no,,285.93
+CMP104 ,CUST8927,holiday promo ,Email,Moble,6/9/2024,, yes ,yes ,46.45
+CMP244 ,CUST9550,Black friday, Email,Moble,4/26/2024,,No, no,0
+CMP363 ,CUST5571,Black friday,Email,desktop,6/25/2024,,,No,97.12
+CMP418 ,CUST9821, summer sale,email,tablet ,8/30/2024,Yes, yes ,yes ,208.08
+CMP893 ,CUST7607,Holiday Promo,email,Mobile,1/24/2024, yes,No,yes ,276.67
+CMP882 ,CUST4964,Holiday  Promo,email,desktop,8/12/2024,Yes,no,yes ,21.64
+CMP863 ,CUST8033,Black friday,email,Moble,10/6/2024,No, yes ,yes ,159.74
+CMP660 ,CUST5974,SUMMER SALE,EMAIL ,tablet ,10/4/2024,no , yes , no,82.78
+CMP438 ,CUST6472,Summer Sale, Email,tablet ,3/11/2024, yes,Yes, no,111.52
+CMP443 ,CUST6774, summer sale,EMAIL ,desktop,7/3/2024,No,,No,331.55
+CMP653 ,CUST6460,Holiday  Promo,Email,Mobile,1/5/2024, yes,Yes,,0
+CMP202 ,CUST2365, summer sale, Email,tablet ,2/22/2024,no ,Yes,,140.3
+CMP436 ,CUST5832, new product launch , Email,Tablet,12/17/2024,Yes,No,No,
+CMP834 ,CUST7077,Holiday Promo,EMAIL ,tablet ,11/20/2024,Yes,No,Yes,
+CMP286 ,CUST8171,Holiday  Promo,EMAIL ,tablet ,2/12/2024,Yes,No, no,127.84
+CMP180 ,CUST6234, summer sale,EMAIL ,mobile ,12/24/2024, yes,,yes ,144.64
+CMP732 ,CUST6567,Summer Sale, Email,Desktop,8/13/2024,no ,Yes, no,88.67
+CMP232 ,CUST8597,New Product Launch,Email,Desktop,12/26/2024,Yes,No,Yes,141.53
+CMP502 ,CUST5716,New product launch,email,Desktop,1/25/2024,No,,Yes,
+CMP229 ,CUST1514,Holiday Promo, Email,Mobile,1/2/2024,, yes ,Yes,169.73
+CMP741 ,CUST2536,Holiday Promo,EMAIL ,Moble,2/6/2024,, yes ,yes ,90.43
+CMP802 ,CUST6578,SUMMER SALE,Email,Desktop,5/4/2024,Yes,Yes,Yes,150.17
+CMP683 ,CUST1213,New product launch,Email,desktop,7/27/2024,,Yes,Yes,117.66
+CMP549 ,CUST8823,holiday promo ,Email,tablet ,10/6/2024,no ,,yes ,210.08
+CMP833 ,CUST4568,New product launch,email,Moble,12/21/2024, yes,,yes ,115.89
+CMP502 ,CUST9040,Black friday, Email,tablet ,4/25/2024, yes, yes ,Yes,
+CMP456 ,CUST1181, summer sale, Email,mobile ,4/21/2024, yes, yes ,No,220.95
+CMP208 ,CUST8526, black friday,EMAIL ,mobile ,7/19/2024,No,,No,47.54
+CMP415 ,CUST6423, summer sale,Email,Mobile,4/22/2024,,Yes, no,67.7
+CMP350 ,CUST1092,New product launch, Email,Moble,12/12/2024,No,Yes,No,
+CMP502 ,CUST8275,Holiday Promo,email,Moble,2/29/2024, yes, yes , no,229.96
+CMP676 ,CUST9897,Black friday,EMAIL ,tablet ,6/20/2024,Yes,No,,0
+CMP419 ,CUST3744,Black Friday,Email,mobile ,10/30/2024,no ,No,Yes,371.02
+CMP478 ,CUST6795, black friday,email,Mobile,12/21/2024,no ,no,Yes,204.48
+CMP101 ,CUST8289, summer sale,Email,tablet ,12/21/2024,No,No,,137.86
+CMP541 ,CUST3756, summer sale,email,Mobile,1/4/2024,,Yes,,115.61
+CMP840 ,CUST1070,New product launch,EMAIL ,Moble,10/20/2024,no ,Yes,Yes,142.84
+CMP648 ,CUST7085,Holiday  Promo,Email,Tablet,9/14/2024,,no, no,161.69
+CMP196 ,CUST7254, black friday,Email,Tablet,3/26/2024, yes,No, no,171.62
+CMP816 ,CUST4538, summer sale, Email,Moble,9/30/2024,,, no,164.45
+CMP382 ,CUST6434,holiday promo ,Email,Tablet,3/29/2024,,No,No,127.17
+CMP155 ,CUST3910, black friday,email,Moble,9/1/2024,,No,No,104.21
+CMP259 ,CUST1969,holiday promo ,Email,Desktop,3/10/2024,no , yes ,No,107.9
+CMP980 ,CUST9599, new product launch ,Email,Mobile,3/8/2024, yes,,,104.41
+CMP110 ,CUST3073, new product launch ,Email,mobile ,12/29/2024,No,Yes,yes ,210.7
+CMP324 ,CUST3149,SUMMER SALE, Email,desktop,12/31/2024,No,Yes,No,167.48
+CMP142 ,CUST3140, black friday,Email,desktop,7/9/2024,Yes,no,yes ,0
+CMP798 ,CUST1941,Holiday  Promo,email,tablet ,7/21/2024,no ,no,yes ,172.47
+CMP198 ,CUST9802,Holiday Promo,email,tablet ,7/22/2024,Yes,No,,135.58
+CMP932 ,CUST2212,Black friday,EMAIL ,desktop,2/15/2024,No,,,118.5
+CMP904 ,CUST1477,holiday promo ,email,tablet ,4/21/2024, yes,Yes,,88.92
+CMP254 ,CUST2329,Holiday Promo,Email,desktop,7/17/2024,Yes,,Yes,209.93
+CMP477 ,CUST7843,Black Friday, Email,tablet ,7/6/2024,no ,No, no,195.8
+CMP624 ,CUST7450,Holiday  Promo,EMAIL ,Mobile,3/19/2024,, yes ,yes ,58.17
+CMP551 ,CUST8069,Black Friday,email,Tablet,6/2/2024,,No,No,152.56
+CMP108 ,CUST5952,New product launch, Email,mobile ,10/17/2024,No,No,No,42.27
+CMP954 ,CUST2924, summer sale,EMAIL ,mobile ,7/16/2024,No,no,No,9.63
+CMP668 ,CUST6252,holiday promo ,email,Mobile,6/24/2024,,Yes,,69.86
+CMP708 ,CUST2607, new product launch , Email,mobile ,9/9/2024, yes,Yes,,188.99
+CMP369 ,CUST4614,Holiday Promo,EMAIL ,tablet ,10/19/2024,No, yes , no,196.25
+CMP782 ,CUST1943,Holiday  Promo,email,mobile ,4/5/2024, yes,No,Yes,161.05
+CMP180 ,CUST6993,New product launch, Email,desktop,12/19/2024, yes, yes ,yes ,178.01
+CMP499 ,CUST5400,Black friday,EMAIL ,tablet ,8/27/2024,no ,,yes ,161.29
+CMP304 ,CUST6906,Holiday Promo, Email,Desktop,11/21/2024, yes,no, no,68.68
+CMP491 ,CUST2041,Black Friday,email,Desktop,10/31/2024,Yes,No,yes ,154.55
+CMP648 ,CUST1129,New Product Launch,EMAIL ,tablet ,5/26/2024,,Yes,yes ,184.03
+CMP710 ,CUST3336,Holiday  Promo,EMAIL ,Moble,4/4/2024,no , yes , no,180.34
+CMP345 ,CUST1221,Black friday,EMAIL ,mobile ,4/3/2024, yes,,Yes,215.11
+CMP225 ,CUST5684,Summer Sale,EMAIL ,Tablet,5/16/2024,,No,No,176.66
+CMP936 ,CUST2906,holiday promo ,EMAIL ,Desktop,3/21/2024,Yes,no,,148.12
+CMP888 ,CUST8502,Holiday Promo,Email,Tablet,7/30/2024,Yes,,Yes,205.61
+CMP941 ,CUST6837,SUMMER SALE,email,Mobile,9/10/2024, yes,, no,117.88
+CMP670 ,CUST5601,Holiday  Promo,email,mobile ,2/17/2024, yes,No, no,49.45
+CMP365 ,CUST5375,New product launch, Email,Mobile,9/15/2024,no ,No,No,106.95
+CMP792 ,CUST1414, new product launch , Email,tablet ,11/27/2024,No,No, no,60.41

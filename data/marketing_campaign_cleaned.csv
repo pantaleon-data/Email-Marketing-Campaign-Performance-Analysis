@@ -1,0 +1,2001 @@
+campaign_id,customer_id,campaign_name,channel,device_type,send_date,opened,clicked,converted,revenue
+CMP859 ,CUSAT5506,Holiday Promo,Email,Mobile,11/23/2024,Yes,Yes,Yes,$798.70 
+CMP195 ,CUSAT4582,Holiday Promo,Email,Mobile,8/4/2024,No,No,No,$0.00 
+CMP928 ,CUSAT1106,Summer Sale,Email,Desktop,8/17/2024,No,No,No,$0.00 
+CMP199 ,CUSAT6881,Holiday Promo,Email,Tablet,2/22/2024,Yes,Yes,Yes,"$1,209.20 "
+CMP400 ,CUSAT6925,New Product Launch,Email,Tablet,7/12/2024,Yes,Yes,Yes,$506.40 
+CMP987 ,CUSAT2654,Black Friday,Email,Desktop,2/10/2024,Yes,Yes,Yes,$506.40 
+CMP818 ,CUSAT2169,New Product Launch,Email,Mobile,4/17/2024,No,No,No,$0.00 
+CMP755 ,CUSAT4598,New Product Launch,Email,Tablet,5/18/2024,No,No,No,$0.00 
+CMP316 ,CUSAT6155,Holiday Promo,Email,Desktop,7/24/2024,No,No,No,$0.00 
+CMP651 ,CUSAT5304,New Product Launch,Email,Mobile,5/6/2024,Yes,No,No,$0.00 
+CMP873 ,CUSAT1771,Summer Sale,Email,Tablet,9/17/2024,No,No,No,$0.00 
+CMP579 ,CUSAT9669,Holiday Promo,Email,Tablet,7/16/2024,Yes,Yes,Yes,$413.70 
+CMP261 ,CUSAT8433,Summer Sale,Email,Mobile,2/27/2024,Yes,Yes,Yes,$696.80 
+CMP303 ,CUSAT3504,Holiday Promo,Email,Mobile,11/23/2024,Yes,Yes,No,$0.00 
+CMP471 ,CUSAT6038,Holiday Promo,Email,Mobile,9/7/2024,Yes,No,No,$0.00 
+CMP231 ,CUSAT8787,Black Friday,Email,Desktop,9/29/2024,Yes,No,No,$0.00 
+CMP806 ,CUSAT4295,New Product Launch,Email,Desktop,10/3/2024,No,No,No,$0.00 
+CMP165 ,CUSAT6539,Summer Sale,Email,Mobile,3/2/2024,Yes,Yes,Yes,$725.70 
+CMP132 ,CUSAT6413,Summer Sale,Email,Desktop,4/27/2024,No,No,No,$0.00 
+CMP348 ,CUSAT8749,Black Friday,Email,Mobile,10/19/2024,Yes,Yes,No,$0.00 
+CMP846 ,CUSAT1887,New Product Launch,Email,Mobile,7/29/2024,Yes,Yes,No,$0.00 
+CMP559 ,CUSAT3296,Black Friday,Email,Desktop,4/8/2024,No,No,No,$0.00 
+CMP767 ,CUSAT9856,Summer Sale,Email,Tablet,10/8/2024,No,No,No,$0.00 
+CMP510 ,CUSAT1960,Summer Sale,Email,Mobile,9/3/2024,Yes,Yes,Yes,$30.10 
+CMP848 ,CUSAT8973,Summer Sale,Email,Desktop,8/4/2024,Yes,Yes,Yes,$382.30 
+CMP158 ,CUSAT1821,New Product Launch,Email,Mobile,2/1/2024,No,No,No,$0.00 
+CMP170 ,CUSAT2113,New Product Launch,Email,Desktop,2/11/2024,No,No,No,$0.00 
+CMP183 ,CUSAT7868,New Product Launch,Email,Desktop,10/31/2024,Yes,No,No,$0.00 
+CMP760 ,CUSAT5915,Black Friday,Email,Tablet,7/21/2024,Yes,No,No,$0.00 
+CMP175 ,CUSAT9808,Holiday Promo,Email,Mobile,10/15/2024,Yes,No,No,$0.00 
+CMP953 ,CUSAT9900,New Product Launch,Email,Mobile,5/25/2024,Yes,Yes,Yes,$359.30 
+CMP999 ,CUSAT3200,Holiday Promo,Email,Mobile,12/5/2024,No,No,No,$0.00 
+CMP451 ,CUSAT4335,New Product Launch,Email,Mobile,11/5/2024,Yes,Yes,Yes,$594.60 
+CMP383 ,CUSAT1722,Summer Sale,Email,Tablet,11/20/2024,Yes,No,No,$0.00 
+CMP674 ,CUSAT1158,Summer Sale,Email,Tablet,10/9/2024,Yes,Yes,Yes,$929.00 
+CMP540 ,CUSAT3088,Summer Sale,Email,Desktop,10/25/2024,Yes,No,No,$0.00 
+CMP898 ,CUSAT7658,New Product Launch,Email,Mobile,12/7/2024,No,No,No,$0.00 
+CMP440 ,CUSAT7745,New Product Launch,Email,Desktop,4/1/2024,Yes,No,No,$0.00 
+CMP936 ,CUSAT8541,Holiday Promo,Email,Tablet,8/28/2024,No,No,No,$0.00 
+CMP985 ,CUSAT2137,Holiday Promo,Email,Tablet,7/23/2024,Yes,Yes,Yes,$678.80 
+CMP367 ,CUSAT3925,New Product Launch,Email,Mobile,1/15/2024,No,No,No,$0.00 
+CMP623 ,CUSAT2894,Black Friday,Email,Desktop,6/9/2024,No,No,No,$0.00 
+CMP859 ,CUSAT4228,Holiday Promo,Email,Mobile,10/2/2024,Yes,Yes,Yes,$553.80 
+CMP782 ,CUSAT7691,Holiday Promo,Email,Tablet,6/2/2024,No,No,No,$0.00 
+CMP488 ,CUSAT3851,New Product Launch,Email,Desktop,8/3/2024,Yes,Yes,Yes,$8.60 
+CMP693 ,CUSAT6279,Black Friday,Email,Desktop,4/17/2024,No,No,No,$0.00 
+CMP627 ,CUSAT6491,Summer Sale,Email,Tablet,12/3/2024,No,No,No,$0.00 
+CMP586 ,CUSAT2193,Black Friday,Email,Tablet,1/13/2024,No,No,No,$0.00 
+CMP804 ,CUSAT1090,Summer Sale,Email,Mobile,5/4/2024,No,No,No,$0.00 
+CMP968 ,CUSAT2988,Black Friday,Email,Tablet,10/12/2024,No,No,No,$0.00 
+CMP553 ,CUSAT9270,Black Friday,Email,Mobile,6/11/2024,No,No,No,$0.00 
+CMP896 ,CUSAT9540,Black Friday,Email,Desktop,11/22/2024,Yes,Yes,No,$0.00 
+CMP653 ,CUSAT2320,Summer Sale,Email,Mobile,5/19/2024,No,No,No,$0.00 
+CMP655 ,CUSAT8633,Black Friday,Email,Mobile,7/31/2024,No,No,No,$0.00 
+CMP106 ,CUSAT6763,Holiday Promo,Email,Tablet,10/21/2024,Yes,Yes,No,$0.00 
+CMP379 ,CUSAT8140,Black Friday,Email,Desktop,4/22/2024,No,No,No,$0.00 
+CMP646 ,CUSAT1441,Black Friday,Email,Mobile,3/6/2024,No,No,No,$0.00 
+CMP435 ,CUSAT4467,Black Friday,Email,Desktop,1/26/2024,Yes,No,No,$0.00 
+CMP867 ,CUSAT9837,Summer Sale,Email,Mobile,2/11/2024,Yes,Yes,No,$0.00 
+CMP736 ,CUSAT3496,Holiday Promo,Email,Desktop,4/12/2024,No,No,No,$0.00 
+CMP477 ,CUSAT3749,New Product Launch,Email,Tablet,12/24/2024,Yes,Yes,Yes,$408.40 
+CMP689 ,CUSAT7149,Black Friday,Email,Mobile,1/14/2024,Yes,Yes,Yes,$525.80 
+CMP679 ,CUSAT1672,Holiday Promo,Email,Tablet,3/2/2024,Yes,Yes,Yes,$157.50 
+CMP942 ,CUSAT9031,Summer Sale,Email,Desktop,1/7/2024,No,No,No,$0.00 
+CMP376 ,CUSAT9817,Black Friday,Email,Desktop,9/24/2024,Yes,No,No,$0.00 
+CMP349 ,CUSAT8613,New Product Launch,Email,Desktop,5/22/2024,No,No,No,$0.00 
+CMP916 ,CUSAT5232,Holiday Promo,Email,Mobile,9/6/2024,Yes,Yes,Yes,$571.20 
+CMP837 ,CUSAT7658,Black Friday,Email,Tablet,4/7/2024,No,No,No,$0.00 
+CMP514 ,CUSAT4986,Holiday Promo,Email,Desktop,2/17/2024,Yes,Yes,No,$0.00 
+CMP819 ,CUSAT8434,Holiday Promo,Email,Desktop,10/8/2024,Yes,No,No,$0.00 
+CMP880 ,CUSAT4033,Holiday Promo,Email,Tablet,3/2/2024,Yes,Yes,Yes,$744.60 
+CMP202 ,CUSAT4180,Holiday Promo,Email,Desktop,11/1/2024,Yes,Yes,Yes,"$1,215.20 "
+CMP155 ,CUSAT5786,New Product Launch,Email,Tablet,3/5/2024,Yes,Yes,Yes,$585.70 
+CMP551 ,CUSAT6582,Summer Sale,Email,Desktop,5/25/2024,Yes,Yes,No,$0.00 
+CMP744 ,CUSAT1878,Summer Sale,Email,Tablet,9/8/2024,Yes,Yes,No,$0.00 
+CMP720 ,CUSAT4697,Black Friday,Email,Desktop,10/12/2024,Yes,Yes,No,$0.00 
+CMP161 ,CUSAT2625,Holiday Promo,Email,Desktop,6/5/2024,No,No,No,$0.00 
+CMP102 ,CUSAT7693,Black Friday,Email,Desktop,10/9/2024,Yes,Yes,Yes,$480.40 
+CMP172 ,CUSAT4824,Holiday Promo,Email,Desktop,12/25/2024,No,No,No,$0.00 
+CMP173 ,CUSAT1977,Summer Sale,Email,Mobile,5/16/2024,No,No,No,$0.00 
+CMP512 ,CUSAT5460,Black Friday,Email,Desktop,12/18/2024,Yes,Yes,No,$0.00 
+CMP126 ,CUSAT2496,Holiday Promo,Email,Tablet,6/14/2024,Yes,Yes,No,$0.00 
+CMP552 ,CUSAT5557,Summer Sale,Email,Tablet,8/28/2024,Yes,Yes,Yes,"$1,191.20 "
+CMP786 ,CUSAT2713,Summer Sale,Email,Desktop,7/28/2024,Yes,No,No,$0.00 
+CMP422 ,CUSAT5135,Holiday Promo,Email,Tablet,1/19/2024,Yes,Yes,Yes,$276.60 
+CMP292 ,CUSAT9494,Holiday Promo,Email,Tablet,8/24/2024,Yes,No,No,$0.00 
+CMP394 ,CUSAT8178,New Product Launch,Email,Mobile,10/8/2024,Yes,No,No,$0.00 
+CMP665 ,CUSAT7684,Summer Sale,Email,Tablet,6/8/2024,No,No,No,$0.00 
+CMP398 ,CUSAT9337,New Product Launch,Email,Desktop,9/12/2024,No,No,No,$0.00 
+CMP295 ,CUSAT9327,New Product Launch,Email,Tablet,10/9/2024,Yes,No,No,$0.00 
+CMP102 ,CUSAT5634,New Product Launch,Email,Tablet,9/16/2024,No,No,No,$0.00 
+CMP665 ,CUSAT9903,Black Friday,Email,Desktop,9/4/2024,No,No,No,$0.00 
+CMP520 ,CUSAT1715,Holiday Promo,Email,Tablet,4/29/2024,No,No,No,$0.00 
+CMP704 ,CUSAT6439,Summer Sale,Email,Mobile,1/19/2024,No,No,No,$0.00 
+CMP258 ,CUSAT2225,Black Friday,Email,Desktop,7/28/2024,Yes,Yes,Yes,$443.20 
+CMP741 ,CUSAT8994,Black Friday,Email,Mobile,7/13/2024,No,No,No,$0.00 
+CMP200 ,CUSAT2646,Black Friday,Email,Tablet,2/16/2024,Yes,Yes,Yes,$718.50 
+CMP483 ,CUSAT8056,Summer Sale,Email,Mobile,1/29/2024,No,No,No,$0.00 
+CMP991 ,CUSAT7267,New Product Launch,Email,Desktop,3/30/2024,No,No,No,$0.00 
+CMP109 ,CUSAT8622,Holiday Promo,Email,Mobile,8/23/2024,Yes,Yes,Yes,$506.20 
+CMP806 ,CUSAT5097,Black Friday,Email,Mobile,11/23/2024,No,No,No,$0.00 
+CMP688 ,CUSAT5847,New Product Launch,Email,Mobile,7/14/2024,Yes,Yes,Yes,$431.80 
+CMP150 ,CUSAT9138,Holiday Promo,Email,Mobile,12/17/2024,No,No,No,$0.00 
+CMP838 ,CUSAT3240,New Product Launch,Email,Tablet,5/8/2024,Yes,No,No,$0.00 
+CMP234 ,CUSAT2476,Holiday Promo,Email,Tablet,10/23/2024,No,No,No,$0.00 
+CMP474 ,CUSAT9697,Black Friday,Email,Tablet,10/3/2024,Yes,No,No,$0.00 
+CMP579 ,CUSAT2233,Summer Sale,Email,Tablet,6/22/2024,Yes,Yes,Yes,"$1,354.50 "
+CMP649 ,CUSAT3024,Black Friday,Email,Tablet,7/21/2024,No,No,No,$0.00 
+CMP582 ,CUSAT1410,New Product Launch,Email,Mobile,2/25/2024,Yes,No,No,$0.00 
+CMP243 ,CUSAT1742,Summer Sale,Email,Desktop,11/28/2024,Yes,No,No,$0.00 
+CMP479 ,CUSAT9850,Black Friday,Email,Desktop,3/10/2024,No,No,No,$0.00 
+CMP479 ,CUSAT4559,Black Friday,Email,Mobile,5/23/2024,Yes,Yes,No,$0.00 
+CMP507 ,CUSAT5520,Holiday Promo,Email,Tablet,11/26/2024,Yes,No,No,$0.00 
+CMP441 ,CUSAT4990,Summer Sale,Email,Mobile,1/11/2024,No,No,No,$0.00 
+CMP251 ,CUSAT1046,Holiday Promo,Email,Mobile,4/29/2024,Yes,No,No,$0.00 
+CMP234 ,CUSAT1243,Holiday Promo,Email,Mobile,12/4/2024,Yes,No,No,$0.00 
+CMP531 ,CUSAT9619,Summer Sale,Email,Desktop,1/27/2024,Yes,Yes,Yes,$586.10 
+CMP326 ,CUSAT1710,New Product Launch,Email,Desktop,2/25/2024,Yes,No,No,$0.00 
+CMP602 ,CUSAT8267,Summer Sale,Email,Desktop,8/6/2024,Yes,No,No,$0.00 
+CMP661 ,CUSAT6327,Black Friday,Email,Desktop,11/15/2024,Yes,No,No,$0.00 
+CMP770 ,CUSAT4522,Black Friday,Email,Mobile,12/25/2024,Yes,No,No,$0.00 
+CMP420 ,CUSAT7992,Holiday Promo,Email,Desktop,7/31/2024,No,No,No,$0.00 
+CMP198 ,CUSAT7105,Summer Sale,Email,Mobile,2/13/2024,Yes,Yes,Yes,"$1,161.10 "
+CMP781 ,CUSAT7929,New Product Launch,Email,Desktop,7/29/2024,Yes,Yes,Yes,$39.30 
+CMP772 ,CUSAT8900,Holiday Promo,Email,Desktop,9/16/2024,Yes,Yes,Yes,$834.80 
+CMP539 ,CUSAT1430,New Product Launch,Email,Mobile,10/20/2024,Yes,Yes,Yes,"$1,476.20 "
+CMP990 ,CUSAT3347,New Product Launch,Email,Mobile,6/28/2024,Yes,Yes,No,$0.00 
+CMP564 ,CUSAT6585,Summer Sale,Email,Desktop,4/20/2024,Yes,Yes,Yes,$373.50 
+CMP872 ,CUSAT1815,New Product Launch,Email,Desktop,1/27/2024,No,No,No,$0.00 
+CMP320 ,CUSAT9394,Summer Sale,Email,Desktop,8/14/2024,Yes,Yes,No,$0.00 
+CMP146 ,CUSAT4612,Black Friday,Email,Mobile,9/26/2024,Yes,No,No,$0.00 
+CMP222 ,CUSAT1126,Black Friday,Email,Mobile,5/10/2024,No,No,No,$0.00 
+CMP784 ,CUSAT6802,Summer Sale,Email,Tablet,9/13/2024,No,No,No,$0.00 
+CMP689 ,CUSAT8033,New Product Launch,Email,Tablet,2/9/2024,Yes,Yes,No,$0.00 
+CMP275 ,CUSAT8538,New Product Launch,Email,Mobile,1/11/2024,Yes,No,No,$0.00 
+CMP180 ,CUSAT7484,Holiday Promo,Email,Mobile,10/28/2024,No,No,No,$0.00 
+CMP622 ,CUSAT4176,Holiday Promo,Email,Tablet,11/20/2024,No,No,No,$0.00 
+CMP716 ,CUSAT3504,New Product Launch,Email,Mobile,5/11/2024,No,No,No,$0.00 
+CMP678 ,CUSAT6295,New Product Launch,Email,Mobile,8/17/2024,Yes,No,No,$0.00 
+CMP381 ,CUSAT1920,Holiday Promo,Email,Desktop,11/19/2024,No,No,No,$0.00 
+CMP178 ,CUSAT2479,New Product Launch,Email,Desktop,7/7/2024,Yes,No,No,$0.00 
+CMP719 ,CUSAT8792,Black Friday,Email,Mobile,11/29/2024,Yes,Yes,Yes,"$1,122.90 "
+CMP140 ,CUSAT5059,New Product Launch,Email,Desktop,9/15/2024,Yes,Yes,No,$0.00 
+CMP389 ,CUSAT7347,Black Friday,Email,Tablet,7/5/2024,Yes,Yes,Yes,$673.90 
+CMP495 ,CUSAT5655,Holiday Promo,Email,Desktop,2/18/2024,Yes,No,No,$0.00 
+CMP815 ,CUSAT7421,Summer Sale,Email,Desktop,6/7/2024,No,No,No,$0.00 
+CMP856 ,CUSAT9624,Summer Sale,Email,Mobile,12/9/2024,Yes,Yes,Yes,$105.20 
+CMP449 ,CUSAT8967,Holiday Promo,Email,Mobile,4/2/2024,Yes,Yes,Yes,$71.80 
+CMP955 ,CUSAT9626,Summer Sale,Email,Tablet,9/16/2024,Yes,No,No,$0.00 
+CMP809 ,CUSAT3712,New Product Launch,Email,Mobile,3/24/2024,Yes,No,No,$0.00 
+CMP866 ,CUSAT8355,Holiday Promo,Email,Desktop,11/8/2024,No,No,No,$0.00 
+CMP388 ,CUSAT7256,Black Friday,Email,Mobile,8/13/2024,Yes,No,No,$0.00 
+CMP995 ,CUSAT7081,Black Friday,Email,Tablet,1/27/2024,Yes,Yes,Yes,$328.00 
+CMP625 ,CUSAT3414,Black Friday,Email,Mobile,3/23/2024,Yes,Yes,No,$0.00 
+CMP482 ,CUSAT4862,Black Friday,Email,Desktop,1/28/2024,Yes,Yes,Yes,$717.30 
+CMP910 ,CUSAT3392,Summer Sale,Email,Desktop,12/31/2024,No,No,No,$0.00 
+CMP181 ,CUSAT1311,Holiday Promo,Email,Tablet,11/11/2024,Yes,Yes,No,$0.00 
+CMP395 ,CUSAT4893,Holiday Promo,Email,Mobile,8/4/2024,No,No,No,$0.00 
+CMP611 ,CUSAT9782,Summer Sale,Email,Tablet,2/2/2024,Yes,No,No,$0.00 
+CMP684 ,CUSAT7825,Summer Sale,Email,Mobile,11/10/2024,Yes,Yes,Yes,$862.60 
+CMP619 ,CUSAT1333,Black Friday,Email,Mobile,9/16/2024,Yes,Yes,Yes,$210.20 
+CMP453 ,CUSAT4950,New Product Launch,Email,Tablet,7/1/2024,No,No,No,$0.00 
+CMP758 ,CUSAT3868,New Product Launch,Email,Tablet,10/6/2024,No,No,No,$0.00 
+CMP306 ,CUSAT1717,Holiday Promo,Email,Desktop,8/22/2024,No,No,No,$0.00 
+CMP871 ,CUSAT4131,Holiday Promo,Email,Tablet,8/30/2024,Yes,Yes,Yes,$985.40 
+CMP509 ,CUSAT8204,Black Friday,Email,Mobile,7/7/2024,No,No,No,$0.00 
+CMP844 ,CUSAT7955,Summer Sale,Email,Mobile,5/16/2024,Yes,Yes,Yes,$928.80 
+CMP776 ,CUSAT5843,Holiday Promo,Email,Mobile,2/22/2024,No,No,No,$0.00 
+CMP990 ,CUSAT6776,New Product Launch,Email,Desktop,8/16/2024,Yes,No,No,$0.00 
+CMP795 ,CUSAT3621,Summer Sale,Email,Tablet,9/19/2024,Yes,No,No,$0.00 
+CMP475 ,CUSAT6933,Black Friday,Email,Mobile,4/30/2024,No,No,No,$0.00 
+CMP687 ,CUSAT3255,Black Friday,Email,Desktop,8/15/2024,Yes,No,No,$0.00 
+CMP611 ,CUSAT9482,Black Friday,Email,Desktop,1/14/2024,No,No,No,$0.00 
+CMP602 ,CUSAT4279,Summer Sale,Email,Tablet,5/26/2024,No,No,No,$0.00 
+CMP965 ,CUSAT6236,New Product Launch,Email,Tablet,2/14/2024,Yes,Yes,Yes,$710.70 
+CMP828 ,CUSAT3852,Holiday Promo,Email,Mobile,6/2/2024,No,No,No,$0.00 
+CMP686 ,CUSAT7044,Black Friday,Email,Mobile,1/14/2024,Yes,Yes,No,$0.00 
+CMP887 ,CUSAT7708,New Product Launch,Email,Mobile,9/2/2024,Yes,No,No,$0.00 
+CMP231 ,CUSAT3981,Summer Sale,Email,Mobile,12/14/2024,Yes,Yes,No,$0.00 
+CMP430 ,CUSAT4694,Holiday Promo,Email,Tablet,6/4/2024,Yes,No,No,$0.00 
+CMP410 ,CUSAT9740,Summer Sale,Email,Mobile,5/20/2024,No,No,No,$0.00 
+CMP677 ,CUSAT1674,Summer Sale,Email,Mobile,6/21/2024,No,No,No,$0.00 
+CMP609 ,CUSAT9938,Holiday Promo,Email,Desktop,11/12/2024,No,No,No,$0.00 
+CMP261 ,CUSAT8202,Black Friday,Email,Desktop,2/7/2024,Yes,Yes,No,$0.00 
+CMP426 ,CUSAT6658,Black Friday,Email,Tablet,6/9/2024,Yes,Yes,Yes,$510.60 
+CMP225 ,CUSAT5382,Black Friday,Email,Mobile,6/12/2024,Yes,Yes,No,$0.00 
+CMP986 ,CUSAT3616,Holiday Promo,Email,Mobile,11/11/2024,No,No,No,$0.00 
+CMP609 ,CUSAT1379,Summer Sale,Email,Mobile,9/12/2024,No,No,No,$0.00 
+CMP388 ,CUSAT9108,New Product Launch,Email,Desktop,6/29/2024,Yes,Yes,No,$0.00 
+CMP844 ,CUSAT6992,Black Friday,Email,Mobile,3/9/2024,Yes,No,No,$0.00 
+CMP395 ,CUSAT2204,Black Friday,Email,Tablet,4/9/2024,Yes,No,No,$0.00 
+CMP199 ,CUSAT7453,Holiday Promo,Email,Mobile,3/1/2024,No,No,No,$0.00 
+CMP141 ,CUSAT1742,Summer Sale,Email,Tablet,9/17/2024,No,No,No,$0.00 
+CMP627 ,CUSAT3290,Holiday Promo,Email,Mobile,3/17/2024,Yes,Yes,Yes,$101.70 
+CMP621 ,CUSAT9721,Black Friday,Email,Desktop,6/21/2024,Yes,Yes,Yes,$669.30 
+CMP915 ,CUSAT1436,New Product Launch,Email,Desktop,8/1/2024,Yes,Yes,No,$0.00 
+CMP838 ,CUSAT7229,Summer Sale,Email,Mobile,3/28/2024,No,No,No,$0.00 
+CMP522 ,CUSAT4340,Black Friday,Email,Tablet,6/9/2024,No,No,No,$0.00 
+CMP778 ,CUSAT8837,Black Friday,Email,Desktop,10/14/2024,No,No,No,$0.00 
+CMP890 ,CUSAT5331,New Product Launch,Email,Mobile,10/6/2024,Yes,Yes,Yes,$142.80 
+CMP404 ,CUSAT5735,New Product Launch,Email,Tablet,4/25/2024,Yes,No,No,$0.00 
+CMP914 ,CUSAT5480,Holiday Promo,Email,Mobile,10/13/2024,No,No,No,$0.00 
+CMP394 ,CUSAT2294,Holiday Promo,Email,Tablet,3/15/2024,No,No,No,$0.00 
+CMP675 ,CUSAT5450,Summer Sale,Email,Mobile,10/2/2024,No,No,No,$0.00 
+CMP153 ,CUSAT2641,Black Friday,Email,Tablet,4/25/2024,Yes,Yes,Yes,$49.00 
+CMP261 ,CUSAT7666,New Product Launch,Email,Desktop,10/8/2024,Yes,Yes,Yes,$224.90 
+CMP887 ,CUSAT2465,New Product Launch,Email,Mobile,11/26/2024,No,No,No,$0.00 
+CMP506 ,CUSAT9116,Summer Sale,Email,Mobile,1/19/2024,Yes,Yes,Yes,$805.50 
+CMP443 ,CUSAT5662,Black Friday,Email,Mobile,2/24/2024,No,No,No,$0.00 
+CMP848 ,CUSAT8518,New Product Launch,Email,Tablet,2/27/2024,Yes,Yes,Yes,"$2,141.10 "
+CMP297 ,CUSAT3875,New Product Launch,Email,Tablet,10/17/2024,Yes,Yes,Yes,$828.40 
+CMP289 ,CUSAT3303,Black Friday,Email,Mobile,7/24/2024,Yes,No,No,$0.00 
+CMP437 ,CUSAT5947,New Product Launch,Email,Desktop,8/16/2024,No,No,No,$0.00 
+CMP515 ,CUSAT9233,New Product Launch,Email,Tablet,8/26/2024,Yes,Yes,Yes,$860.60 
+CMP236 ,CUSAT8834,Summer Sale,Email,Tablet,4/23/2024,No,No,No,$0.00 
+CMP945 ,CUSAT4578,Holiday Promo,Email,Mobile,10/2/2024,Yes,Yes,Yes,$903.60 
+CMP948 ,CUSAT9972,Black Friday,Email,Mobile,10/15/2024,No,No,No,$0.00 
+CMP796 ,CUSAT4365,New Product Launch,Email,Mobile,9/23/2024,No,No,No,$0.00 
+CMP567 ,CUSAT1945,Black Friday,Email,Tablet,3/8/2024,Yes,No,No,$0.00 
+CMP692 ,CUSAT2196,Summer Sale,Email,Desktop,1/2/2024,Yes,Yes,Yes,$632.80 
+CMP518 ,CUSAT3948,Summer Sale,Email,Desktop,8/29/2024,No,No,No,$0.00 
+CMP777 ,CUSAT9835,Summer Sale,Email,Mobile,2/11/2024,Yes,No,No,$0.00 
+CMP328 ,CUSAT1056,Summer Sale,Email,Desktop,3/6/2024,No,No,No,$0.00 
+CMP454 ,CUSAT3541,Holiday Promo,Email,Tablet,4/27/2024,Yes,No,No,$0.00 
+CMP168 ,CUSAT2653,New Product Launch,Email,Desktop,1/9/2024,No,No,No,$0.00 
+CMP322 ,CUSAT1924,Summer Sale,Email,Mobile,8/12/2024,Yes,Yes,Yes,"$1,035.60 "
+CMP246 ,CUSAT9540,Holiday Promo,Email,Desktop,5/1/2024,Yes,Yes,Yes,$625.70 
+CMP537 ,CUSAT9120,Summer Sale,Email,Tablet,3/30/2024,Yes,Yes,No,$0.00 
+CMP485 ,CUSAT4012,Black Friday,Email,Mobile,7/28/2024,Yes,No,No,$0.00 
+CMP526 ,CUSAT9683,Summer Sale,Email,Mobile,1/30/2024,Yes,Yes,Yes,$871.90 
+CMP194 ,CUSAT9775,New Product Launch,Email,Mobile,8/18/2024,No,No,No,$0.00 
+CMP292 ,CUSAT4555,Black Friday,Email,Tablet,1/21/2024,Yes,Yes,No,$0.00 
+CMP220 ,CUSAT8846,Holiday Promo,Email,Desktop,4/7/2024,Yes,Yes,Yes,$618.30 
+CMP764 ,CUSAT6886,Holiday Promo,Email,Desktop,7/13/2024,No,No,No,$0.00 
+CMP427 ,CUSAT4328,Holiday Promo,Email,Desktop,8/28/2024,Yes,No,No,$0.00 
+CMP698 ,CUSAT7841,Holiday Promo,Email,Mobile,1/9/2024,No,No,No,$0.00 
+CMP770 ,CUSAT6530,Holiday Promo,Email,Tablet,5/5/2024,No,No,No,$0.00 
+CMP659 ,CUSAT9000,Summer Sale,Email,Mobile,3/27/2024,Yes,Yes,Yes,$674.60 
+CMP745 ,CUSAT4791,Summer Sale,Email,Mobile,7/30/2024,Yes,No,No,$0.00 
+CMP782 ,CUSAT8916,New Product Launch,Email,Mobile,1/31/2024,Yes,Yes,No,$0.00 
+CMP839 ,CUSAT5501,Black Friday,Email,Mobile,1/7/2024,No,No,No,$0.00 
+CMP346 ,CUSAT4144,New Product Launch,Email,Tablet,2/19/2024,Yes,No,No,$0.00 
+CMP570 ,CUSAT4984,New Product Launch,Email,Desktop,7/10/2024,Yes,Yes,No,$0.00 
+CMP587 ,CUSAT1919,New Product Launch,Email,Tablet,7/13/2024,Yes,No,No,$0.00 
+CMP679 ,CUSAT2562,Black Friday,Email,Mobile,11/26/2024,Yes,Yes,Yes,$119.90 
+CMP800 ,CUSAT5593,Black Friday,Email,Mobile,1/24/2024,Yes,No,No,$0.00 
+CMP829 ,CUSAT7525,Summer Sale,Email,Mobile,3/14/2024,Yes,No,No,$0.00 
+CMP857 ,CUSAT3292,New Product Launch,Email,Mobile,6/18/2024,Yes,Yes,No,$0.00 
+CMP448 ,CUSAT7499,Holiday Promo,Email,Tablet,4/28/2024,No,No,No,$0.00 
+CMP484 ,CUSAT8075,Summer Sale,Email,Mobile,7/1/2024,Yes,Yes,Yes,$762.00 
+CMP828 ,CUSAT3527,New Product Launch,Email,Desktop,5/17/2024,Yes,Yes,Yes,$95.70 
+CMP879 ,CUSAT5419,Summer Sale,Email,Mobile,6/6/2024,No,No,No,$0.00 
+CMP205 ,CUSAT1430,Summer Sale,Email,Mobile,10/11/2024,Yes,Yes,Yes,"$1,448.90 "
+CMP523 ,CUSAT7353,Summer Sale,Email,Mobile,7/16/2024,No,No,No,$0.00 
+CMP374 ,CUSAT9079,Summer Sale,Email,Mobile,3/12/2024,No,No,No,$0.00 
+CMP469 ,CUSAT5123,Holiday Promo,Email,Mobile,9/4/2024,No,No,No,$0.00 
+CMP505 ,CUSAT6443,New Product Launch,Email,Tablet,6/4/2024,No,No,No,$0.00 
+CMP239 ,CUSAT5922,Holiday Promo,Email,Desktop,11/29/2024,No,No,No,$0.00 
+CMP748 ,CUSAT9044,New Product Launch,Email,Desktop,5/29/2024,Yes,Yes,Yes,$777.60 
+CMP304 ,CUSAT9939,Summer Sale,Email,Tablet,2/28/2024,Yes,Yes,Yes,$909.90 
+CMP968 ,CUSAT7703,New Product Launch,Email,Mobile,12/20/2024,No,No,No,$0.00 
+CMP175 ,CUSAT8357,New Product Launch,Email,Mobile,8/4/2024,No,No,No,$0.00 
+CMP468 ,CUSAT9796,New Product Launch,Email,Mobile,10/5/2024,Yes,No,No,$0.00 
+CMP760 ,CUSAT7547,Holiday Promo,Email,Mobile,1/23/2024,Yes,Yes,No,$0.00 
+CMP671 ,CUSAT4621,Black Friday,Email,Desktop,9/18/2024,Yes,Yes,No,$0.00 
+CMP594 ,CUSAT2712,Holiday Promo,Email,Mobile,6/25/2024,No,No,No,$0.00 
+CMP311 ,CUSAT9537,Black Friday,Email,Desktop,6/24/2024,No,No,No,$0.00 
+CMP929 ,CUSAT2885,Summer Sale,Email,Tablet,2/4/2024,No,No,No,$0.00 
+CMP438 ,CUSAT7985,Black Friday,Email,Tablet,3/30/2024,No,No,No,$0.00 
+CMP728 ,CUSAT4232,Black Friday,Email,Desktop,7/21/2024,No,No,No,$0.00 
+CMP164 ,CUSAT2667,Black Friday,Email,Desktop,12/26/2024,Yes,No,No,$0.00 
+CMP601 ,CUSAT9646,New Product Launch,Email,Mobile,5/14/2024,Yes,Yes,Yes,$25.70 
+CMP965 ,CUSAT8501,New Product Launch,Email,Tablet,2/28/2024,Yes,Yes,Yes,"$1,065.30 "
+CMP220 ,CUSAT4908,Holiday Promo,Email,Mobile,12/10/2024,No,No,No,$0.00 
+CMP688 ,CUSAT7286,Black Friday,Email,Desktop,8/2/2024,No,No,No,$0.00 
+CMP291 ,CUSAT6154,Black Friday,Email,Tablet,9/7/2024,Yes,No,No,$0.00 
+CMP675 ,CUSAT9281,New Product Launch,Email,Desktop,4/9/2024,No,No,No,$0.00 
+CMP131 ,CUSAT4613,Holiday Promo,Email,Desktop,3/26/2024,Yes,Yes,No,$0.00 
+CMP891 ,CUSAT9115,Black Friday,Email,Mobile,8/22/2024,Yes,Yes,Yes,$627.90 
+CMP142 ,CUSAT8231,Black Friday,Email,Desktop,10/4/2024,No,No,No,$0.00 
+CMP982 ,CUSAT2425,Black Friday,Email,Tablet,8/18/2024,No,No,No,$0.00 
+CMP538 ,CUSAT3719,New Product Launch,Email,Tablet,12/29/2024,No,No,No,$0.00 
+CMP711 ,CUSAT9827,Summer Sale,Email,Tablet,6/28/2024,Yes,Yes,Yes,"$1,234.40 "
+CMP795 ,CUSAT2560,Summer Sale,Email,Mobile,9/20/2024,No,No,No,$0.00 
+CMP948 ,CUSAT5055,New Product Launch,Email,Desktop,3/15/2024,Yes,Yes,No,$0.00 
+CMP748 ,CUSAT2525,Black Friday,Email,Tablet,7/11/2024,No,No,No,$0.00 
+CMP892 ,CUSAT2526,New Product Launch,Email,Tablet,10/24/2024,Yes,No,No,$0.00 
+CMP944 ,CUSAT4470,Black Friday,Email,Desktop,4/21/2024,Yes,Yes,Yes,$835.40 
+CMP596 ,CUSAT6631,New Product Launch,Email,Mobile,3/7/2024,No,No,No,$0.00 
+CMP100 ,CUSAT8009,Holiday Promo,Email,Tablet,3/21/2024,Yes,Yes,Yes,$350.90 
+CMP184 ,CUSAT7092,New Product Launch,Email,Mobile,12/1/2024,Yes,No,No,$0.00 
+CMP197 ,CUSAT1017,Holiday Promo,Email,Mobile,12/1/2024,Yes,No,No,$0.00 
+CMP108 ,CUSAT6629,Summer Sale,Email,Tablet,12/14/2024,No,No,No,$0.00 
+CMP925 ,CUSAT2678,Summer Sale,Email,Desktop,7/15/2024,No,No,No,$0.00 
+CMP246 ,CUSAT2120,Black Friday,Email,Mobile,11/24/2024,No,No,No,$0.00 
+CMP521 ,CUSAT8248,Holiday Promo,Email,Mobile,11/17/2024,Yes,Yes,No,$0.00 
+CMP422 ,CUSAT3290,Holiday Promo,Email,Tablet,6/28/2024,No,No,No,$0.00 
+CMP391 ,CUSAT1439,New Product Launch,Email,Mobile,11/3/2024,Yes,No,No,$0.00 
+CMP155 ,CUSAT4921,Black Friday,Email,Mobile,7/19/2024,No,No,No,$0.00 
+CMP112 ,CUSAT6916,Holiday Promo,Email,Desktop,9/27/2024,Yes,Yes,No,$0.00 
+CMP888 ,CUSAT2195,Summer Sale,Email,Mobile,8/29/2024,No,No,No,$0.00 
+CMP743 ,CUSAT9209,Black Friday,Email,Tablet,7/22/2024,Yes,Yes,Yes,$376.00 
+CMP185 ,CUSAT6077,Summer Sale,Email,Tablet,11/11/2024,Yes,Yes,No,$0.00 
+CMP954 ,CUSAT2083,Holiday Promo,Email,Tablet,10/27/2024,Yes,No,No,$0.00 
+CMP726 ,CUSAT1901,Holiday Promo,Email,Mobile,8/10/2024,No,No,No,$0.00 
+CMP635 ,CUSAT9474,New Product Launch,Email,Mobile,9/11/2024,No,No,No,$0.00 
+CMP539 ,CUSAT5456,Black Friday,Email,Desktop,1/16/2024,No,No,No,$0.00 
+CMP979 ,CUSAT3734,Holiday Promo,Email,Desktop,7/3/2024,Yes,Yes,No,$0.00 
+CMP979 ,CUSAT1201,Holiday Promo,Email,Desktop,9/17/2024,No,No,No,$0.00 
+CMP831 ,CUSAT7870,Holiday Promo,Email,Mobile,1/19/2024,Yes,Yes,Yes,$519.10 
+CMP614 ,CUSAT1862,Summer Sale,Email,Tablet,10/19/2024,Yes,No,No,$0.00 
+CMP892 ,CUSAT6090,Holiday Promo,Email,Mobile,8/26/2024,Yes,Yes,No,$0.00 
+CMP411 ,CUSAT4974,Black Friday,Email,Mobile,5/29/2024,No,No,No,$0.00 
+CMP519 ,CUSAT1391,Holiday Promo,Email,Tablet,3/18/2024,Yes,Yes,No,$0.00 
+CMP642 ,CUSAT4902,Black Friday,Email,Mobile,6/6/2024,Yes,Yes,Yes,"$1,122.20 "
+CMP632 ,CUSAT7767,New Product Launch,Email,Desktop,4/28/2024,Yes,Yes,Yes,$608.40 
+CMP503 ,CUSAT2226,New Product Launch,Email,Desktop,3/9/2024,Yes,Yes,Yes,$872.80 
+CMP502 ,CUSAT6345,Holiday Promo,Email,Desktop,6/10/2024,Yes,No,No,$0.00 
+CMP208 ,CUSAT3693,Black Friday,Email,Desktop,10/26/2024,Yes,Yes,Yes,$729.70 
+CMP574 ,CUSAT5341,Summer Sale,Email,Mobile,4/16/2024,Yes,Yes,No,$0.00 
+CMP828 ,CUSAT5066,Holiday Promo,Email,Mobile,6/16/2024,Yes,Yes,No,$0.00 
+CMP975 ,CUSAT8408,Black Friday,Email,Mobile,1/16/2024,Yes,No,No,$0.00 
+CMP899 ,CUSAT4641,Summer Sale,Email,Tablet,1/7/2024,Yes,Yes,Yes,$272.70 
+CMP932 ,CUSAT2228,Summer Sale,Email,Mobile,10/27/2024,No,No,No,$0.00 
+CMP572 ,CUSAT1829,Summer Sale,Email,Tablet,3/3/2024,No,No,No,$0.00 
+CMP462 ,CUSAT4517,Summer Sale,Email,Desktop,12/15/2024,No,No,No,$0.00 
+CMP762 ,CUSAT5835,Black Friday,Email,Mobile,11/13/2024,Yes,Yes,Yes,"$1,063.30 "
+CMP304 ,CUSAT9614,Holiday Promo,Email,Desktop,7/15/2024,No,No,No,$0.00 
+CMP614 ,CUSAT6269,Black Friday,Email,Mobile,6/25/2024,Yes,No,No,$0.00 
+CMP897 ,CUSAT5602,Summer Sale,Email,Mobile,1/16/2024,Yes,No,No,$0.00 
+CMP346 ,CUSAT5366,Black Friday,Email,Tablet,2/21/2024,Yes,No,No,$0.00 
+CMP706 ,CUSAT6210,New Product Launch,Email,Mobile,3/29/2024,Yes,Yes,Yes,$241.10 
+CMP292 ,CUSAT9064,Black Friday,Email,Mobile,3/13/2024,Yes,Yes,Yes,$630.30 
+CMP120 ,CUSAT9625,Black Friday,Email,Desktop,4/29/2024,No,No,No,$0.00 
+CMP251 ,CUSAT3320,Summer Sale,Email,Mobile,6/14/2024,No,No,No,$0.00 
+CMP239 ,CUSAT3580,New Product Launch,Email,Tablet,6/21/2024,Yes,No,No,$0.00 
+CMP728 ,CUSAT6846,Holiday Promo,Email,Desktop,12/21/2024,Yes,No,No,$0.00 
+CMP686 ,CUSAT7415,New Product Launch,Email,Mobile,1/1/2024,Yes,No,No,$0.00 
+CMP244 ,CUSAT6425,New Product Launch,Email,Mobile,2/23/2024,Yes,No,No,$0.00 
+CMP846 ,CUSAT6500,Black Friday,Email,Desktop,12/28/2024,Yes,No,No,$0.00 
+CMP837 ,CUSAT1020,Summer Sale,Email,Desktop,5/11/2024,No,No,No,$0.00 
+CMP484 ,CUSAT2661,Black Friday,Email,Mobile,7/12/2024,Yes,Yes,Yes,$697.50 
+CMP207 ,CUSAT2215,Holiday Promo,Email,Desktop,1/11/2024,Yes,Yes,Yes,$698.00 
+CMP728 ,CUSAT8909,New Product Launch,Email,Desktop,6/22/2024,Yes,No,No,$0.00 
+CMP310 ,CUSAT4112,Black Friday,Email,Tablet,1/28/2024,Yes,No,No,$0.00 
+CMP662 ,CUSAT9043,Summer Sale,Email,Desktop,1/26/2024,No,No,No,$0.00 
+CMP591 ,CUSAT4271,Summer Sale,Email,Mobile,12/4/2024,Yes,Yes,No,$0.00 
+CMP507 ,CUSAT8715,Black Friday,Email,Mobile,2/29/2024,No,No,No,$0.00 
+CMP556 ,CUSAT1731,Holiday Promo,Email,Desktop,7/14/2024,No,No,No,$0.00 
+CMP813 ,CUSAT2584,Summer Sale,Email,Tablet,2/1/2024,No,No,No,$0.00 
+CMP496 ,CUSAT9561,Black Friday,Email,Mobile,10/10/2024,No,No,No,$0.00 
+CMP831 ,CUSAT1568,Black Friday,Email,Mobile,7/21/2024,No,No,No,$0.00 
+CMP533 ,CUSAT2283,New Product Launch,Email,Mobile,4/8/2024,Yes,Yes,Yes,$943.10 
+CMP669 ,CUSAT7510,Black Friday,Email,Tablet,2/4/2024,Yes,No,No,$0.00 
+CMP635 ,CUSAT7874,Summer Sale,Email,Mobile,12/24/2024,Yes,Yes,Yes,$592.40 
+CMP676 ,CUSAT2654,Holiday Promo,Email,Desktop,2/21/2024,No,No,No,$0.00 
+CMP276 ,CUSAT5512,Black Friday,Email,Mobile,11/7/2024,Yes,No,No,$0.00 
+CMP863 ,CUSAT8785,Holiday Promo,Email,Mobile,12/19/2024,Yes,Yes,Yes,$484.60 
+CMP801 ,CUSAT2609,Holiday Promo,Email,Desktop,9/8/2024,Yes,Yes,No,$0.00 
+CMP292 ,CUSAT8237,Holiday Promo,Email,Tablet,11/5/2024,Yes,Yes,Yes,$269.10 
+CMP167 ,CUSAT6097,New Product Launch,Email,Mobile,9/20/2024,Yes,Yes,No,$0.00 
+CMP305 ,CUSAT1944,Holiday Promo,Email,Desktop,4/8/2024,Yes,Yes,Yes,"$1,213.10 "
+CMP617 ,CUSAT7503,New Product Launch,Email,Tablet,7/7/2024,No,No,No,$0.00 
+CMP991 ,CUSAT8775,New Product Launch,Email,Desktop,10/31/2024,Yes,Yes,Yes,$760.70 
+CMP266 ,CUSAT4511,Holiday Promo,Email,Tablet,1/15/2024,Yes,No,No,$0.00 
+CMP885 ,CUSAT1145,Black Friday,Email,Tablet,1/11/2024,Yes,Yes,No,$0.00 
+CMP412 ,CUSAT5511,Black Friday,Email,Tablet,5/9/2024,No,No,No,$0.00 
+CMP633 ,CUSAT7506,New Product Launch,Email,Mobile,8/26/2024,Yes,Yes,Yes,$605.10 
+CMP800 ,CUSAT2771,Black Friday,Email,Desktop,11/7/2024,Yes,Yes,Yes,$639.10 
+CMP767 ,CUSAT5895,Holiday Promo,Email,Mobile,12/1/2024,Yes,Yes,No,$0.00 
+CMP243 ,CUSAT1417,New Product Launch,Email,Desktop,12/4/2024,No,No,No,$0.00 
+CMP685 ,CUSAT4111,Holiday Promo,Email,Tablet,1/19/2024,No,No,No,$0.00 
+CMP960 ,CUSAT3967,Holiday Promo,Email,Desktop,6/2/2024,Yes,No,No,$0.00 
+CMP770 ,CUSAT2463,Holiday Promo,Email,Mobile,12/14/2024,No,No,No,$0.00 
+CMP574 ,CUSAT2929,Black Friday,Email,Tablet,5/13/2024,No,No,No,$0.00 
+CMP490 ,CUSAT9680,Holiday Promo,Email,Mobile,3/2/2024,No,No,No,$0.00 
+CMP568 ,CUSAT3346,Holiday Promo,Email,Tablet,7/28/2024,No,No,No,$0.00 
+CMP104 ,CUSAT8406,Holiday Promo,Email,Tablet,6/9/2024,Yes,No,No,$0.00 
+CMP544 ,CUSAT8035,Black Friday,Email,Desktop,2/15/2024,Yes,Yes,Yes,"$1,475.90 "
+CMP114 ,CUSAT6279,Black Friday,Email,Mobile,4/12/2024,No,No,No,$0.00 
+CMP492 ,CUSAT9246,New Product Launch,Email,Mobile,6/8/2024,Yes,Yes,Yes,$264.10 
+CMP710 ,CUSAT9587,Holiday Promo,Email,Tablet,8/21/2024,Yes,No,No,$0.00 
+CMP931 ,CUSAT7609,Summer Sale,Email,Mobile,4/6/2024,No,No,No,$0.00 
+CMP475 ,CUSAT1612,Black Friday,Email,Tablet,9/15/2024,Yes,Yes,Yes,$389.70 
+CMP769 ,CUSAT1323,Summer Sale,Email,Desktop,1/25/2024,No,No,No,$0.00 
+CMP256 ,CUSAT4366,New Product Launch,Email,Desktop,5/9/2024,Yes,Yes,Yes,$660.20 
+CMP240 ,CUSAT7862,Summer Sale,Email,Desktop,11/14/2024,Yes,No,No,$0.00 
+CMP369 ,CUSAT9571,Holiday Promo,Email,Tablet,11/7/2024,Yes,Yes,Yes,"$1,350.50 "
+CMP312 ,CUSAT8875,Holiday Promo,Email,Mobile,10/7/2024,Yes,Yes,Yes,$980.20 
+CMP192 ,CUSAT9383,Summer Sale,Email,Desktop,12/8/2024,No,No,No,$0.00 
+CMP932 ,CUSAT3862,Summer Sale,Email,Desktop,8/25/2024,No,No,No,$0.00 
+CMP241 ,CUSAT3793,Holiday Promo,Email,Desktop,1/24/2024,Yes,Yes,Yes,$0.00 
+CMP509 ,CUSAT8479,Holiday Promo,Email,Tablet,4/3/2024,No,No,No,$0.00 
+CMP160 ,CUSAT3611,Summer Sale,Email,Mobile,3/8/2024,Yes,No,No,$0.00 
+CMP467 ,CUSAT1472,New Product Launch,Email,Desktop,11/8/2024,Yes,No,No,$0.00 
+CMP770 ,CUSAT6148,Summer Sale,Email,Tablet,1/24/2024,Yes,Yes,Yes,$412.40 
+CMP844 ,CUSAT5072,Black Friday,Email,Tablet,2/18/2024,Yes,No,No,$0.00 
+CMP260 ,CUSAT9283,Black Friday,Email,Tablet,1/28/2024,Yes,No,No,$0.00 
+CMP384 ,CUSAT1824,Black Friday,Email,Mobile,5/3/2024,Yes,No,No,$0.00 
+CMP686 ,CUSAT8341,Summer Sale,Email,Desktop,8/23/2024,Yes,No,No,$0.00 
+CMP136 ,CUSAT9996,Summer Sale,Email,Tablet,2/22/2024,No,No,No,$0.00 
+CMP449 ,CUSAT6953,Summer Sale,Email,Tablet,12/1/2024,Yes,Yes,No,$0.00 
+CMP772 ,CUSAT6952,New Product Launch,Email,Mobile,11/3/2024,No,No,No,$0.00 
+CMP919 ,CUSAT5783,Black Friday,Email,Tablet,6/30/2024,Yes,No,No,$0.00 
+CMP860 ,CUSAT7704,Summer Sale,Email,Mobile,3/12/2024,No,No,No,$0.00 
+CMP900 ,CUSAT4122,New Product Launch,Email,Mobile,4/20/2024,Yes,Yes,Yes,$849.20 
+CMP703 ,CUSAT9260,Summer Sale,Email,Mobile,8/18/2024,Yes,No,No,$0.00 
+CMP620 ,CUSAT3903,New Product Launch,Email,Tablet,10/26/2024,Yes,No,No,$0.00 
+CMP616 ,CUSAT7302,Black Friday,Email,Desktop,11/6/2024,Yes,Yes,No,$0.00 
+CMP716 ,CUSAT9393,Holiday Promo,Email,Tablet,3/9/2024,No,No,No,$0.00 
+CMP803 ,CUSAT6657,New Product Launch,Email,Tablet,11/15/2024,Yes,Yes,Yes,$884.70 
+CMP460 ,CUSAT8870,New Product Launch,Email,Tablet,12/29/2024,Yes,No,No,$0.00 
+CMP490 ,CUSAT3381,Summer Sale,Email,Mobile,9/24/2024,No,No,No,$0.00 
+CMP807 ,CUSAT5835,Holiday Promo,Email,Desktop,3/15/2024,Yes,Yes,No,$0.00 
+CMP674 ,CUSAT7371,Holiday Promo,Email,Tablet,4/24/2024,No,No,No,$0.00 
+CMP665 ,CUSAT1881,Summer Sale,Email,Mobile,12/16/2024,Yes,No,No,$0.00 
+CMP301 ,CUSAT4170,Holiday Promo,Email,Mobile,10/6/2024,No,No,No,$0.00 
+CMP538 ,CUSAT5572,Black Friday,Email,Mobile,3/2/2024,Yes,Yes,Yes,$646.30 
+CMP258 ,CUSAT1654,Summer Sale,Email,Mobile,6/18/2024,Yes,Yes,No,$0.00 
+CMP174 ,CUSAT6207,Black Friday,Email,Mobile,10/20/2024,Yes,Yes,No,$0.00 
+CMP513 ,CUSAT2506,Holiday Promo,Email,Mobile,7/31/2024,Yes,Yes,Yes,"$1,424.30 "
+CMP733 ,CUSAT9691,Black Friday,Email,Mobile,4/21/2024,No,No,No,$0.00 
+CMP140 ,CUSAT6258,Black Friday,Email,Desktop,11/14/2024,Yes,Yes,Yes,$500.40 
+CMP483 ,CUSAT9426,Black Friday,Email,Desktop,9/21/2024,Yes,No,No,$0.00 
+CMP198 ,CUSAT3742,Black Friday,Email,Tablet,9/20/2024,No,No,No,$0.00 
+CMP948 ,CUSAT8130,New Product Launch,Email,Tablet,2/23/2024,Yes,No,No,$0.00 
+CMP155 ,CUSAT3916,Holiday Promo,Email,Mobile,1/20/2024,Yes,No,No,$0.00 
+CMP543 ,CUSAT6183,Summer Sale,Email,Tablet,8/18/2024,Yes,Yes,Yes,$874.40 
+CMP699 ,CUSAT1745,New Product Launch,Email,Desktop,2/2/2024,Yes,Yes,Yes,"$1,023.40 "
+CMP883 ,CUSAT8170,Black Friday,Email,Tablet,11/6/2024,No,No,No,$0.00 
+CMP500 ,CUSAT9941,Holiday Promo,Email,Desktop,4/22/2024,Yes,Yes,Yes,$126.70 
+CMP105 ,CUSAT7456,Black Friday,Email,Desktop,3/13/2024,Yes,No,No,$0.00 
+CMP245 ,CUSAT3637,Summer Sale,Email,Mobile,11/26/2024,No,No,No,$0.00 
+CMP972 ,CUSAT1891,Black Friday,Email,Tablet,12/9/2024,Yes,Yes,Yes,$887.00 
+CMP843 ,CUSAT8982,Holiday Promo,Email,Mobile,5/8/2024,Yes,Yes,Yes,"$1,201.00 "
+CMP425 ,CUSAT8960,Black Friday,Email,Mobile,2/5/2024,Yes,No,No,$0.00 
+CMP423 ,CUSAT8017,Summer Sale,Email,Desktop,10/17/2024,No,No,No,$0.00 
+CMP850 ,CUSAT6432,Black Friday,Email,Desktop,7/3/2024,Yes,No,No,$0.00 
+CMP721 ,CUSAT2343,Holiday Promo,Email,Mobile,2/25/2024,Yes,Yes,Yes,$0.00 
+CMP746 ,CUSAT1511,New Product Launch,Email,Tablet,1/10/2024,Yes,Yes,Yes,$577.80 
+CMP652 ,CUSAT8734,New Product Launch,Email,Desktop,10/5/2024,No,No,No,$0.00 
+CMP622 ,CUSAT2483,Black Friday,Email,Mobile,3/9/2024,No,No,No,$0.00 
+CMP263 ,CUSAT3935,New Product Launch,Email,Tablet,9/20/2024,Yes,Yes,No,$0.00 
+CMP370 ,CUSAT7052,Holiday Promo,Email,Tablet,9/6/2024,Yes,Yes,No,$0.00 
+CMP147 ,CUSAT1653,New Product Launch,Email,Mobile,8/28/2024,Yes,Yes,Yes,$78.20 
+CMP485 ,CUSAT7201,Holiday Promo,Email,Mobile,10/5/2024,No,No,No,$0.00 
+CMP988 ,CUSAT6653,Black Friday,Email,Mobile,7/26/2024,Yes,No,No,$0.00 
+CMP626 ,CUSAT5600,Holiday Promo,Email,Mobile,3/25/2024,Yes,Yes,Yes,$224.10 
+CMP930 ,CUSAT6410,New Product Launch,Email,Desktop,12/4/2024,No,No,No,$0.00 
+CMP520 ,CUSAT1367,Holiday Promo,Email,Mobile,3/23/2024,No,No,No,$0.00 
+CMP270 ,CUSAT5231,Summer Sale,Email,Mobile,10/20/2024,Yes,Yes,No,$0.00 
+CMP582 ,CUSAT8891,Summer Sale,Email,Tablet,8/17/2024,Yes,No,No,$0.00 
+CMP623 ,CUSAT5333,Summer Sale,Email,Desktop,4/3/2024,No,No,No,$0.00 
+CMP307 ,CUSAT9564,Black Friday,Email,Tablet,3/8/2024,Yes,Yes,No,$0.00 
+CMP714 ,CUSAT1639,Black Friday,Email,Mobile,8/31/2024,No,No,No,$0.00 
+CMP893 ,CUSAT8069,Black Friday,Email,Desktop,1/1/2024,Yes,No,No,$0.00 
+CMP490 ,CUSAT6742,New Product Launch,Email,Desktop,9/3/2024,Yes,No,No,$0.00 
+CMP997 ,CUSAT9908,Black Friday,Email,Mobile,2/12/2024,Yes,Yes,Yes,$185.90 
+CMP484 ,CUSAT4365,New Product Launch,Email,Desktop,3/1/2024,Yes,No,No,$0.00 
+CMP367 ,CUSAT9783,Black Friday,Email,Mobile,11/29/2024,No,No,No,$0.00 
+CMP594 ,CUSAT3928,Holiday Promo,Email,Desktop,10/9/2024,Yes,Yes,No,$0.00 
+CMP775 ,CUSAT2951,New Product Launch,Email,Desktop,3/11/2024,Yes,No,No,$0.00 
+CMP920 ,CUSAT1852,Summer Sale,Email,Tablet,7/24/2024,Yes,No,No,$0.00 
+CMP165 ,CUSAT5310,Holiday Promo,Email,Mobile,11/3/2024,No,No,No,$0.00 
+CMP828 ,CUSAT1941,Summer Sale,Email,Desktop,12/1/2024,No,No,No,$0.00 
+CMP713 ,CUSAT9364,Black Friday,Email,Mobile,4/9/2024,Yes,Yes,No,$0.00 
+CMP261 ,CUSAT2422,Holiday Promo,Email,Desktop,12/1/2024,No,No,No,$0.00 
+CMP820 ,CUSAT2124,Summer Sale,Email,Tablet,9/22/2024,Yes,Yes,Yes,$0.00 
+CMP299 ,CUSAT8450,Black Friday,Email,Desktop,5/21/2024,Yes,No,No,$0.00 
+CMP401 ,CUSAT6570,Summer Sale,Email,Mobile,10/13/2024,No,No,No,$0.00 
+CMP875 ,CUSAT6565,Black Friday,Email,Mobile,9/4/2024,No,No,No,$0.00 
+CMP907 ,CUSAT4610,New Product Launch,Email,Tablet,2/4/2024,No,No,No,$0.00 
+CMP952 ,CUSAT5314,Holiday Promo,Email,Mobile,10/1/2024,Yes,Yes,No,$0.00 
+CMP462 ,CUSAT4580,New Product Launch,Email,Mobile,4/1/2024,No,No,No,$0.00 
+CMP311 ,CUSAT4755,Holiday Promo,Email,Tablet,5/3/2024,No,No,No,$0.00 
+CMP779 ,CUSAT9071,New Product Launch,Email,Tablet,2/10/2024,Yes,No,No,$0.00 
+CMP688 ,CUSAT5501,Black Friday,Email,Tablet,11/13/2024,Yes,No,No,$0.00 
+CMP638 ,CUSAT7933,Black Friday,Email,Mobile,10/22/2024,No,No,No,$0.00 
+CMP571 ,CUSAT6171,New Product Launch,Email,Mobile,3/2/2024,Yes,No,No,$0.00 
+CMP982 ,CUSAT5254,Summer Sale,Email,Mobile,6/15/2024,Yes,Yes,Yes,"$1,047.90 "
+CMP534 ,CUSAT4449,Black Friday,Email,Desktop,7/6/2024,Yes,No,No,$0.00 
+CMP689 ,CUSAT4744,Summer Sale,Email,Tablet,10/19/2024,Yes,No,No,$0.00 
+CMP856 ,CUSAT3450,Black Friday,Email,Mobile,4/10/2024,No,No,No,$0.00 
+CMP904 ,CUSAT8972,Holiday Promo,Email,Mobile,9/30/2024,Yes,No,No,$0.00 
+CMP360 ,CUSAT8807,New Product Launch,Email,Desktop,1/31/2024,Yes,Yes,Yes,$297.50 
+CMP929 ,CUSAT5222,Holiday Promo,Email,Desktop,10/13/2024,Yes,Yes,No,$0.00 
+CMP764 ,CUSAT9821,Summer Sale,Email,Desktop,10/22/2024,Yes,No,No,$0.00 
+CMP393 ,CUSAT8598,New Product Launch,Email,Tablet,2/10/2024,Yes,No,No,$0.00 
+CMP173 ,CUSAT2296,Summer Sale,Email,Mobile,10/19/2024,Yes,Yes,Yes,"$1,274.90 "
+CMP377 ,CUSAT8289,Holiday Promo,Email,Desktop,11/5/2024,Yes,No,No,$0.00 
+CMP861 ,CUSAT2311,Holiday Promo,Email,Desktop,4/30/2024,Yes,Yes,No,$0.00 
+CMP889 ,CUSAT7504,Black Friday,Email,Mobile,10/7/2024,Yes,No,No,$0.00 
+CMP499 ,CUSAT6068,Holiday Promo,Email,Tablet,12/1/2024,No,No,No,$0.00 
+CMP129 ,CUSAT1575,New Product Launch,Email,Tablet,9/26/2024,No,No,No,$0.00 
+CMP238 ,CUSAT9835,Summer Sale,Email,Tablet,5/19/2024,Yes,Yes,Yes,"$1,209.30 "
+CMP332 ,CUSAT2467,Black Friday,Email,Desktop,6/26/2024,Yes,No,No,$0.00 
+CMP934 ,CUSAT3233,Holiday Promo,Email,Desktop,1/6/2024,Yes,No,No,$0.00 
+CMP540 ,CUSAT5799,New Product Launch,Email,Tablet,6/2/2024,Yes,Yes,No,$0.00 
+CMP547 ,CUSAT7467,Holiday Promo,Email,Tablet,7/29/2024,No,No,No,$0.00 
+CMP345 ,CUSAT9464,New Product Launch,Email,Desktop,2/10/2024,Yes,No,No,$0.00 
+CMP396 ,CUSAT2808,New Product Launch,Email,Mobile,2/5/2024,Yes,No,No,$0.00 
+CMP255 ,CUSAT1813,Black Friday,Email,Mobile,4/6/2024,Yes,Yes,No,$0.00 
+CMP338 ,CUSAT2477,Summer Sale,Email,Desktop,8/12/2024,Yes,No,No,$0.00 
+CMP574 ,CUSAT1519,Holiday Promo,Email,Tablet,9/12/2024,Yes,Yes,No,$0.00 
+CMP285 ,CUSAT4148,Holiday Promo,Email,Tablet,2/6/2024,Yes,No,No,$0.00 
+CMP134 ,CUSAT4263,Black Friday,Email,Mobile,8/14/2024,No,No,No,$0.00 
+CMP845 ,CUSAT1691,New Product Launch,Email,Desktop,6/14/2024,Yes,No,No,$0.00 
+CMP323 ,CUSAT2850,Holiday Promo,Email,Desktop,1/27/2024,Yes,No,No,$0.00 
+CMP348 ,CUSAT1146,Summer Sale,Email,Tablet,3/2/2024,Yes,Yes,No,$0.00 
+CMP802 ,CUSAT6544,New Product Launch,Email,Mobile,3/21/2024,Yes,No,No,$0.00 
+CMP424 ,CUSAT6690,Black Friday,Email,Mobile,3/5/2024,Yes,No,No,$0.00 
+CMP548 ,CUSAT5828,Black Friday,Email,Mobile,1/21/2024,Yes,Yes,Yes,$579.90 
+CMP951 ,CUSAT3627,Summer Sale,Email,Desktop,8/27/2024,Yes,Yes,Yes,$504.40 
+CMP753 ,CUSAT9289,Black Friday,Email,Mobile,8/20/2024,Yes,No,No,$0.00 
+CMP651 ,CUSAT7348,Holiday Promo,Email,Tablet,2/2/2024,Yes,No,No,$0.00 
+CMP429 ,CUSAT2809,Summer Sale,Email,Mobile,6/14/2024,Yes,No,No,$0.00 
+CMP201 ,CUSAT1521,New Product Launch,Email,Tablet,2/24/2024,Yes,Yes,No,$0.00 
+CMP326 ,CUSAT2161,Summer Sale,Email,Tablet,5/11/2024,Yes,No,No,$0.00 
+CMP525 ,CUSAT7046,New Product Launch,Email,Tablet,7/3/2024,Yes,Yes,Yes,$639.80 
+CMP321 ,CUSAT9511,Summer Sale,Email,Tablet,6/4/2024,Yes,No,No,$0.00 
+CMP354 ,CUSAT3931,Black Friday,Email,Tablet,4/8/2024,Yes,Yes,No,$0.00 
+CMP206 ,CUSAT3733,Summer Sale,Email,Mobile,12/25/2024,Yes,Yes,No,$0.00 
+CMP422 ,CUSAT6319,Holiday Promo,Email,Tablet,8/14/2024,Yes,Yes,No,$0.00 
+CMP484 ,CUSAT5162,Holiday Promo,Email,Desktop,10/15/2024,Yes,Yes,Yes,$828.30 
+CMP238 ,CUSAT5945,Summer Sale,Email,Mobile,11/1/2024,Yes,Yes,Yes,$0.00 
+CMP684 ,CUSAT3534,Summer Sale,Email,Desktop,10/10/2024,No,No,No,$0.00 
+CMP355 ,CUSAT4817,Holiday Promo,Email,Mobile,7/6/2024,Yes,No,No,$0.00 
+CMP277 ,CUSAT8999,New Product Launch,Email,Mobile,6/15/2024,Yes,No,No,$0.00 
+CMP889 ,CUSAT6478,Holiday Promo,Email,Desktop,2/10/2024,Yes,No,No,$0.00 
+CMP491 ,CUSAT1886,Holiday Promo,Email,Desktop,11/20/2024,Yes,No,No,$0.00 
+CMP256 ,CUSAT1827,New Product Launch,Email,Desktop,9/14/2024,Yes,No,No,$0.00 
+CMP251 ,CUSAT3165,Holiday Promo,Email,Desktop,5/28/2024,Yes,No,No,$0.00 
+CMP544 ,CUSAT3136,Summer Sale,Email,Mobile,2/13/2024,No,No,No,$0.00 
+CMP853 ,CUSAT9589,Holiday Promo,Email,Mobile,4/10/2024,Yes,No,No,$0.00 
+CMP523 ,CUSAT7939,Holiday Promo,Email,Mobile,2/15/2024,Yes,Yes,Yes,$339.30 
+CMP458 ,CUSAT8245,New Product Launch,Email,Desktop,6/5/2024,No,No,No,$0.00 
+CMP973 ,CUSAT2405,Summer Sale,Email,Mobile,3/20/2024,Yes,Yes,Yes,$255.90 
+CMP412 ,CUSAT8373,Black Friday,Email,Desktop,12/21/2024,Yes,No,No,$0.00 
+CMP364 ,CUSAT9991,Black Friday,Email,Tablet,10/6/2024,Yes,No,No,$0.00 
+CMP161 ,CUSAT5653,Holiday Promo,Email,Mobile,1/23/2024,Yes,Yes,No,$0.00 
+CMP972 ,CUSAT6901,Summer Sale,Email,Desktop,12/4/2024,Yes,No,No,$0.00 
+CMP423 ,CUSAT8940,New Product Launch,Email,Mobile,12/29/2024,Yes,No,No,$0.00 
+CMP353 ,CUSAT9673,Holiday Promo,Email,Desktop,12/30/2024,No,No,No,$0.00 
+CMP740 ,CUSAT5953,Holiday Promo,Email,Tablet,12/16/2024,Yes,No,No,$0.00 
+CMP330 ,CUSAT3485,Holiday Promo,Email,Tablet,10/11/2024,Yes,No,No,$0.00 
+CMP740 ,CUSAT4726,Black Friday,Email,Mobile,12/13/2024,No,No,No,$0.00 
+CMP234 ,CUSAT4387,New Product Launch,Email,Mobile,6/17/2024,Yes,Yes,No,$0.00 
+CMP636 ,CUSAT3215,Black Friday,Email,Tablet,12/18/2024,Yes,Yes,Yes,$518.80 
+CMP221 ,CUSAT4016,Holiday Promo,Email,Tablet,9/29/2024,Yes,No,No,$0.00 
+CMP941 ,CUSAT5485,Summer Sale,Email,Mobile,6/4/2024,No,No,No,$0.00 
+CMP680 ,CUSAT4783,New Product Launch,Email,Mobile,11/11/2024,Yes,Yes,No,$0.00 
+CMP719 ,CUSAT8680,New Product Launch,Email,Mobile,3/9/2024,No,No,No,$0.00 
+CMP133 ,CUSAT7694,Summer Sale,Email,Desktop,3/24/2024,No,No,No,$0.00 
+CMP549 ,CUSAT9027,New Product Launch,Email,Tablet,3/31/2024,No,No,No,$0.00 
+CMP944 ,CUSAT7232,New Product Launch,Email,Desktop,1/22/2024,Yes,Yes,Yes,$735.10 
+CMP946 ,CUSAT1694,Holiday Promo,Email,Tablet,2/25/2024,Yes,No,No,$0.00 
+CMP294 ,CUSAT5770,Black Friday,Email,Desktop,11/18/2024,No,No,No,$0.00 
+CMP155 ,CUSAT9470,Summer Sale,Email,Tablet,5/30/2024,Yes,Yes,Yes,$427.00 
+CMP812 ,CUSAT9952,Summer Sale,Email,Desktop,4/2/2024,No,No,No,$0.00 
+CMP829 ,CUSAT4308,Black Friday,Email,Desktop,8/20/2024,No,No,No,$0.00 
+CMP749 ,CUSAT6946,Summer Sale,Email,Tablet,2/28/2024,Yes,No,No,$0.00 
+CMP886 ,CUSAT3799,Holiday Promo,Email,Mobile,10/8/2024,Yes,No,No,$0.00 
+CMP887 ,CUSAT8311,Holiday Promo,Email,Mobile,6/6/2024,Yes,No,No,$0.00 
+CMP609 ,CUSAT9169,Black Friday,Email,Mobile,5/9/2024,No,No,No,$0.00 
+CMP519 ,CUSAT8239,Summer Sale,Email,Mobile,12/3/2024,Yes,Yes,No,$0.00 
+CMP251 ,CUSAT1902,New Product Launch,Email,Mobile,4/16/2024,Yes,Yes,No,$0.00 
+CMP189 ,CUSAT1803,Summer Sale,Email,Mobile,6/1/2024,Yes,No,No,$0.00 
+CMP281 ,CUSAT8460,New Product Launch,Email,Mobile,10/20/2024,Yes,Yes,Yes,$196.80 
+CMP876 ,CUSAT8001,Black Friday,Email,Desktop,7/13/2024,No,No,No,$0.00 
+CMP637 ,CUSAT4438,New Product Launch,Email,Mobile,6/17/2024,Yes,Yes,Yes,$459.40 
+CMP805 ,CUSAT5705,Black Friday,Email,Desktop,2/14/2024,Yes,Yes,Yes,$607.40 
+CMP608 ,CUSAT9514,New Product Launch,Email,Desktop,3/7/2024,Yes,No,No,$0.00 
+CMP124 ,CUSAT8616,New Product Launch,Email,Tablet,4/9/2024,Yes,No,No,$0.00 
+CMP673 ,CUSAT4478,Summer Sale,Email,Tablet,1/24/2024,Yes,Yes,Yes,$512.40 
+CMP431 ,CUSAT1100,Summer Sale,Email,Desktop,6/2/2024,Yes,Yes,Yes,$931.80 
+CMP953 ,CUSAT6536,New Product Launch,Email,Desktop,3/30/2024,No,No,No,$0.00 
+CMP985 ,CUSAT9797,Holiday Promo,Email,Tablet,11/17/2024,Yes,Yes,Yes,$694.30 
+CMP423 ,CUSAT9779,Summer Sale,Email,Mobile,10/16/2024,Yes,Yes,No,$0.00 
+CMP447 ,CUSAT7147,New Product Launch,Email,Mobile,5/23/2024,No,No,No,$0.00 
+CMP422 ,CUSAT1518,Holiday Promo,Email,Mobile,6/6/2024,No,No,No,$0.00 
+CMP409 ,CUSAT3867,Summer Sale,Email,Tablet,6/3/2024,No,No,No,$0.00 
+CMP594 ,CUSAT9192,Summer Sale,Email,Desktop,9/16/2024,Yes,Yes,Yes,$0.00 
+CMP200 ,CUSAT9456,New Product Launch,Email,Mobile,3/14/2024,No,No,No,$0.00 
+CMP145 ,CUSAT2426,Holiday Promo,Email,Mobile,2/29/2024,Yes,Yes,Yes,$0.00 
+CMP754 ,CUSAT4438,Holiday Promo,Email,Mobile,10/22/2024,Yes,Yes,Yes,$672.80 
+CMP379 ,CUSAT3446,Summer Sale,Email,Mobile,8/13/2024,Yes,No,No,$0.00 
+CMP458 ,CUSAT6218,Holiday Promo,Email,Tablet,2/22/2024,Yes,No,No,$0.00 
+CMP446 ,CUSAT9856,Black Friday,Email,Mobile,2/6/2024,Yes,Yes,Yes,$260.10 
+CMP536 ,CUSAT7421,Summer Sale,Email,Mobile,7/15/2024,Yes,Yes,No,$0.00 
+CMP928 ,CUSAT9740,Summer Sale,Email,Mobile,12/31/2024,Yes,No,No,$0.00 
+CMP759 ,CUSAT8625,Black Friday,Email,Mobile,8/21/2024,Yes,Yes,Yes,$628.70 
+CMP781 ,CUSAT6412,Holiday Promo,Email,Desktop,7/19/2024,Yes,No,No,$0.00 
+CMP966 ,CUSAT3798,Holiday Promo,Email,Mobile,6/28/2024,Yes,Yes,No,$0.00 
+CMP433 ,CUSAT2162,Holiday Promo,Email,Desktop,12/31/2024,No,No,No,$0.00 
+CMP593 ,CUSAT7288,Summer Sale,Email,Mobile,10/7/2024,No,No,No,$0.00 
+CMP277 ,CUSAT2276,New Product Launch,Email,Mobile,10/5/2024,Yes,No,No,$0.00 
+CMP515 ,CUSAT2140,New Product Launch,Email,Tablet,8/15/2024,Yes,No,No,$0.00 
+CMP242 ,CUSAT1003,Summer Sale,Email,Desktop,2/16/2024,Yes,No,No,$0.00 
+CMP310 ,CUSAT6187,Holiday Promo,Email,Desktop,10/22/2024,Yes,Yes,Yes,$422.30 
+CMP513 ,CUSAT3089,Holiday Promo,Email,Desktop,11/9/2024,Yes,Yes,Yes,$750.90 
+CMP388 ,CUSAT1510,Holiday Promo,Email,Tablet,7/2/2024,Yes,No,No,$0.00 
+CMP316 ,CUSAT3841,Black Friday,Email,Mobile,7/14/2024,No,No,No,$0.00 
+CMP993 ,CUSAT3056,Summer Sale,Email,Mobile,3/19/2024,No,No,No,$0.00 
+CMP757 ,CUSAT7813,Black Friday,Email,Mobile,3/10/2024,No,No,No,$0.00 
+CMP493 ,CUSAT6821,Holiday Promo,Email,Desktop,10/9/2024,Yes,No,No,$0.00 
+CMP520 ,CUSAT9948,New Product Launch,Email,Mobile,12/30/2024,Yes,Yes,Yes,"$1,350.70 "
+CMP807 ,CUSAT2311,Summer Sale,Email,Desktop,2/27/2024,Yes,No,No,$0.00 
+CMP745 ,CUSAT2279,New Product Launch,Email,Mobile,2/15/2024,Yes,No,No,$0.00 
+CMP580 ,CUSAT6431,Black Friday,Email,Tablet,8/28/2024,Yes,No,No,$0.00 
+CMP867 ,CUSAT5981,New Product Launch,Email,Mobile,12/21/2024,Yes,No,No,$0.00 
+CMP398 ,CUSAT1447,Holiday Promo,Email,Mobile,1/27/2024,Yes,Yes,Yes,$861.80 
+CMP387 ,CUSAT5509,Holiday Promo,Email,Tablet,5/9/2024,Yes,No,No,$0.00 
+CMP478 ,CUSAT3873,Holiday Promo,Email,Desktop,3/18/2024,Yes,Yes,Yes,$712.00 
+CMP709 ,CUSAT3525,Black Friday,Email,Tablet,2/13/2024,No,No,No,$0.00 
+CMP962 ,CUSAT6653,Summer Sale,Email,Tablet,4/17/2024,Yes,No,No,$0.00 
+CMP587 ,CUSAT9724,Holiday Promo,Email,Tablet,7/23/2024,No,No,No,$0.00 
+CMP112 ,CUSAT5731,Black Friday,Email,Tablet,9/28/2024,Yes,Yes,Yes,$643.80 
+CMP964 ,CUSAT8074,New Product Launch,Email,Desktop,9/29/2024,Yes,Yes,Yes,$890.30 
+CMP572 ,CUSAT4961,New Product Launch,Email,Mobile,12/1/2024,No,No,No,$0.00 
+CMP951 ,CUSAT2113,Summer Sale,Email,Mobile,1/6/2024,Yes,No,No,$0.00 
+CMP357 ,CUSAT4163,Summer Sale,Email,Mobile,4/22/2024,Yes,No,No,$0.00 
+CMP825 ,CUSAT2965,Summer Sale,Email,Desktop,11/2/2024,Yes,No,No,$0.00 
+CMP177 ,CUSAT8429,Holiday Promo,Email,Tablet,5/30/2024,Yes,No,No,$0.00 
+CMP491 ,CUSAT7366,Holiday Promo,Email,Desktop,5/21/2024,No,No,No,$0.00 
+CMP305 ,CUSAT7432,Summer Sale,Email,Mobile,9/8/2024,Yes,No,No,$0.00 
+CMP552 ,CUSAT5243,Summer Sale,Email,Mobile,11/10/2024,Yes,Yes,No,$0.00 
+CMP252 ,CUSAT1014,Summer Sale,Email,Desktop,1/10/2024,Yes,No,No,$0.00 
+CMP889 ,CUSAT9039,Black Friday,Email,Desktop,1/2/2024,Yes,No,No,$0.00 
+CMP937 ,CUSAT8898,Summer Sale,Email,Desktop,7/15/2024,No,No,No,$0.00 
+CMP448 ,CUSAT2318,Black Friday,Email,Tablet,7/6/2024,No,No,No,$0.00 
+CMP406 ,CUSAT7391,Summer Sale,Email,Desktop,7/15/2024,No,No,No,$0.00 
+CMP837 ,CUSAT4907,Black Friday,Email,Mobile,1/19/2024,Yes,No,No,$0.00 
+CMP116 ,CUSAT1606,Holiday Promo,Email,Desktop,8/18/2024,No,No,No,$0.00 
+CMP569 ,CUSAT9791,Summer Sale,Email,Mobile,11/30/2024,No,No,No,$0.00 
+CMP733 ,CUSAT1750,Holiday Promo,Email,Mobile,8/29/2024,Yes,Yes,Yes,$195.20 
+CMP955 ,CUSAT2047,Summer Sale,Email,Desktop,8/21/2024,Yes,No,No,$0.00 
+CMP855 ,CUSAT7586,Holiday Promo,Email,Tablet,6/21/2024,Yes,No,No,$0.00 
+CMP443 ,CUSAT2035,Summer Sale,Email,Mobile,1/24/2024,Yes,No,No,$0.00 
+CMP695 ,CUSAT1666,Summer Sale,Email,Tablet,3/25/2024,Yes,No,No,$0.00 
+CMP283 ,CUSAT2460,New Product Launch,Email,Desktop,2/11/2024,No,No,No,$0.00 
+CMP561 ,CUSAT7750,Holiday Promo,Email,Mobile,11/23/2024,Yes,No,No,$0.00 
+CMP742 ,CUSAT5934,Holiday Promo,Email,Mobile,11/9/2024,No,No,No,$0.00 
+CMP733 ,CUSAT6929,Black Friday,Email,Desktop,9/28/2024,Yes,Yes,No,$0.00 
+CMP801 ,CUSAT8772,Black Friday,Email,Mobile,2/27/2024,Yes,Yes,Yes,$0.00 
+CMP442 ,CUSAT8424,Summer Sale,Email,Tablet,4/17/2024,Yes,No,No,$0.00 
+CMP218 ,CUSAT2160,Holiday Promo,Email,Mobile,1/15/2024,No,No,No,$0.00 
+CMP433 ,CUSAT4731,Summer Sale,Email,Tablet,4/27/2024,No,No,No,$0.00 
+CMP596 ,CUSAT1890,Black Friday,Email,Mobile,2/7/2024,No,No,No,$0.00 
+CMP298 ,CUSAT6875,Holiday Promo,Email,Desktop,3/10/2024,Yes,Yes,Yes,$507.70 
+CMP972 ,CUSAT8627,Black Friday,Email,Mobile,5/23/2024,No,No,No,$0.00 
+CMP753 ,CUSAT3784,New Product Launch,Email,Mobile,3/21/2024,Yes,No,No,$0.00 
+CMP573 ,CUSAT5573,Summer Sale,Email,Tablet,10/29/2024,No,No,No,$0.00 
+CMP705 ,CUSAT3440,New Product Launch,Email,Desktop,10/23/2024,Yes,No,No,$0.00 
+CMP503 ,CUSAT8852,New Product Launch,Email,Desktop,1/18/2024,No,No,No,$0.00 
+CMP516 ,CUSAT4571,Summer Sale,Email,Desktop,1/7/2024,Yes,Yes,No,$0.00 
+CMP820 ,CUSAT8524,New Product Launch,Email,Desktop,12/8/2024,No,No,No,$0.00 
+CMP820 ,CUSAT1022,New Product Launch,Email,Desktop,7/8/2024,Yes,Yes,Yes,$605.60 
+CMP814 ,CUSAT9887,New Product Launch,Email,Tablet,8/6/2024,Yes,Yes,Yes,$590.40 
+CMP790 ,CUSAT6963,Summer Sale,Email,Desktop,9/20/2024,No,No,No,$0.00 
+CMP763 ,CUSAT2097,Black Friday,Email,Mobile,7/6/2024,No,No,No,$0.00 
+CMP870 ,CUSAT4437,New Product Launch,Email,Desktop,11/28/2024,Yes,No,No,$0.00 
+CMP481 ,CUSAT6656,Black Friday,Email,Mobile,5/21/2024,Yes,No,No,$0.00 
+CMP399 ,CUSAT8405,New Product Launch,Email,Tablet,12/13/2024,No,No,No,$0.00 
+CMP283 ,CUSAT5724,Summer Sale,Email,Mobile,2/11/2024,Yes,No,No,$0.00 
+CMP633 ,CUSAT1371,Holiday Promo,Email,Tablet,3/18/2024,No,No,No,$0.00 
+CMP760 ,CUSAT1351,Holiday Promo,Email,Mobile,8/3/2024,No,No,No,$0.00 
+CMP771 ,CUSAT6346,Black Friday,Email,Desktop,7/29/2024,Yes,No,No,$0.00 
+CMP332 ,CUSAT8933,Holiday Promo,Email,Tablet,3/28/2024,No,No,No,$0.00 
+CMP733 ,CUSAT3634,New Product Launch,Email,Mobile,8/21/2024,No,No,No,$0.00 
+CMP424 ,CUSAT3072,Black Friday,Email,Desktop,2/29/2024,No,No,No,$0.00 
+CMP452 ,CUSAT3423,Holiday Promo,Email,Mobile,12/6/2024,Yes,Yes,Yes,"$1,098.50 "
+CMP611 ,CUSAT3381,Black Friday,Email,Mobile,1/13/2024,Yes,No,No,$0.00 
+CMP585 ,CUSAT5748,New Product Launch,Email,Tablet,11/27/2024,Yes,Yes,No,$0.00 
+CMP664 ,CUSAT2914,Holiday Promo,Email,Desktop,1/21/2024,Yes,Yes,Yes,$451.40 
+CMP756 ,CUSAT4197,New Product Launch,Email,Tablet,6/16/2024,Yes,Yes,Yes,$37.00 
+CMP793 ,CUSAT2431,Black Friday,Email,Mobile,10/2/2024,Yes,Yes,Yes,$288.90 
+CMP782 ,CUSAT6915,Black Friday,Email,Tablet,9/18/2024,Yes,Yes,Yes,$155.80 
+CMP459 ,CUSAT6047,Black Friday,Email,Mobile,1/7/2024,Yes,Yes,Yes,"$1,300.90 "
+CMP534 ,CUSAT7786,Summer Sale,Email,Mobile,3/24/2024,Yes,No,No,$0.00 
+CMP704 ,CUSAT7156,Summer Sale,Email,Desktop,6/20/2024,No,No,No,$0.00 
+CMP873 ,CUSAT3243,Holiday Promo,Email,Tablet,8/24/2024,Yes,No,No,$0.00 
+CMP409 ,CUSAT5979,Black Friday,Email,Mobile,1/22/2024,Yes,Yes,Yes,$148.40 
+CMP954 ,CUSAT8742,Summer Sale,Email,Desktop,6/2/2024,Yes,Yes,Yes,$390.20 
+CMP604 ,CUSAT2093,New Product Launch,Email,Mobile,3/2/2024,Yes,Yes,Yes,$795.80 
+CMP810 ,CUSAT2959,Holiday Promo,Email,Tablet,11/17/2024,No,No,No,$0.00 
+CMP999 ,CUSAT3219,Holiday Promo,Email,Mobile,3/15/2024,Yes,No,No,$0.00 
+CMP642 ,CUSAT2258,Black Friday,Email,Tablet,1/25/2024,Yes,No,No,$0.00 
+CMP423 ,CUSAT5932,Holiday Promo,Email,Mobile,10/5/2024,Yes,Yes,No,$0.00 
+CMP388 ,CUSAT7111,Black Friday,Email,Desktop,1/7/2024,Yes,No,No,$0.00 
+CMP292 ,CUSAT9612,Black Friday,Email,Desktop,9/14/2024,Yes,Yes,No,$0.00 
+CMP419 ,CUSAT6940,Summer Sale,Email,Mobile,1/9/2024,Yes,No,No,$0.00 
+CMP221 ,CUSAT4643,Summer Sale,Email,Tablet,1/15/2024,Yes,No,No,$0.00 
+CMP535 ,CUSAT2830,Summer Sale,Email,Tablet,3/7/2024,No,No,No,$0.00 
+CMP775 ,CUSAT9412,New Product Launch,Email,Desktop,2/25/2024,Yes,Yes,Yes,$0.00 
+CMP872 ,CUSAT2581,Summer Sale,Email,Mobile,6/3/2024,Yes,Yes,Yes,$837.30 
+CMP864 ,CUSAT5544,New Product Launch,Email,Desktop,2/16/2024,No,No,No,$0.00 
+CMP201 ,CUSAT1229,Black Friday,Email,Tablet,9/15/2024,Yes,No,No,$0.00 
+CMP201 ,CUSAT4506,Black Friday,Email,Desktop,1/3/2024,No,No,No,$0.00 
+CMP534 ,CUSAT4510,Black Friday,Email,Desktop,6/30/2024,Yes,Yes,No,$0.00 
+CMP607 ,CUSAT6918,New Product Launch,Email,Mobile,2/26/2024,Yes,Yes,No,$0.00 
+CMP567 ,CUSAT6111,New Product Launch,Email,Mobile,2/29/2024,No,No,No,$0.00 
+CMP961 ,CUSAT8793,New Product Launch,Email,Mobile,4/6/2024,No,No,No,$0.00 
+CMP792 ,CUSAT2392,Summer Sale,Email,Desktop,8/12/2024,Yes,Yes,No,$0.00 
+CMP303 ,CUSAT6548,Holiday Promo,Email,Mobile,2/3/2024,Yes,No,No,$0.00 
+CMP707 ,CUSAT5472,New Product Launch,Email,Desktop,12/31/2024,Yes,No,No,$0.00 
+CMP886 ,CUSAT8448,Summer Sale,Email,Desktop,9/18/2024,No,No,No,$0.00 
+CMP154 ,CUSAT2117,Black Friday,Email,Mobile,1/16/2024,Yes,Yes,No,$0.00 
+CMP198 ,CUSAT2253,New Product Launch,Email,Tablet,6/4/2024,No,No,No,$0.00 
+CMP655 ,CUSAT6629,Black Friday,Email,Tablet,9/8/2024,No,No,No,$0.00 
+CMP485 ,CUSAT8250,Black Friday,Email,Mobile,8/18/2024,Yes,Yes,No,$0.00 
+CMP419 ,CUSAT7374,Black Friday,Email,Mobile,9/8/2024,Yes,Yes,Yes,$684.40 
+CMP974 ,CUSAT3560,Black Friday,Email,Desktop,8/28/2024,No,No,No,$0.00 
+CMP884 ,CUSAT5660,Holiday Promo,Email,Mobile,11/11/2024,No,No,No,$0.00 
+CMP740 ,CUSAT6591,Black Friday,Email,Desktop,10/25/2024,Yes,No,No,$0.00 
+CMP353 ,CUSAT4844,New Product Launch,Email,Mobile,1/29/2024,Yes,Yes,Yes,$585.00 
+CMP651 ,CUSAT6343,Summer Sale,Email,Tablet,6/21/2024,Yes,Yes,No,$0.00 
+CMP580 ,CUSAT1364,Holiday Promo,Email,Mobile,5/16/2024,Yes,Yes,Yes,$0.00 
+CMP791 ,CUSAT4373,Holiday Promo,Email,Mobile,9/7/2024,No,No,No,$0.00 
+CMP306 ,CUSAT9142,New Product Launch,Email,Tablet,7/5/2024,No,No,No,$0.00 
+CMP687 ,CUSAT7586,Holiday Promo,Email,Tablet,1/25/2024,Yes,Yes,Yes,$577.20 
+CMP643 ,CUSAT8786,Black Friday,Email,Desktop,2/4/2024,Yes,No,No,$0.00 
+CMP420 ,CUSAT4278,Black Friday,Email,Desktop,8/9/2024,No,No,No,$0.00 
+CMP628 ,CUSAT4056,New Product Launch,Email,Mobile,1/10/2024,Yes,No,No,$0.00 
+CMP844 ,CUSAT1981,Black Friday,Email,Desktop,8/10/2024,No,No,No,$0.00 
+CMP964 ,CUSAT8133,Black Friday,Email,Tablet,12/16/2024,No,No,No,$0.00 
+CMP362 ,CUSAT4868,Black Friday,Email,Mobile,5/26/2024,Yes,Yes,No,$0.00 
+CMP673 ,CUSAT8145,Black Friday,Email,Mobile,6/7/2024,Yes,No,No,$0.00 
+CMP384 ,CUSAT3883,New Product Launch,Email,Tablet,5/12/2024,Yes,Yes,Yes,$739.10 
+CMP987 ,CUSAT2041,Black Friday,Email,Tablet,6/9/2024,No,No,No,$0.00 
+CMP612 ,CUSAT2976,Black Friday,Email,Desktop,2/27/2024,Yes,Yes,Yes,$288.70 
+CMP698 ,CUSAT7388,New Product Launch,Email,Desktop,6/9/2024,Yes,Yes,No,$0.00 
+CMP550 ,CUSAT7690,Holiday Promo,Email,Desktop,4/19/2024,Yes,Yes,Yes,$208.70 
+CMP799 ,CUSAT5036,Holiday Promo,Email,Desktop,10/6/2024,Yes,Yes,Yes,$763.30 
+CMP720 ,CUSAT1570,New Product Launch,Email,Tablet,11/26/2024,Yes,No,No,$0.00 
+CMP817 ,CUSAT6945,New Product Launch,Email,Mobile,6/7/2024,Yes,No,No,$0.00 
+CMP361 ,CUSAT5929,Summer Sale,Email,Desktop,7/20/2024,Yes,Yes,Yes,$789.10 
+CMP134 ,CUSAT5489,Summer Sale,Email,Desktop,11/25/2024,Yes,Yes,Yes,$702.40 
+CMP618 ,CUSAT2087,Holiday Promo,Email,Mobile,3/23/2024,Yes,Yes,Yes,$993.10 
+CMP288 ,CUSAT8264,New Product Launch,Email,Mobile,1/27/2024,Yes,Yes,Yes,"$1,266.20 "
+CMP261 ,CUSAT5089,Black Friday,Email,Tablet,10/21/2024,Yes,No,No,$0.00 
+CMP803 ,CUSAT6367,Holiday Promo,Email,Mobile,3/9/2024,Yes,No,No,$0.00 
+CMP684 ,CUSAT4677,Summer Sale,Email,Mobile,7/12/2024,Yes,No,No,$0.00 
+CMP272 ,CUSAT1815,Black Friday,Email,Mobile,5/14/2024,Yes,Yes,Yes,$350.10 
+CMP220 ,CUSAT1231,New Product Launch,Email,Tablet,3/28/2024,Yes,Yes,No,$0.00 
+CMP982 ,CUSAT5361,Holiday Promo,Email,Desktop,12/31/2024,No,No,No,$0.00 
+CMP389 ,CUSAT4102,Black Friday,Email,Desktop,4/20/2024,Yes,Yes,Yes,$309.70 
+CMP354 ,CUSAT7056,New Product Launch,Email,Mobile,4/30/2024,No,No,No,$0.00 
+CMP317 ,CUSAT7283,New Product Launch,Email,Tablet,12/20/2024,Yes,Yes,No,$0.00 
+CMP340 ,CUSAT8715,Holiday Promo,Email,Mobile,1/31/2024,No,No,No,$0.00 
+CMP787 ,CUSAT7076,Summer Sale,Email,Mobile,6/3/2024,Yes,No,No,$0.00 
+CMP998 ,CUSAT8669,Summer Sale,Email,Desktop,9/9/2024,No,No,No,$0.00 
+CMP230 ,CUSAT9179,Holiday Promo,Email,Desktop,2/29/2024,Yes,No,No,$0.00 
+CMP268 ,CUSAT6169,New Product Launch,Email,Tablet,9/21/2024,Yes,No,No,$0.00 
+CMP335 ,CUSAT4000,Summer Sale,Email,Desktop,4/6/2024,No,No,No,$0.00 
+CMP465 ,CUSAT8949,Black Friday,Email,Mobile,9/10/2024,Yes,Yes,Yes,$0.00 
+CMP284 ,CUSAT3757,New Product Launch,Email,Mobile,4/14/2024,Yes,Yes,Yes,"$1,653.00 "
+CMP178 ,CUSAT5033,Black Friday,Email,Desktop,10/19/2024,Yes,Yes,No,$0.00 
+CMP208 ,CUSAT6300,Summer Sale,Email,Mobile,7/10/2024,No,No,No,$0.00 
+CMP437 ,CUSAT1718,New Product Launch,Email,Desktop,10/31/2024,Yes,Yes,Yes,$256.70 
+CMP861 ,CUSAT2158,Black Friday,Email,Mobile,6/14/2024,Yes,No,No,$0.00 
+CMP972 ,CUSAT4411,Summer Sale,Email,Tablet,7/23/2024,Yes,No,No,$0.00 
+CMP542 ,CUSAT6080,New Product Launch,Email,Desktop,6/1/2024,Yes,No,No,$0.00 
+CMP497 ,CUSAT8805,Holiday Promo,Email,Mobile,9/7/2024,Yes,No,No,$0.00 
+CMP195 ,CUSAT1662,Black Friday,Email,Desktop,8/10/2024,Yes,Yes,Yes,$561.60 
+CMP185 ,CUSAT5762,Black Friday,Email,Mobile,11/18/2024,Yes,No,No,$0.00 
+CMP961 ,CUSAT5073,Black Friday,Email,Desktop,12/16/2024,Yes,Yes,Yes,$318.80 
+CMP535 ,CUSAT7766,Summer Sale,Email,Tablet,9/19/2024,Yes,Yes,Yes,$586.00 
+CMP116 ,CUSAT2866,New Product Launch,Email,Mobile,2/11/2024,Yes,Yes,Yes,"$1,308.30 "
+CMP404 ,CUSAT6143,New Product Launch,Email,Tablet,8/1/2024,Yes,Yes,Yes,$349.20 
+CMP180 ,CUSAT5248,New Product Launch,Email,Desktop,4/5/2024,Yes,Yes,No,$0.00 
+CMP771 ,CUSAT8817,Black Friday,Email,Tablet,2/29/2024,Yes,No,No,$0.00 
+CMP806 ,CUSAT7471,Holiday Promo,Email,Mobile,7/3/2024,Yes,No,No,$0.00 
+CMP292 ,CUSAT1439,Holiday Promo,Email,Tablet,1/9/2024,No,No,No,$0.00 
+CMP888 ,CUSAT8592,Summer Sale,Email,Desktop,4/7/2024,Yes,No,No,$0.00 
+CMP596 ,CUSAT8724,Summer Sale,Email,Mobile,12/25/2024,Yes,Yes,Yes,$848.70 
+CMP108 ,CUSAT2682,New Product Launch,Email,Desktop,7/19/2024,Yes,No,No,$0.00 
+CMP509 ,CUSAT8964,Black Friday,Email,Mobile,5/28/2024,Yes,No,No,$0.00 
+CMP165 ,CUSAT5388,New Product Launch,Email,Desktop,10/22/2024,No,No,No,$0.00 
+CMP121 ,CUSAT3643,Holiday Promo,Email,Desktop,8/17/2024,No,No,No,$0.00 
+CMP801 ,CUSAT6556,New Product Launch,Email,Mobile,4/22/2024,No,No,No,$0.00 
+CMP964 ,CUSAT3654,New Product Launch,Email,Desktop,8/29/2024,No,No,No,$0.00 
+CMP603 ,CUSAT2653,Black Friday,Email,Desktop,4/12/2024,No,No,No,$0.00 
+CMP367 ,CUSAT6849,New Product Launch,Email,Mobile,1/10/2024,Yes,Yes,Yes,$752.10 
+CMP332 ,CUSAT2977,Black Friday,Email,Desktop,8/8/2024,Yes,Yes,Yes,$844.30 
+CMP254 ,CUSAT9444,New Product Launch,Email,Tablet,10/12/2024,Yes,Yes,Yes,$823.90 
+CMP724 ,CUSAT2669,Black Friday,Email,Mobile,2/24/2024,No,No,No,$0.00 
+CMP399 ,CUSAT8233,Black Friday,Email,Tablet,7/4/2024,No,No,No,$0.00 
+CMP306 ,CUSAT8194,Black Friday,Email,Mobile,3/11/2024,Yes,Yes,Yes,$783.70 
+CMP481 ,CUSAT7799,Holiday Promo,Email,Mobile,3/28/2024,No,No,No,$0.00 
+CMP519 ,CUSAT8516,Black Friday,Email,Mobile,8/7/2024,No,No,No,$0.00 
+CMP422 ,CUSAT7580,Summer Sale,Email,Mobile,2/5/2024,Yes,No,No,$0.00 
+CMP830 ,CUSAT9516,Holiday Promo,Email,Desktop,1/30/2024,Yes,Yes,Yes,$683.10 
+CMP640 ,CUSAT3406,New Product Launch,Email,Desktop,1/5/2024,Yes,Yes,Yes,$708.70 
+CMP453 ,CUSAT7627,Holiday Promo,Email,Mobile,11/29/2024,Yes,Yes,No,$0.00 
+CMP653 ,CUSAT5651,Holiday Promo,Email,Mobile,3/5/2024,Yes,No,No,$0.00 
+CMP128 ,CUSAT9846,New Product Launch,Email,Mobile,11/21/2024,Yes,No,No,$0.00 
+CMP365 ,CUSAT9314,Holiday Promo,Email,Mobile,1/31/2024,Yes,Yes,Yes,$584.20 
+CMP341 ,CUSAT9737,New Product Launch,Email,Desktop,1/3/2024,Yes,No,No,$0.00 
+CMP855 ,CUSAT5057,Summer Sale,Email,Mobile,12/31/2024,Yes,No,No,$0.00 
+CMP948 ,CUSAT7751,Summer Sale,Email,Mobile,3/16/2024,Yes,No,No,$0.00 
+CMP793 ,CUSAT9622,Black Friday,Email,Tablet,8/16/2024,Yes,No,No,$0.00 
+CMP601 ,CUSAT7830,Summer Sale,Email,Mobile,8/13/2024,No,No,No,$0.00 
+CMP641 ,CUSAT2934,New Product Launch,Email,Desktop,12/26/2024,Yes,No,No,$0.00 
+CMP221 ,CUSAT7694,Summer Sale,Email,Desktop,7/8/2024,Yes,No,No,$0.00 
+CMP483 ,CUSAT5968,Holiday Promo,Email,Mobile,3/1/2024,No,No,No,$0.00 
+CMP412 ,CUSAT5644,Holiday Promo,Email,Tablet,1/25/2024,Yes,Yes,Yes,$476.40 
+CMP145 ,CUSAT7841,Black Friday,Email,Mobile,6/27/2024,Yes,No,No,$0.00 
+CMP241 ,CUSAT9270,New Product Launch,Email,Tablet,11/6/2024,No,No,No,$0.00 
+CMP780 ,CUSAT7711,Black Friday,Email,Desktop,2/15/2024,No,No,No,$0.00 
+CMP986 ,CUSAT3713,New Product Launch,Email,Mobile,5/22/2024,No,No,No,$0.00 
+CMP733 ,CUSAT9877,New Product Launch,Email,Mobile,2/13/2024,No,No,No,$0.00 
+CMP644 ,CUSAT3944,Summer Sale,Email,Tablet,1/10/2024,No,No,No,$0.00 
+CMP721 ,CUSAT6249,Black Friday,Email,Desktop,2/13/2024,Yes,No,No,$0.00 
+CMP640 ,CUSAT6199,Black Friday,Email,Mobile,7/31/2024,Yes,No,No,$0.00 
+CMP361 ,CUSAT2468,Summer Sale,Email,Desktop,5/26/2024,Yes,Yes,Yes,"$1,012.80 "
+CMP159 ,CUSAT5882,Black Friday,Email,Desktop,4/2/2024,No,No,No,$0.00 
+CMP223 ,CUSAT1849,Holiday Promo,Email,Tablet,7/11/2024,No,No,No,$0.00 
+CMP375 ,CUSAT1993,Holiday Promo,Email,Mobile,7/16/2024,Yes,No,No,$0.00 
+CMP119 ,CUSAT5409,Black Friday,Email,Mobile,7/27/2024,No,No,No,$0.00 
+CMP966 ,CUSAT9199,Holiday Promo,Email,Desktop,7/27/2024,No,No,No,$0.00 
+CMP668 ,CUSAT8401,Summer Sale,Email,Tablet,8/4/2024,No,No,No,$0.00 
+CMP593 ,CUSAT5477,New Product Launch,Email,Tablet,1/1/2024,Yes,No,No,$0.00 
+CMP265 ,CUSAT9750,New Product Launch,Email,Desktop,9/18/2024,No,No,No,$0.00 
+CMP999 ,CUSAT8077,Holiday Promo,Email,Tablet,10/11/2024,Yes,No,No,$0.00 
+CMP429 ,CUSAT6597,Holiday Promo,Email,Mobile,5/5/2024,Yes,No,No,$0.00 
+CMP109 ,CUSAT3843,Black Friday,Email,Tablet,11/7/2024,Yes,Yes,Yes,"$1,181.40 "
+CMP952 ,CUSAT8293,New Product Launch,Email,Desktop,10/2/2024,Yes,Yes,No,$0.00 
+CMP931 ,CUSAT1138,Summer Sale,Email,Desktop,3/31/2024,No,No,No,$0.00 
+CMP796 ,CUSAT6862,Holiday Promo,Email,Tablet,1/11/2024,No,No,No,$0.00 
+CMP604 ,CUSAT4425,Summer Sale,Email,Tablet,7/4/2024,Yes,Yes,No,$0.00 
+CMP665 ,CUSAT4174,New Product Launch,Email,Mobile,9/13/2024,Yes,No,No,$0.00 
+CMP635 ,CUSAT5494,Holiday Promo,Email,Tablet,10/18/2024,Yes,Yes,No,$0.00 
+CMP537 ,CUSAT1849,Holiday Promo,Email,Tablet,8/20/2024,Yes,Yes,No,$0.00 
+CMP629 ,CUSAT1712,New Product Launch,Email,Mobile,8/26/2024,No,No,No,$0.00 
+CMP299 ,CUSAT6483,Summer Sale,Email,Tablet,6/10/2024,No,No,No,$0.00 
+CMP418 ,CUSAT2029,New Product Launch,Email,Mobile,4/10/2024,No,No,No,$0.00 
+CMP960 ,CUSAT5102,Holiday Promo,Email,Desktop,11/16/2024,Yes,Yes,Yes,"$1,220.20 "
+CMP174 ,CUSAT8184,Summer Sale,Email,Mobile,9/23/2024,Yes,Yes,Yes,$200.70 
+CMP968 ,CUSAT2065,Summer Sale,Email,Tablet,7/12/2024,Yes,Yes,No,$0.00 
+CMP204 ,CUSAT1914,Black Friday,Email,Desktop,11/16/2024,No,No,No,$0.00 
+CMP713 ,CUSAT1173,Black Friday,Email,Desktop,7/29/2024,Yes,Yes,Yes,$580.20 
+CMP791 ,CUSAT1425,Black Friday,Email,Mobile,6/22/2024,Yes,Yes,Yes,$870.00 
+CMP707 ,CUSAT4172,New Product Launch,Email,Tablet,10/31/2024,Yes,Yes,No,$0.00 
+CMP555 ,CUSAT4046,Holiday Promo,Email,Tablet,9/3/2024,Yes,Yes,Yes,$753.00 
+CMP767 ,CUSAT6861,Holiday Promo,Email,Mobile,10/26/2024,Yes,Yes,Yes,$666.60 
+CMP108 ,CUSAT9481,New Product Launch,Email,Mobile,5/29/2024,Yes,Yes,Yes,$797.00 
+CMP305 ,CUSAT4297,Summer Sale,Email,Mobile,8/4/2024,Yes,Yes,Yes,$715.70 
+CMP443 ,CUSAT5909,Black Friday,Email,Mobile,10/23/2024,No,No,No,$0.00 
+CMP754 ,CUSAT4654,New Product Launch,Email,Desktop,4/22/2024,Yes,Yes,Yes,$344.90 
+CMP288 ,CUSAT1110,Holiday Promo,Email,Mobile,7/11/2024,Yes,Yes,Yes,$387.60 
+CMP299 ,CUSAT6896,Summer Sale,Email,Mobile,3/13/2024,Yes,No,No,$0.00 
+CMP447 ,CUSAT5029,Summer Sale,Email,Mobile,5/14/2024,Yes,Yes,Yes,$377.80 
+CMP770 ,CUSAT2818,Holiday Promo,Email,Desktop,12/12/2024,Yes,Yes,Yes,$345.10 
+CMP639 ,CUSAT8106,New Product Launch,Email,Mobile,12/4/2024,No,No,No,$0.00 
+CMP483 ,CUSAT6209,New Product Launch,Email,Tablet,9/29/2024,Yes,Yes,Yes,"$1,168.20 "
+CMP401 ,CUSAT3434,Holiday Promo,Email,Mobile,4/6/2024,No,No,No,$0.00 
+CMP183 ,CUSAT8711,New Product Launch,Email,Mobile,9/7/2024,No,No,No,$0.00 
+CMP283 ,CUSAT6272,New Product Launch,Email,Mobile,9/12/2024,Yes,Yes,Yes,$788.60 
+CMP909 ,CUSAT1599,Holiday Promo,Email,Mobile,10/24/2024,No,No,No,$0.00 
+CMP486 ,CUSAT3575,Holiday Promo,Email,Mobile,6/5/2024,Yes,Yes,Yes,$853.20 
+CMP335 ,CUSAT1674,Black Friday,Email,Desktop,8/15/2024,No,No,No,$0.00 
+CMP424 ,CUSAT5473,Black Friday,Email,Mobile,7/7/2024,No,No,No,$0.00 
+CMP401 ,CUSAT9220,Black Friday,Email,Tablet,7/2/2024,Yes,Yes,Yes,"$1,219.00 "
+CMP659 ,CUSAT4281,Holiday Promo,Email,Tablet,2/6/2024,Yes,Yes,Yes,"$1,318.40 "
+CMP241 ,CUSAT9898,Holiday Promo,Email,Tablet,4/7/2024,Yes,Yes,No,$0.00 
+CMP875 ,CUSAT1194,Black Friday,Email,Tablet,7/26/2024,No,No,No,$0.00 
+CMP701 ,CUSAT8679,New Product Launch,Email,Desktop,8/30/2024,Yes,No,No,$0.00 
+CMP549 ,CUSAT8372,Black Friday,Email,Desktop,12/23/2024,Yes,Yes,Yes,$733.80 
+CMP774 ,CUSAT6810,Holiday Promo,Email,Desktop,1/5/2024,Yes,Yes,Yes,$863.40 
+CMP681 ,CUSAT1527,Summer Sale,Email,Desktop,6/15/2024,No,No,No,$0.00 
+CMP292 ,CUSAT8778,Summer Sale,Email,Mobile,2/2/2024,Yes,Yes,No,$0.00 
+CMP281 ,CUSAT1525,New Product Launch,Email,Mobile,2/23/2024,No,No,No,$0.00 
+CMP398 ,CUSAT9591,Summer Sale,Email,Mobile,5/25/2024,No,No,No,$0.00 
+CMP520 ,CUSAT7407,Summer Sale,Email,Mobile,6/16/2024,Yes,Yes,Yes,$307.70 
+CMP986 ,CUSAT4382,Summer Sale,Email,Desktop,7/18/2024,No,No,No,$0.00 
+CMP701 ,CUSAT4325,Black Friday,Email,Desktop,10/21/2024,Yes,No,No,$0.00 
+CMP719 ,CUSAT5044,Black Friday,Email,Mobile,2/2/2024,No,No,No,$0.00 
+CMP394 ,CUSAT8476,Holiday Promo,Email,Desktop,1/21/2024,No,No,No,$0.00 
+CMP568 ,CUSAT7302,New Product Launch,Email,Tablet,11/12/2024,No,No,No,$0.00 
+CMP743 ,CUSAT9810,Holiday Promo,Email,Tablet,3/21/2024,No,No,No,$0.00 
+CMP178 ,CUSAT2723,Black Friday,Email,Desktop,3/3/2024,No,No,No,$0.00 
+CMP127 ,CUSAT2199,New Product Launch,Email,Desktop,9/16/2024,No,No,No,$0.00 
+CMP217 ,CUSAT3236,Holiday Promo,Email,Desktop,1/20/2024,Yes,Yes,No,$0.00 
+CMP548 ,CUSAT3297,Black Friday,Email,Tablet,12/2/2024,Yes,Yes,Yes,"$1,017.70 "
+CMP227 ,CUSAT9759,New Product Launch,Email,Mobile,2/21/2024,Yes,Yes,No,$0.00 
+CMP321 ,CUSAT1564,New Product Launch,Email,Desktop,8/13/2024,Yes,Yes,No,$0.00 
+CMP153 ,CUSAT1076,Summer Sale,Email,Tablet,12/19/2024,No,No,No,$0.00 
+CMP531 ,CUSAT1457,Summer Sale,Email,Tablet,4/12/2024,Yes,No,No,$0.00 
+CMP271 ,CUSAT1721,Black Friday,Email,Tablet,12/6/2024,Yes,Yes,No,$0.00 
+CMP654 ,CUSAT7472,Black Friday,Email,Mobile,11/15/2024,Yes,Yes,Yes,"$1,043.50 "
+CMP769 ,CUSAT6181,Summer Sale,Email,Mobile,3/29/2024,No,No,No,$0.00 
+CMP144 ,CUSAT2103,Holiday Promo,Email,Desktop,11/28/2024,Yes,Yes,Yes,$802.90 
+CMP197 ,CUSAT6314,New Product Launch,Email,Tablet,3/28/2024,Yes,Yes,Yes,"$1,026.70 "
+CMP443 ,CUSAT1289,New Product Launch,Email,Desktop,12/7/2024,Yes,No,No,$0.00 
+CMP338 ,CUSAT1347,New Product Launch,Email,Desktop,12/26/2024,Yes,No,No,$0.00 
+CMP483 ,CUSAT9171,Holiday Promo,Email,Mobile,2/10/2024,Yes,Yes,No,$0.00 
+CMP554 ,CUSAT6385,Summer Sale,Email,Desktop,11/2/2024,Yes,No,No,$0.00 
+CMP850 ,CUSAT6427,Holiday Promo,Email,Mobile,1/13/2024,Yes,No,No,$0.00 
+CMP633 ,CUSAT6269,Summer Sale,Email,Tablet,11/7/2024,Yes,No,No,$0.00 
+CMP244 ,CUSAT4345,Summer Sale,Email,Mobile,4/8/2024,No,No,No,$0.00 
+CMP578 ,CUSAT6103,Summer Sale,Email,Mobile,2/10/2024,No,No,No,$0.00 
+CMP559 ,CUSAT4299,Holiday Promo,Email,Mobile,6/4/2024,No,No,No,$0.00 
+CMP617 ,CUSAT8101,Summer Sale,Email,Mobile,8/29/2024,No,No,No,$0.00 
+CMP666 ,CUSAT3878,Holiday Promo,Email,Desktop,10/31/2024,No,No,No,$0.00 
+CMP173 ,CUSAT6459,Summer Sale,Email,Mobile,10/14/2024,No,No,No,$0.00 
+CMP483 ,CUSAT9051,Black Friday,Email,Desktop,9/13/2024,No,No,No,$0.00 
+CMP172 ,CUSAT7697,Summer Sale,Email,Desktop,11/24/2024,No,No,No,$0.00 
+CMP600 ,CUSAT7032,New Product Launch,Email,Tablet,6/27/2024,No,No,No,$0.00 
+CMP932 ,CUSAT6921,New Product Launch,Email,Tablet,9/1/2024,Yes,No,No,$0.00 
+CMP353 ,CUSAT3644,Summer Sale,Email,Tablet,12/14/2024,Yes,Yes,Yes,"$1,465.30 "
+CMP293 ,CUSAT7929,Summer Sale,Email,Desktop,2/11/2024,Yes,Yes,No,$0.00 
+CMP521 ,CUSAT2456,Summer Sale,Email,Tablet,10/27/2024,Yes,No,No,$0.00 
+CMP272 ,CUSAT9056,Summer Sale,Email,Mobile,12/23/2024,Yes,No,No,$0.00 
+CMP483 ,CUSAT4053,New Product Launch,Email,Mobile,8/8/2024,No,No,No,$0.00 
+CMP317 ,CUSAT4041,Holiday Promo,Email,Tablet,8/18/2024,No,No,No,$0.00 
+CMP739 ,CUSAT2789,New Product Launch,Email,Mobile,8/13/2024,Yes,No,No,$0.00 
+CMP130 ,CUSAT4846,Black Friday,Email,Tablet,5/21/2024,Yes,Yes,Yes,$843.20 
+CMP908 ,CUSAT1685,Summer Sale,Email,Mobile,1/4/2024,No,No,No,$0.00 
+CMP584 ,CUSAT6521,New Product Launch,Email,Desktop,5/16/2024,Yes,Yes,No,$0.00 
+CMP487 ,CUSAT1937,Holiday Promo,Email,Tablet,7/3/2024,Yes,No,No,$0.00 
+CMP225 ,CUSAT9693,Holiday Promo,Email,Desktop,3/12/2024,No,No,No,$0.00 
+CMP103 ,CUSAT6278,Summer Sale,Email,Tablet,7/30/2024,Yes,No,No,$0.00 
+CMP856 ,CUSAT2333,Holiday Promo,Email,Desktop,11/6/2024,Yes,Yes,Yes,$653.20 
+CMP990 ,CUSAT9520,New Product Launch,Email,Mobile,4/9/2024,Yes,Yes,Yes,$320.00 
+CMP556 ,CUSAT2895,Black Friday,Email,Mobile,8/27/2024,Yes,Yes,Yes,"$1,078.00 "
+CMP129 ,CUSAT3625,Holiday Promo,Email,Tablet,8/10/2024,No,No,No,$0.00 
+CMP239 ,CUSAT9757,New Product Launch,Email,Mobile,12/9/2024,Yes,No,No,$0.00 
+CMP486 ,CUSAT7252,New Product Launch,Email,Tablet,2/3/2024,Yes,Yes,No,$0.00 
+CMP191 ,CUSAT6574,New Product Launch,Email,Tablet,5/28/2024,Yes,Yes,No,$0.00 
+CMP690 ,CUSAT1027,Holiday Promo,Email,Mobile,6/9/2024,No,No,No,$0.00 
+CMP916 ,CUSAT3069,Black Friday,Email,Mobile,6/12/2024,Yes,No,No,$0.00 
+CMP403 ,CUSAT4586,Black Friday,Email,Mobile,6/10/2024,No,No,No,$0.00 
+CMP805 ,CUSAT3022,Holiday Promo,Email,Tablet,6/12/2024,No,No,No,$0.00 
+CMP441 ,CUSAT3501,New Product Launch,Email,Tablet,1/31/2024,Yes,No,No,$0.00 
+CMP934 ,CUSAT3608,Summer Sale,Email,Desktop,7/19/2024,No,No,No,$0.00 
+CMP844 ,CUSAT5637,Holiday Promo,Email,Tablet,7/19/2024,No,No,No,$0.00 
+CMP694 ,CUSAT1886,New Product Launch,Email,Desktop,6/14/2024,Yes,No,No,$0.00 
+CMP248 ,CUSAT4436,Holiday Promo,Email,Tablet,12/22/2024,Yes,Yes,Yes,$883.40 
+CMP979 ,CUSAT3418,Black Friday,Email,Tablet,12/13/2024,Yes,Yes,Yes,$697.50 
+CMP153 ,CUSAT2922,Black Friday,Email,Mobile,8/30/2024,No,No,No,$0.00 
+CMP506 ,CUSAT9005,Holiday Promo,Email,Tablet,1/18/2024,Yes,No,No,$0.00 
+CMP555 ,CUSAT7018,Summer Sale,Email,Mobile,5/20/2024,Yes,No,No,$0.00 
+CMP686 ,CUSAT8856,Holiday Promo,Email,Tablet,4/25/2024,No,No,No,$0.00 
+CMP201 ,CUSAT6328,Summer Sale,Email,Desktop,6/1/2024,Yes,Yes,Yes,$560.40 
+CMP631 ,CUSAT9830,New Product Launch,Email,Tablet,9/28/2024,Yes,No,No,$0.00 
+CMP668 ,CUSAT8327,Holiday Promo,Email,Mobile,12/21/2024,Yes,No,No,$0.00 
+CMP971 ,CUSAT1573,Summer Sale,Email,Mobile,2/14/2024,Yes,Yes,No,$0.00 
+CMP773 ,CUSAT1001,Holiday Promo,Email,Mobile,8/4/2024,Yes,Yes,No,$0.00 
+CMP811 ,CUSAT6127,Black Friday,Email,Mobile,3/12/2024,Yes,No,No,$0.00 
+CMP342 ,CUSAT1601,Holiday Promo,Email,Desktop,12/5/2024,No,No,No,$0.00 
+CMP384 ,CUSAT3105,New Product Launch,Email,Mobile,4/20/2024,Yes,Yes,No,$0.00 
+CMP509 ,CUSAT8472,Summer Sale,Email,Tablet,11/28/2024,No,No,No,$0.00 
+CMP375 ,CUSAT4156,New Product Launch,Email,Mobile,2/6/2024,Yes,No,No,$0.00 
+CMP906 ,CUSAT8104,Black Friday,Email,Mobile,3/19/2024,Yes,Yes,Yes,"$1,177.50 "
+CMP661 ,CUSAT7664,Summer Sale,Email,Tablet,9/29/2024,Yes,Yes,Yes,$567.20 
+CMP331 ,CUSAT5483,Summer Sale,Email,Desktop,3/15/2024,Yes,Yes,Yes,"$1,046.90 "
+CMP996 ,CUSAT6022,New Product Launch,Email,Mobile,3/30/2024,Yes,Yes,Yes,$737.10 
+CMP201 ,CUSAT1785,Summer Sale,Email,Tablet,10/9/2024,Yes,Yes,Yes,$782.70 
+CMP970 ,CUSAT7597,Black Friday,Email,Desktop,10/9/2024,No,No,No,$0.00 
+CMP853 ,CUSAT5380,Summer Sale,Email,Tablet,3/14/2024,Yes,No,No,$0.00 
+CMP462 ,CUSAT8678,Black Friday,Email,Desktop,4/3/2024,Yes,No,No,$0.00 
+CMP412 ,CUSAT7660,Holiday Promo,Email,Tablet,11/21/2024,Yes,No,No,$0.00 
+CMP186 ,CUSAT5683,Black Friday,Email,Tablet,3/25/2024,No,No,No,$0.00 
+CMP801 ,CUSAT9722,New Product Launch,Email,Desktop,9/2/2024,Yes,No,No,$0.00 
+CMP647 ,CUSAT6653,Holiday Promo,Email,Mobile,12/31/2024,No,No,No,$0.00 
+CMP959 ,CUSAT3184,Black Friday,Email,Mobile,3/30/2024,No,No,No,$0.00 
+CMP446 ,CUSAT5092,Black Friday,Email,Desktop,7/10/2024,Yes,Yes,Yes,$329.50 
+CMP746 ,CUSAT7449,Holiday Promo,Email,Tablet,4/19/2024,Yes,No,No,$0.00 
+CMP106 ,CUSAT8542,Holiday Promo,Email,Desktop,9/6/2024,Yes,Yes,No,$0.00 
+CMP203 ,CUSAT8058,Black Friday,Email,Mobile,7/24/2024,No,No,No,$0.00 
+CMP107 ,CUSAT3549,New Product Launch,Email,Mobile,3/4/2024,Yes,Yes,Yes,$651.30 
+CMP286 ,CUSAT9788,Holiday Promo,Email,Desktop,7/5/2024,Yes,Yes,Yes,$327.60 
+CMP991 ,CUSAT4251,Summer Sale,Email,Desktop,8/10/2024,No,No,No,$0.00 
+CMP264 ,CUSAT4260,Black Friday,Email,Mobile,6/18/2024,No,No,No,$0.00 
+CMP432 ,CUSAT7551,Black Friday,Email,Mobile,12/15/2024,Yes,Yes,No,$0.00 
+CMP113 ,CUSAT4874,Summer Sale,Email,Desktop,3/20/2024,No,No,No,$0.00 
+CMP879 ,CUSAT8027,Holiday Promo,Email,Tablet,5/24/2024,No,No,No,$0.00 
+CMP817 ,CUSAT5052,New Product Launch,Email,Mobile,2/28/2024,Yes,No,No,$0.00 
+CMP975 ,CUSAT3436,Holiday Promo,Email,Mobile,4/2/2024,Yes,Yes,No,$0.00 
+CMP731 ,CUSAT4270,Summer Sale,Email,Desktop,3/15/2024,Yes,Yes,No,$0.00 
+CMP590 ,CUSAT2005,Black Friday,Email,Tablet,4/23/2024,Yes,Yes,Yes,$914.30 
+CMP459 ,CUSAT7849,Holiday Promo,Email,Mobile,7/5/2024,Yes,Yes,Yes,$770.20 
+CMP317 ,CUSAT5674,Black Friday,Email,Mobile,12/4/2024,No,No,No,$0.00 
+CMP411 ,CUSAT2827,Summer Sale,Email,Tablet,9/8/2024,Yes,Yes,Yes,$580.90 
+CMP703 ,CUSAT9664,New Product Launch,Email,Mobile,7/4/2024,No,No,No,$0.00 
+CMP233 ,CUSAT2971,Summer Sale,Email,Mobile,2/14/2024,Yes,Yes,Yes,$136.70 
+CMP842 ,CUSAT8769,Holiday Promo,Email,Mobile,11/12/2024,Yes,Yes,No,$0.00 
+CMP998 ,CUSAT6690,Holiday Promo,Email,Tablet,12/30/2024,No,No,No,$0.00 
+CMP615 ,CUSAT1358,Summer Sale,Email,Tablet,8/2/2024,Yes,Yes,Yes,$511.60 
+CMP810 ,CUSAT4116,New Product Launch,Email,Desktop,2/1/2024,Yes,Yes,No,$0.00 
+CMP493 ,CUSAT7393,Black Friday,Email,Mobile,8/12/2024,Yes,No,No,$0.00 
+CMP109 ,CUSAT9401,Black Friday,Email,Desktop,4/21/2024,Yes,Yes,No,$0.00 
+CMP146 ,CUSAT9741,Holiday Promo,Email,Mobile,3/1/2024,Yes,No,No,$0.00 
+CMP354 ,CUSAT4440,Black Friday,Email,Mobile,1/27/2024,Yes,Yes,Yes,$327.20 
+CMP662 ,CUSAT5326,New Product Launch,Email,Desktop,2/12/2024,Yes,Yes,Yes,$199.40 
+CMP386 ,CUSAT3895,Holiday Promo,Email,Mobile,7/1/2024,Yes,Yes,Yes,$487.60 
+CMP552 ,CUSAT4614,Holiday Promo,Email,Mobile,10/9/2024,No,No,No,$0.00 
+CMP590 ,CUSAT2535,Black Friday,Email,Desktop,8/10/2024,No,No,No,$0.00 
+CMP284 ,CUSAT5621,Summer Sale,Email,Mobile,9/8/2024,No,No,No,$0.00 
+CMP536 ,CUSAT5018,Black Friday,Email,Mobile,2/5/2024,Yes,Yes,No,$0.00 
+CMP121 ,CUSAT2802,Summer Sale,Email,Mobile,2/21/2024,Yes,Yes,No,$0.00 
+CMP911 ,CUSAT1153,Summer Sale,Email,Tablet,11/17/2024,No,No,No,$0.00 
+CMP935 ,CUSAT3672,Holiday Promo,Email,Desktop,10/15/2024,Yes,Yes,Yes,$623.90 
+CMP656 ,CUSAT3016,Summer Sale,Email,Mobile,12/20/2024,Yes,Yes,Yes,$341.30 
+CMP329 ,CUSAT1393,Holiday Promo,Email,Desktop,7/31/2024,Yes,Yes,No,$0.00 
+CMP832 ,CUSAT2841,Black Friday,Email,Mobile,12/16/2024,Yes,Yes,Yes,$757.40 
+CMP221 ,CUSAT6906,Summer Sale,Email,Mobile,2/9/2024,Yes,Yes,Yes,$958.10 
+CMP795 ,CUSAT7967,Summer Sale,Email,Mobile,6/20/2024,Yes,Yes,Yes,$854.10 
+CMP371 ,CUSAT2251,Summer Sale,Email,Tablet,9/12/2024,Yes,No,No,$0.00 
+CMP904 ,CUSAT8838,Summer Sale,Email,Mobile,8/16/2024,Yes,Yes,Yes,$385.90 
+CMP286 ,CUSAT7308,Holiday Promo,Email,Desktop,6/14/2024,Yes,Yes,Yes,"$1,127.00 "
+CMP921 ,CUSAT5028,Black Friday,Email,Mobile,11/21/2024,Yes,Yes,No,$0.00 
+CMP335 ,CUSAT7301,Summer Sale,Email,Mobile,9/29/2024,Yes,Yes,Yes,"$1,430.10 "
+CMP971 ,CUSAT1281,Holiday Promo,Email,Mobile,1/2/2024,Yes,Yes,Yes,$324.30 
+CMP247 ,CUSAT7898,Holiday Promo,Email,Tablet,3/12/2024,Yes,Yes,Yes,"$1,294.40 "
+CMP486 ,CUSAT1431,New Product Launch,Email,Desktop,12/22/2024,Yes,Yes,Yes,$679.20 
+CMP991 ,CUSAT3591,Summer Sale,Email,Desktop,9/1/2024,Yes,Yes,Yes,$339.50 
+CMP933 ,CUSAT7823,Summer Sale,Email,Desktop,1/7/2024,Yes,Yes,No,$0.00 
+CMP554 ,CUSAT1216,Holiday Promo,Email,Mobile,7/29/2024,Yes,No,No,$0.00 
+CMP505 ,CUSAT7940,New Product Launch,Email,Mobile,9/14/2024,Yes,Yes,Yes,$769.70 
+CMP260 ,CUSAT5453,Summer Sale,Email,Mobile,12/29/2024,Yes,Yes,Yes,$809.20 
+CMP942 ,CUSAT2264,New Product Launch,Email,Desktop,4/22/2024,No,No,No,$0.00 
+CMP762 ,CUSAT7950,Holiday Promo,Email,Mobile,1/28/2024,Yes,Yes,Yes,$590.30 
+CMP388 ,CUSAT3666,Black Friday,Email,Mobile,6/20/2024,Yes,Yes,Yes,$0.00 
+CMP753 ,CUSAT1530,Holiday Promo,Email,Mobile,4/6/2024,Yes,No,No,$0.00 
+CMP416 ,CUSAT1138,Holiday Promo,Email,Desktop,1/25/2024,Yes,No,No,$0.00 
+CMP819 ,CUSAT2595,Holiday Promo,Email,Tablet,7/1/2024,Yes,Yes,No,$0.00 
+CMP491 ,CUSAT8814,New Product Launch,Email,Desktop,1/13/2024,Yes,Yes,Yes,$648.00 
+CMP835 ,CUSAT4794,Holiday Promo,Email,Tablet,11/16/2024,Yes,Yes,Yes,$845.40 
+CMP887 ,CUSAT6593,Black Friday,Email,Desktop,11/29/2024,Yes,No,No,$0.00 
+CMP892 ,CUSAT7350,Holiday Promo,Email,Mobile,1/21/2024,No,No,No,$0.00 
+CMP246 ,CUSAT6071,Black Friday,Email,Desktop,2/19/2024,Yes,No,No,$0.00 
+CMP386 ,CUSAT6952,Holiday Promo,Email,Mobile,5/31/2024,Yes,No,No,$0.00 
+CMP552 ,CUSAT3301,Summer Sale,Email,Mobile,5/11/2024,Yes,No,No,$0.00 
+CMP232 ,CUSAT8222,Holiday Promo,Email,Desktop,11/13/2024,No,No,No,$0.00 
+CMP798 ,CUSAT1699,New Product Launch,Email,Tablet,5/14/2024,Yes,Yes,No,$0.00 
+CMP262 ,CUSAT7541,Summer Sale,Email,Desktop,2/23/2024,Yes,Yes,No,$0.00 
+CMP937 ,CUSAT8616,Summer Sale,Email,Mobile,8/27/2024,No,No,No,$0.00 
+CMP424 ,CUSAT6610,New Product Launch,Email,Mobile,7/24/2024,Yes,Yes,No,$0.00 
+CMP581 ,CUSAT3384,New Product Launch,Email,Desktop,1/20/2024,Yes,Yes,Yes,"$1,018.90 "
+CMP584 ,CUSAT4496,Summer Sale,Email,Tablet,7/4/2024,Yes,Yes,Yes,"$1,273.60 "
+CMP245 ,CUSAT2134,Holiday Promo,Email,Mobile,11/21/2024,Yes,Yes,Yes,$416.50 
+CMP365 ,CUSAT4015,Summer Sale,Email,Desktop,4/19/2024,Yes,No,No,$0.00 
+CMP593 ,CUSAT8790,Black Friday,Email,Tablet,6/27/2024,Yes,Yes,No,$0.00 
+CMP711 ,CUSAT4253,Summer Sale,Email,Desktop,1/6/2024,Yes,No,No,$0.00 
+CMP424 ,CUSAT2861,New Product Launch,Email,Desktop,3/16/2024,Yes,No,No,$0.00 
+CMP692 ,CUSAT2596,Summer Sale,Email,Tablet,11/20/2024,No,No,No,$0.00 
+CMP456 ,CUSAT4436,Holiday Promo,Email,Desktop,11/3/2024,Yes,Yes,Yes,$0.00 
+CMP227 ,CUSAT9177,New Product Launch,Email,Desktop,9/14/2024,Yes,Yes,Yes,"$1,190.60 "
+CMP883 ,CUSAT6502,Summer Sale,Email,Desktop,8/6/2024,Yes,Yes,Yes,"$1,152.10 "
+CMP546 ,CUSAT7251,Holiday Promo,Email,Tablet,10/31/2024,Yes,Yes,Yes,$349.80 
+CMP116 ,CUSAT7738,Summer Sale,Email,Tablet,2/23/2024,Yes,Yes,Yes,$758.30 
+CMP783 ,CUSAT5749,Black Friday,Email,Mobile,10/24/2024,Yes,Yes,Yes,$797.60 
+CMP227 ,CUSAT6744,Black Friday,Email,Tablet,4/10/2024,Yes,Yes,No,$0.00 
+CMP774 ,CUSAT5333,Holiday Promo,Email,Tablet,9/16/2024,Yes,No,No,$0.00 
+CMP909 ,CUSAT7134,Black Friday,Email,Desktop,1/8/2024,Yes,No,No,$0.00 
+CMP297 ,CUSAT7444,Summer Sale,Email,Mobile,10/11/2024,Yes,No,No,$0.00 
+CMP336 ,CUSAT2631,New Product Launch,Email,Mobile,9/21/2024,Yes,No,No,$0.00 
+CMP430 ,CUSAT4338,Summer Sale,Email,Mobile,10/10/2024,Yes,No,No,$0.00 
+CMP656 ,CUSAT2290,New Product Launch,Email,Mobile,1/15/2024,Yes,Yes,No,$0.00 
+CMP327 ,CUSAT5864,Holiday Promo,Email,Tablet,5/2/2024,Yes,Yes,Yes,$908.70 
+CMP742 ,CUSAT1379,New Product Launch,Email,Mobile,2/12/2024,Yes,Yes,Yes,$0.00 
+CMP284 ,CUSAT2520,Summer Sale,Email,Tablet,3/13/2024,Yes,Yes,Yes,"$1,059.50 "
+CMP523 ,CUSAT2205,Black Friday,Email,Mobile,9/8/2024,Yes,Yes,No,$0.00 
+CMP110 ,CUSAT3927,New Product Launch,Email,Mobile,3/23/2024,Yes,Yes,Yes,$455.00 
+CMP262 ,CUSAT9548,New Product Launch,Email,Mobile,11/3/2024,Yes,Yes,Yes,$152.20 
+CMP879 ,CUSAT3496,Holiday Promo,Email,Mobile,1/12/2024,Yes,Yes,No,$0.00 
+CMP808 ,CUSAT3073,Holiday Promo,Email,Desktop,4/22/2024,Yes,Yes,Yes,"$1,064.40 "
+CMP863 ,CUSAT9123,Black Friday,Email,Mobile,11/29/2024,Yes,Yes,Yes,$412.90 
+CMP912 ,CUSAT6105,Summer Sale,Email,Tablet,7/20/2024,No,No,No,$0.00 
+CMP935 ,CUSAT6222,New Product Launch,Email,Mobile,11/1/2024,Yes,Yes,Yes,$581.30 
+CMP747 ,CUSAT2052,Black Friday,Email,Mobile,6/29/2024,Yes,No,No,$0.00 
+CMP998 ,CUSAT9691,Holiday Promo,Email,Mobile,5/30/2024,Yes,Yes,No,$0.00 
+CMP174 ,CUSAT4525,New Product Launch,Email,Desktop,4/5/2024,Yes,Yes,Yes,$86.80 
+CMP834 ,CUSAT6388,Holiday Promo,Email,Mobile,6/12/2024,Yes,Yes,Yes,$998.50 
+CMP317 ,CUSAT9638,Holiday Promo,Email,Mobile,7/16/2024,Yes,Yes,Yes,$402.50 
+CMP874 ,CUSAT8130,Holiday Promo,Email,Mobile,11/26/2024,Yes,No,No,$0.00 
+CMP531 ,CUSAT2953,Summer Sale,Email,Mobile,1/24/2024,Yes,No,No,$0.00 
+CMP118 ,CUSAT1076,Black Friday,Email,Mobile,10/22/2024,Yes,Yes,No,$0.00 
+CMP116 ,CUSAT2137,Black Friday,Email,Tablet,1/21/2024,Yes,Yes,Yes,$940.10 
+CMP669 ,CUSAT6131,Black Friday,Email,Desktop,6/26/2024,Yes,Yes,Yes,$460.60 
+CMP205 ,CUSAT1479,Holiday Promo,Email,Tablet,7/10/2024,Yes,Yes,Yes,$460.30 
+CMP331 ,CUSAT3788,Summer Sale,Email,Tablet,12/18/2024,Yes,Yes,Yes,$471.40 
+CMP144 ,CUSAT2815,Summer Sale,Email,Mobile,5/12/2024,Yes,Yes,No,$0.00 
+CMP241 ,CUSAT8548,Summer Sale,Email,Desktop,5/18/2024,Yes,No,No,$0.00 
+CMP640 ,CUSAT4940,New Product Launch,Email,Tablet,12/8/2024,Yes,Yes,No,$0.00 
+CMP884 ,CUSAT5853,New Product Launch,Email,Desktop,4/25/2024,Yes,Yes,Yes,"$1,012.10 "
+CMP161 ,CUSAT4481,Summer Sale,Email,Desktop,2/8/2024,Yes,Yes,Yes,$695.50 
+CMP704 ,CUSAT9644,Black Friday,Email,Tablet,6/23/2024,No,No,No,$0.00 
+CMP324 ,CUSAT6957,Black Friday,Email,Tablet,2/24/2024,No,No,No,$0.00 
+CMP268 ,CUSAT6032,New Product Launch,Email,Mobile,2/5/2024,Yes,Yes,No,$0.00 
+CMP291 ,CUSAT5370,Summer Sale,Email,Tablet,1/9/2024,Yes,Yes,Yes,$585.10 
+CMP186 ,CUSAT6806,Black Friday,Email,Mobile,3/1/2024,Yes,Yes,Yes,$891.10 
+CMP379 ,CUSAT7058,Summer Sale,Email,Tablet,6/19/2024,No,No,No,$0.00 
+CMP708 ,CUSAT5520,Black Friday,Email,Mobile,4/6/2024,Yes,Yes,No,$0.00 
+CMP154 ,CUSAT1584,New Product Launch,Email,Mobile,2/26/2024,Yes,Yes,Yes,$567.70 
+CMP816 ,CUSAT7628,Black Friday,Email,Mobile,4/25/2024,Yes,No,No,$0.00 
+CMP455 ,CUSAT5718,New Product Launch,Email,Tablet,3/28/2024,Yes,No,No,$0.00 
+CMP856 ,CUSAT6002,New Product Launch,Email,Mobile,12/24/2024,Yes,No,No,$0.00 
+CMP245 ,CUSAT1208,New Product Launch,Email,Desktop,6/19/2024,Yes,No,No,$0.00 
+CMP878 ,CUSAT1159,New Product Launch,Email,Desktop,2/9/2024,No,No,No,$0.00 
+CMP117 ,CUSAT5762,Holiday Promo,Email,Tablet,2/26/2024,Yes,Yes,Yes,$0.00 
+CMP852 ,CUSAT6747,Black Friday,Email,Tablet,6/20/2024,Yes,Yes,No,$0.00 
+CMP408 ,CUSAT6467,Black Friday,Email,Mobile,1/7/2024,Yes,Yes,No,$0.00 
+CMP775 ,CUSAT3320,Holiday Promo,Email,Mobile,7/29/2024,Yes,Yes,Yes,"$1,043.30 "
+CMP298 ,CUSAT7189,New Product Launch,Email,Desktop,4/15/2024,No,No,No,$0.00 
+CMP457 ,CUSAT6426,Black Friday,Email,Desktop,5/15/2024,Yes,Yes,Yes,$845.10 
+CMP954 ,CUSAT3014,Black Friday,Email,Mobile,9/23/2024,Yes,Yes,Yes,$178.70 
+CMP250 ,CUSAT8640,New Product Launch,Email,Mobile,9/12/2024,Yes,Yes,No,$0.00 
+CMP166 ,CUSAT5828,Summer Sale,Email,Mobile,6/4/2024,Yes,Yes,Yes,"$1,365.60 "
+CMP105 ,CUSAT8050,Holiday Promo,Email,Mobile,1/28/2024,Yes,Yes,Yes,$523.80 
+CMP887 ,CUSAT3540,Summer Sale,Email,Mobile,9/14/2024,Yes,Yes,Yes,$687.00 
+CMP584 ,CUSAT6810,Holiday Promo,Email,Desktop,5/28/2024,Yes,Yes,Yes,$948.10 
+CMP677 ,CUSAT8140,New Product Launch,Email,Tablet,11/1/2024,No,No,No,$0.00 
+CMP408 ,CUSAT5997,Summer Sale,Email,Mobile,8/1/2024,Yes,No,No,$0.00 
+CMP639 ,CUSAT8240,New Product Launch,Email,Mobile,8/11/2024,No,No,No,$0.00 
+CMP520 ,CUSAT8557,Summer Sale,Email,Tablet,8/26/2024,Yes,Yes,Yes,"$1,561.40 "
+CMP694 ,CUSAT9391,Holiday Promo,Email,Mobile,6/3/2024,Yes,Yes,Yes,$577.00 
+CMP786 ,CUSAT1097,Black Friday,Email,Tablet,7/20/2024,Yes,Yes,Yes,$680.50 
+CMP708 ,CUSAT2595,Holiday Promo,Email,Tablet,11/28/2024,Yes,Yes,Yes,"$1,020.30 "
+CMP834 ,CUSAT1868,New Product Launch,Email,Mobile,12/11/2024,Yes,No,No,$0.00 
+CMP755 ,CUSAT3535,Holiday Promo,Email,Tablet,4/24/2024,No,No,No,$0.00 
+CMP256 ,CUSAT2983,Black Friday,Email,Mobile,2/28/2024,Yes,Yes,Yes,$855.50 
+CMP156 ,CUSAT2995,Holiday Promo,Email,Desktop,9/15/2024,Yes,Yes,Yes,$142.80 
+CMP979 ,CUSAT3018,Black Friday,Email,Tablet,11/9/2024,No,No,No,$0.00 
+CMP816 ,CUSAT9956,Holiday Promo,Email,Desktop,3/28/2024,Yes,Yes,Yes,$141.50 
+CMP381 ,CUSAT7409,Black Friday,Email,Desktop,9/9/2024,Yes,Yes,Yes,$721.10 
+CMP677 ,CUSAT7380,Summer Sale,Email,Mobile,5/25/2024,Yes,Yes,No,$0.00 
+CMP569 ,CUSAT5536,Summer Sale,Email,Desktop,8/27/2024,Yes,Yes,Yes,$574.40 
+CMP625 ,CUSAT2028,Summer Sale,Email,Desktop,12/27/2024,Yes,Yes,Yes,$731.50 
+CMP503 ,CUSAT2117,New Product Launch,Email,Desktop,12/3/2024,Yes,Yes,Yes,$728.60 
+CMP894 ,CUSAT9608,Holiday Promo,Email,Tablet,12/28/2024,Yes,Yes,Yes,$768.80 
+CMP513 ,CUSAT2107,Summer Sale,Email,Tablet,10/26/2024,No,No,No,$0.00 
+CMP587 ,CUSAT6302,Holiday Promo,Email,Mobile,9/12/2024,No,No,No,$0.00 
+CMP217 ,CUSAT1613,New Product Launch,Email,Desktop,2/1/2024,Yes,Yes,No,$0.00 
+CMP560 ,CUSAT7187,Summer Sale,Email,Mobile,6/13/2024,Yes,Yes,Yes,$985.70 
+CMP265 ,CUSAT8111,Black Friday,Email,Mobile,4/25/2024,Yes,Yes,Yes,"$1,075.80 "
+CMP468 ,CUSAT7685,New Product Launch,Email,Desktop,3/12/2024,Yes,No,No,$0.00 
+CMP585 ,CUSAT9205,Holiday Promo,Email,Mobile,4/16/2024,No,No,No,$0.00 
+CMP994 ,CUSAT2161,New Product Launch,Email,Mobile,8/6/2024,Yes,Yes,Yes,$880.50 
+CMP715 ,CUSAT9856,Holiday Promo,Email,Mobile,9/12/2024,Yes,Yes,Yes,$481.00 
+CMP261 ,CUSAT5719,Summer Sale,Email,Tablet,2/4/2024,Yes,Yes,Yes,"$1,150.30 "
+CMP659 ,CUSAT2816,New Product Launch,Email,Desktop,7/23/2024,Yes,Yes,No,$0.00 
+CMP883 ,CUSAT1973,Summer Sale,Email,Mobile,5/13/2024,Yes,No,No,$0.00 
+CMP677 ,CUSAT1579,Holiday Promo,Email,Desktop,2/7/2024,Yes,No,No,$0.00 
+CMP206 ,CUSAT1583,Black Friday,Email,Tablet,5/18/2024,No,No,No,$0.00 
+CMP156 ,CUSAT1431,Holiday Promo,Email,Tablet,4/26/2024,Yes,No,No,$0.00 
+CMP812 ,CUSAT3051,Black Friday,Email,Mobile,7/17/2024,Yes,No,No,$0.00 
+CMP476 ,CUSAT6763,Holiday Promo,Email,Desktop,11/11/2024,No,No,No,$0.00 
+CMP522 ,CUSAT9785,New Product Launch,Email,Tablet,10/28/2024,No,No,No,$0.00 
+CMP284 ,CUSAT5630,Summer Sale,Email,Desktop,1/30/2024,Yes,Yes,Yes,$203.50 
+CMP225 ,CUSAT2258,Summer Sale,Email,Mobile,7/22/2024,No,No,No,$0.00 
+CMP475 ,CUSAT5795,New Product Launch,Email,Mobile,8/15/2024,Yes,Yes,Yes,$344.40 
+CMP520 ,CUSAT8966,Holiday Promo,Email,Mobile,2/23/2024,Yes,Yes,Yes,$70.80 
+CMP481 ,CUSAT3325,Summer Sale,Email,Tablet,10/10/2024,Yes,Yes,Yes,"$1,256.80 "
+CMP376 ,CUSAT5554,New Product Launch,Email,Desktop,9/12/2024,Yes,Yes,Yes,"$1,004.00 "
+CMP983 ,CUSAT7268,Black Friday,Email,Mobile,7/15/2024,No,No,No,$0.00 
+CMP153 ,CUSAT5999,Summer Sale,Email,Mobile,12/3/2024,Yes,Yes,No,$0.00 
+CMP949 ,CUSAT8111,Black Friday,Email,Tablet,1/15/2024,Yes,Yes,Yes,$992.70 
+CMP686 ,CUSAT9501,Holiday Promo,Email,Desktop,9/30/2024,Yes,Yes,Yes,$470.10 
+CMP380 ,CUSAT2401,Holiday Promo,Email,Desktop,5/23/2024,Yes,Yes,No,$0.00 
+CMP356 ,CUSAT1202,Summer Sale,Email,Mobile,7/4/2024,Yes,No,No,$0.00 
+CMP109 ,CUSAT8642,Summer Sale,Email,Desktop,8/24/2024,No,No,No,$0.00 
+CMP383 ,CUSAT6145,Summer Sale,Email,Mobile,10/23/2024,Yes,Yes,No,$0.00 
+CMP278 ,CUSAT3406,New Product Launch,Email,Mobile,3/6/2024,Yes,Yes,Yes,"$1,009.10 "
+CMP142 ,CUSAT4734,Summer Sale,Email,Desktop,8/13/2024,Yes,Yes,Yes,"$1,575.90 "
+CMP211 ,CUSAT2269,Black Friday,Email,Mobile,11/3/2024,Yes,No,No,$0.00 
+CMP949 ,CUSAT7815,Summer Sale,Email,Desktop,6/15/2024,Yes,Yes,Yes,$825.60 
+CMP517 ,CUSAT7139,Black Friday,Email,Mobile,7/3/2024,Yes,Yes,Yes,$837.90 
+CMP705 ,CUSAT1418,Summer Sale,Email,Tablet,5/28/2024,Yes,Yes,Yes,$941.40 
+CMP320 ,CUSAT7206,New Product Launch,Email,Tablet,12/30/2024,Yes,Yes,Yes,$903.60 
+CMP688 ,CUSAT9982,New Product Launch,Email,Mobile,4/24/2024,Yes,Yes,Yes,$712.50 
+CMP632 ,CUSAT8225,Holiday Promo,Email,Mobile,8/29/2024,Yes,Yes,No,$0.00 
+CMP422 ,CUSAT2890,New Product Launch,Email,Desktop,7/4/2024,Yes,Yes,Yes,$575.00 
+CMP470 ,CUSAT8932,New Product Launch,Email,Desktop,10/13/2024,No,No,No,$0.00 
+CMP517 ,CUSAT3263,New Product Launch,Email,Tablet,10/2/2024,Yes,Yes,Yes,$487.80 
+CMP617 ,CUSAT3431,New Product Launch,Email,Tablet,2/11/2024,No,No,No,$0.00 
+CMP369 ,CUSAT8698,New Product Launch,Email,Mobile,3/26/2024,Yes,Yes,No,$0.00 
+CMP987 ,CUSAT9672,Black Friday,Email,Desktop,2/7/2024,No,No,No,$0.00 
+CMP444 ,CUSAT6515,New Product Launch,Email,Tablet,12/30/2024,Yes,Yes,No,$0.00 
+CMP858 ,CUSAT8138,Holiday Promo,Email,Tablet,7/28/2024,Yes,Yes,Yes,$672.00 
+CMP107 ,CUSAT7060,New Product Launch,Email,Desktop,2/12/2024,Yes,Yes,Yes,"$1,156.80 "
+CMP891 ,CUSAT2587,Holiday Promo,Email,Desktop,10/28/2024,Yes,Yes,Yes,$967.40 
+CMP964 ,CUSAT7990,Holiday Promo,Email,Desktop,9/25/2024,No,No,No,$0.00 
+CMP384 ,CUSAT6150,Summer Sale,Email,Desktop,4/17/2024,Yes,Yes,Yes,$204.20 
+CMP273 ,CUSAT5726,Holiday Promo,Email,Mobile,9/6/2024,Yes,Yes,No,$0.00 
+CMP872 ,CUSAT3766,Summer Sale,Email,Mobile,10/9/2024,Yes,Yes,No,$0.00 
+CMP388 ,CUSAT7987,New Product Launch,Email,Mobile,1/14/2024,Yes,Yes,Yes,$510.20 
+CMP222 ,CUSAT8281,Black Friday,Email,Desktop,12/27/2024,Yes,Yes,Yes,$820.00 
+CMP862 ,CUSAT4644,New Product Launch,Email,Desktop,6/30/2024,Yes,Yes,Yes,$212.70 
+CMP625 ,CUSAT2213,New Product Launch,Email,Mobile,8/20/2024,Yes,Yes,Yes,$642.20 
+CMP776 ,CUSAT1583,New Product Launch,Email,Mobile,4/7/2024,Yes,No,No,$0.00 
+CMP581 ,CUSAT3481,Black Friday,Email,Tablet,12/10/2024,Yes,No,No,$0.00 
+CMP628 ,CUSAT4509,Summer Sale,Email,Mobile,11/21/2024,Yes,Yes,No,$0.00 
+CMP528 ,CUSAT5310,New Product Launch,Email,Tablet,12/29/2024,Yes,No,No,$0.00 
+CMP998 ,CUSAT5916,Holiday Promo,Email,Tablet,12/2/2024,Yes,Yes,Yes,$776.20 
+CMP402 ,CUSAT2581,Holiday Promo,Email,Tablet,7/1/2024,Yes,Yes,Yes,$592.20 
+CMP218 ,CUSAT3886,Black Friday,Email,Tablet,5/6/2024,Yes,No,No,$0.00 
+CMP984 ,CUSAT9014,New Product Launch,Email,Tablet,9/4/2024,Yes,Yes,Yes,$689.60 
+CMP971 ,CUSAT7701,Summer Sale,Email,Desktop,9/16/2024,No,No,No,$0.00 
+CMP155 ,CUSAT5396,Black Friday,Email,Desktop,8/5/2024,Yes,No,No,$0.00 
+CMP270 ,CUSAT9782,Holiday Promo,Email,Mobile,4/23/2024,Yes,Yes,Yes,$428.30 
+CMP121 ,CUSAT7212,Summer Sale,Email,Desktop,1/11/2024,Yes,Yes,Yes,$648.90 
+CMP303 ,CUSAT3572,Black Friday,Email,Tablet,4/17/2024,Yes,Yes,Yes,$817.30 
+CMP666 ,CUSAT5074,Summer Sale,Email,Tablet,6/18/2024,Yes,Yes,Yes,$619.60 
+CMP143 ,CUSAT3571,Holiday Promo,Email,Mobile,7/22/2024,Yes,Yes,Yes,$616.30 
+CMP486 ,CUSAT7565,Summer Sale,Email,Tablet,3/4/2024,Yes,Yes,Yes,$319.20 
+CMP525 ,CUSAT1330,Summer Sale,Email,Mobile,12/26/2024,Yes,Yes,Yes,$334.90 
+CMP861 ,CUSAT1383,Holiday Promo,Email,Desktop,6/14/2024,Yes,Yes,Yes,$39.00 
+CMP539 ,CUSAT2524,Holiday Promo,Email,Mobile,8/29/2024,Yes,Yes,Yes,"$1,299.90 "
+CMP117 ,CUSAT9143,New Product Launch,Email,Desktop,9/16/2024,Yes,No,No,$0.00 
+CMP506 ,CUSAT4802,Black Friday,Email,Desktop,10/22/2024,Yes,Yes,No,$0.00 
+CMP197 ,CUSAT3773,Holiday Promo,Email,Mobile,11/18/2024,Yes,No,No,$0.00 
+CMP635 ,CUSAT4808,Summer Sale,Email,Desktop,11/11/2024,Yes,Yes,No,$0.00 
+CMP678 ,CUSAT7660,Summer Sale,Email,Tablet,1/19/2024,Yes,Yes,Yes,$482.00 
+CMP767 ,CUSAT4862,Holiday Promo,Email,Tablet,9/12/2024,Yes,Yes,Yes,"$1,099.10 "
+CMP179 ,CUSAT7155,Summer Sale,Email,Mobile,2/23/2024,Yes,No,No,$0.00 
+CMP216 ,CUSAT1639,Black Friday,Email,Mobile,8/12/2024,Yes,Yes,Yes,$711.60 
+CMP403 ,CUSAT2926,Black Friday,Email,Tablet,8/2/2024,Yes,Yes,Yes,$265.90 
+CMP269 ,CUSAT3318,Holiday Promo,Email,Tablet,7/9/2024,Yes,Yes,Yes,"$1,458.10 "
+CMP438 ,CUSAT3217,Summer Sale,Email,Mobile,8/29/2024,No,No,No,$0.00 
+CMP105 ,CUSAT6109,New Product Launch,Email,Mobile,8/28/2024,Yes,Yes,Yes,$724.00 
+CMP579 ,CUSAT3563,Summer Sale,Email,Tablet,2/18/2024,Yes,Yes,Yes,$853.50 
+CMP940 ,CUSAT7982,New Product Launch,Email,Desktop,4/8/2024,Yes,Yes,Yes,$765.50 
+CMP179 ,CUSAT3497,Summer Sale,Email,Desktop,11/24/2024,Yes,Yes,Yes,$525.90 
+CMP701 ,CUSAT7274,Holiday Promo,Email,Tablet,3/5/2024,Yes,Yes,Yes,$548.10 
+CMP193 ,CUSAT3400,Summer Sale,Email,Desktop,4/28/2024,Yes,Yes,Yes,$617.50 
+CMP550 ,CUSAT7969,New Product Launch,Email,Desktop,3/11/2024,Yes,Yes,No,$0.00 
+CMP892 ,CUSAT7316,New Product Launch,Email,Desktop,10/13/2024,Yes,Yes,Yes,$985.60 
+CMP962 ,CUSAT4504,Summer Sale,Email,Tablet,2/10/2024,No,No,No,$0.00 
+CMP356 ,CUSAT2970,Black Friday,Email,Tablet,9/7/2024,Yes,Yes,Yes,$377.00 
+CMP454 ,CUSAT7948,Holiday Promo,Email,Desktop,8/26/2024,No,No,No,$0.00 
+CMP299 ,CUSAT1091,New Product Launch,Email,Desktop,8/14/2024,Yes,Yes,Yes,$564.70 
+CMP134 ,CUSAT5504,New Product Launch,Email,Desktop,1/7/2024,Yes,Yes,Yes,"$1,631.90 "
+CMP983 ,CUSAT8713,New Product Launch,Email,Desktop,10/19/2024,Yes,Yes,Yes,$278.60 
+CMP727 ,CUSAT3509,New Product Launch,Email,Tablet,1/20/2024,Yes,Yes,Yes,"$1,255.70 "
+CMP827 ,CUSAT2021,Holiday Promo,Email,Tablet,1/29/2024,Yes,Yes,Yes,"$1,271.10 "
+CMP788 ,CUSAT6185,New Product Launch,Email,Mobile,1/9/2024,Yes,Yes,No,$0.00 
+CMP785 ,CUSAT2007,Summer Sale,Email,Tablet,8/1/2024,Yes,Yes,Yes,$827.60 
+CMP382 ,CUSAT4255,New Product Launch,Email,Mobile,3/29/2024,Yes,Yes,Yes,"$1,251.40 "
+CMP577 ,CUSAT2410,New Product Launch,Email,Mobile,6/28/2024,Yes,Yes,Yes,$448.40 
+CMP741 ,CUSAT1329,Summer Sale,Email,Mobile,4/5/2024,Yes,Yes,No,$0.00 
+CMP757 ,CUSAT4130,New Product Launch,Email,Desktop,6/6/2024,Yes,Yes,No,$0.00 
+CMP423 ,CUSAT7782,Holiday Promo,Email,Desktop,5/22/2024,Yes,Yes,Yes,$194.10 
+CMP194 ,CUSAT9026,Holiday Promo,Email,Desktop,12/23/2024,Yes,Yes,Yes,$340.30 
+CMP650 ,CUSAT4451,New Product Launch,Email,Desktop,10/26/2024,Yes,Yes,Yes,$110.40 
+CMP913 ,CUSAT5406,Summer Sale,Email,Desktop,10/9/2024,Yes,Yes,Yes,$613.70 
+CMP746 ,CUSAT4054,Black Friday,Email,Desktop,2/29/2024,Yes,Yes,No,$0.00 
+CMP134 ,CUSAT6281,New Product Launch,Email,Tablet,12/3/2024,Yes,No,No,$0.00 
+CMP763 ,CUSAT2641,Summer Sale,Email,Desktop,8/31/2024,No,No,No,$0.00 
+CMP731 ,CUSAT8478,New Product Launch,Email,Tablet,1/12/2024,Yes,Yes,Yes,$732.40 
+CMP594 ,CUSAT7572,Holiday Promo,Email,Mobile,7/10/2024,Yes,No,No,$0.00 
+CMP510 ,CUSAT1467,Summer Sale,Email,Desktop,5/17/2024,No,No,No,$0.00 
+CMP907 ,CUSAT1881,Summer Sale,Email,Tablet,3/7/2024,Yes,No,No,$0.00 
+CMP774 ,CUSAT3416,Holiday Promo,Email,Desktop,3/25/2024,Yes,No,No,$0.00 
+CMP841 ,CUSAT5009,Summer Sale,Email,Mobile,4/14/2024,Yes,Yes,Yes,$116.20 
+CMP503 ,CUSAT4481,Black Friday,Email,Tablet,8/29/2024,No,No,No,$0.00 
+CMP236 ,CUSAT7551,Holiday Promo,Email,Tablet,3/6/2024,Yes,Yes,Yes,$767.60 
+CMP785 ,CUSAT1440,Holiday Promo,Email,Tablet,2/6/2024,Yes,Yes,Yes,$318.00 
+CMP725 ,CUSAT7523,Summer Sale,Email,Mobile,9/13/2024,No,No,No,$0.00 
+CMP447 ,CUSAT7292,New Product Launch,Email,Desktop,6/3/2024,Yes,Yes,No,$0.00 
+CMP135 ,CUSAT5276,Black Friday,Email,Mobile,12/11/2024,Yes,Yes,No,$0.00 
+CMP850 ,CUSAT2661,New Product Launch,Email,Tablet,2/12/2024,No,No,No,$0.00 
+CMP802 ,CUSAT8449,Summer Sale,Email,Tablet,10/21/2024,Yes,Yes,Yes,$231.80 
+CMP749 ,CUSAT2899,New Product Launch,Email,Mobile,8/5/2024,Yes,Yes,Yes,$667.80 
+CMP283 ,CUSAT7947,Black Friday,Email,Tablet,7/5/2024,Yes,Yes,Yes,$34.50 
+CMP302 ,CUSAT9436,New Product Launch,Email,Desktop,12/28/2024,Yes,Yes,Yes,$555.50 
+CMP571 ,CUSAT7014,Summer Sale,Email,Desktop,3/3/2024,Yes,Yes,Yes,$238.50 
+CMP400 ,CUSAT6847,Black Friday,Email,Desktop,10/4/2024,Yes,Yes,Yes,$305.80 
+CMP137 ,CUSAT9704,New Product Launch,Email,Mobile,2/27/2024,Yes,Yes,Yes,"$1,094.50 "
+CMP748 ,CUSAT9084,Black Friday,Email,Desktop,3/5/2024,Yes,Yes,Yes,"$1,036.50 "
+CMP178 ,CUSAT6350,Holiday Promo,Email,Mobile,10/18/2024,Yes,Yes,Yes,$843.70 
+CMP867 ,CUSAT5947,Black Friday,Email,Mobile,6/21/2024,Yes,Yes,No,$0.00 
+CMP684 ,CUSAT5275,Holiday Promo,Email,Tablet,2/29/2024,Yes,No,No,$0.00 
+CMP547 ,CUSAT5502,New Product Launch,Email,Desktop,4/20/2024,Yes,No,No,$0.00 
+CMP379 ,CUSAT1082,Black Friday,Email,Mobile,4/2/2024,Yes,Yes,Yes,$656.70 
+CMP750 ,CUSAT6212,Summer Sale,Email,Mobile,8/24/2024,Yes,Yes,Yes,"$1,527.80 "
+CMP829 ,CUSAT8547,New Product Launch,Email,Tablet,11/9/2024,Yes,No,No,$0.00 
+CMP448 ,CUSAT6237,Holiday Promo,Email,Mobile,10/12/2024,No,No,No,$0.00 
+CMP499 ,CUSAT5189,Black Friday,Email,Tablet,12/23/2024,Yes,Yes,Yes,$476.40 
+CMP642 ,CUSAT7048,Holiday Promo,Email,Tablet,2/12/2024,Yes,Yes,Yes,$653.40 
+CMP270 ,CUSAT6761,New Product Launch,Email,Desktop,3/20/2024,Yes,No,No,$0.00 
+CMP650 ,CUSAT3157,Black Friday,Email,Mobile,4/30/2024,Yes,Yes,Yes,$883.30 
+CMP985 ,CUSAT3606,New Product Launch,Email,Mobile,10/19/2024,Yes,No,No,$0.00 
+CMP888 ,CUSAT6950,New Product Launch,Email,Tablet,11/2/2024,Yes,Yes,Yes,$285.60 
+CMP513 ,CUSAT9107,Black Friday,Email,Tablet,7/19/2024,No,No,No,$0.00 
+CMP949 ,CUSAT6473,Black Friday,Email,Tablet,5/27/2024,No,No,No,$0.00 
+CMP751 ,CUSAT1475,New Product Launch,Email,Mobile,8/2/2024,Yes,Yes,Yes,$803.20 
+CMP432 ,CUSAT5095,Summer Sale,Email,Tablet,7/28/2024,Yes,Yes,Yes,$158.70 
+CMP623 ,CUSAT4162,Summer Sale,Email,Desktop,11/30/2024,No,No,No,$0.00 
+CMP166 ,CUSAT1506,Holiday Promo,Email,Desktop,6/14/2024,Yes,No,No,$0.00 
+CMP612 ,CUSAT2821,New Product Launch,Email,Tablet,3/31/2024,Yes,Yes,Yes,"$1,597.20 "
+CMP798 ,CUSAT7657,Black Friday,Email,Tablet,1/4/2024,Yes,Yes,Yes,$597.60 
+CMP895 ,CUSAT9751,New Product Launch,Email,Desktop,10/2/2024,Yes,Yes,No,$0.00 
+CMP833 ,CUSAT9381,New Product Launch,Email,Desktop,1/21/2024,Yes,Yes,Yes,$632.80 
+CMP214 ,CUSAT3768,Holiday Promo,Email,Tablet,10/23/2024,No,No,No,$0.00 
+CMP437 ,CUSAT2213,Black Friday,Email,Tablet,4/17/2024,Yes,Yes,Yes,$967.70 
+CMP906 ,CUSAT8378,New Product Launch,Email,Mobile,12/18/2024,Yes,Yes,No,$0.00 
+CMP126 ,CUSAT4621,Holiday Promo,Email,Tablet,3/16/2024,Yes,Yes,Yes,$707.00 
+CMP830 ,CUSAT8206,New Product Launch,Email,Mobile,11/20/2024,Yes,Yes,Yes,$728.70 
+CMP333 ,CUSAT1458,Holiday Promo,Email,Mobile,7/15/2024,Yes,Yes,Yes,$332.80 
+CMP733 ,CUSAT3791,Holiday Promo,Email,Mobile,9/21/2024,Yes,Yes,Yes,$996.80 
+CMP596 ,CUSAT3770,Black Friday,Email,Mobile,7/12/2024,Yes,Yes,Yes,$530.00 
+CMP311 ,CUSAT4675,Summer Sale,Email,Mobile,6/24/2024,Yes,Yes,No,$0.00 
+CMP753 ,CUSAT1199,New Product Launch,Email,Tablet,8/23/2024,Yes,Yes,No,$0.00 
+CMP437 ,CUSAT9313,Summer Sale,Email,Mobile,11/16/2024,Yes,Yes,Yes,$240.60 
+CMP353 ,CUSAT5009,Holiday Promo,Email,Tablet,8/16/2024,No,No,No,$0.00 
+CMP372 ,CUSAT5546,Summer Sale,Email,Tablet,1/21/2024,Yes,Yes,Yes,$596.40 
+CMP349 ,CUSAT8819,Black Friday,Email,Mobile,2/1/2024,Yes,Yes,No,$0.00 
+CMP185 ,CUSAT8799,Holiday Promo,Email,Mobile,9/1/2024,Yes,Yes,Yes,$789.90 
+CMP540 ,CUSAT2827,New Product Launch,Email,Tablet,10/18/2024,Yes,Yes,No,$0.00 
+CMP516 ,CUSAT5435,Black Friday,Email,Desktop,1/1/2024,Yes,Yes,Yes,$927.10 
+CMP988 ,CUSAT9719,Holiday Promo,Email,Desktop,11/26/2024,Yes,No,No,$0.00 
+CMP286 ,CUSAT8988,Summer Sale,Email,Mobile,2/27/2024,No,No,No,$0.00 
+CMP789 ,CUSAT5991,Summer Sale,Email,Desktop,2/3/2024,Yes,Yes,Yes,$604.20 
+CMP613 ,CUSAT6003,Holiday Promo,Email,Mobile,4/28/2024,Yes,Yes,Yes,$75.30 
+CMP260 ,CUSAT4144,Black Friday,Email,Tablet,12/10/2024,Yes,Yes,Yes,$174.00 
+CMP769 ,CUSAT7830,New Product Launch,Email,Mobile,9/21/2024,Yes,Yes,Yes,$477.90 
+CMP844 ,CUSAT6798,New Product Launch,Email,Desktop,3/15/2024,Yes,Yes,No,$0.00 
+CMP513 ,CUSAT1906,Black Friday,Email,Tablet,8/1/2024,Yes,Yes,No,$0.00 
+CMP777 ,CUSAT5193,Holiday Promo,Email,Mobile,12/26/2024,Yes,Yes,Yes,$622.70 
+CMP304 ,CUSAT4522,New Product Launch,Email,Tablet,10/12/2024,Yes,Yes,No,$0.00 
+CMP591 ,CUSAT8698,Summer Sale,Email,Tablet,3/23/2024,Yes,Yes,Yes,$571.80 
+CMP203 ,CUSAT1919,New Product Launch,Email,Desktop,10/27/2024,Yes,Yes,Yes,$794.60 
+CMP867 ,CUSAT2212,Holiday Promo,Email,Tablet,2/26/2024,Yes,Yes,Yes,$625.80 
+CMP190 ,CUSAT8180,Holiday Promo,Email,Mobile,10/20/2024,Yes,Yes,No,$0.00 
+CMP243 ,CUSAT2114,New Product Launch,Email,Tablet,5/29/2024,No,No,No,$0.00 
+CMP571 ,CUSAT6934,Holiday Promo,Email,Tablet,6/13/2024,Yes,Yes,Yes,$542.40 
+CMP520 ,CUSAT8001,Black Friday,Email,Tablet,3/12/2024,Yes,Yes,Yes,$116.10 
+CMP547 ,CUSAT1525,Black Friday,Email,Tablet,7/10/2024,No,No,No,$0.00 
+CMP852 ,CUSAT2237,New Product Launch,Email,Mobile,6/19/2024,Yes,Yes,Yes,"$1,212.30 "
+CMP579 ,CUSAT4127,Summer Sale,Email,Tablet,2/14/2024,No,No,No,$0.00 
+CMP286 ,CUSAT6567,Black Friday,Email,Mobile,11/29/2024,Yes,Yes,Yes,$514.60 
+CMP119 ,CUSAT1139,Holiday Promo,Email,Desktop,11/15/2024,Yes,Yes,Yes,"$1,196.30 "
+CMP645 ,CUSAT8499,New Product Launch,Email,Tablet,12/11/2024,Yes,No,No,$0.00 
+CMP285 ,CUSAT2653,Summer Sale,Email,Tablet,3/16/2024,Yes,Yes,Yes,$465.20 
+CMP335 ,CUSAT4421,Holiday Promo,Email,Mobile,6/16/2024,Yes,No,No,$0.00 
+CMP998 ,CUSAT8203,Summer Sale,Email,Mobile,6/30/2024,No,No,No,$0.00 
+CMP303 ,CUSAT4369,Black Friday,Email,Mobile,8/16/2024,Yes,Yes,Yes,$444.80 
+CMP314 ,CUSAT2971,Black Friday,Email,Tablet,3/3/2024,No,No,No,$0.00 
+CMP468 ,CUSAT8831,Holiday Promo,Email,Desktop,2/16/2024,Yes,No,No,$0.00 
+CMP202 ,CUSAT6811,Holiday Promo,Email,Tablet,7/23/2024,Yes,Yes,No,$0.00 
+CMP759 ,CUSAT7384,Black Friday,Email,Desktop,12/25/2024,Yes,No,No,$0.00 
+CMP231 ,CUSAT9497,Summer Sale,Email,Tablet,3/31/2024,Yes,Yes,Yes,"$1,076.30 "
+CMP776 ,CUSAT5801,Holiday Promo,Email,Tablet,4/17/2024,No,No,No,$0.00 
+CMP859 ,CUSAT3975,Holiday Promo,Email,Tablet,9/22/2024,Yes,No,No,$0.00 
+CMP482 ,CUSAT5344,New Product Launch,Email,Mobile,6/5/2024,Yes,Yes,No,$0.00 
+CMP247 ,CUSAT7679,Summer Sale,Email,Tablet,1/18/2024,Yes,Yes,Yes,$973.80 
+CMP328 ,CUSAT2509,Black Friday,Email,Mobile,1/8/2024,Yes,Yes,Yes,$53.30 
+CMP717 ,CUSAT1011,Holiday Promo,Email,Desktop,8/13/2024,Yes,Yes,Yes,$510.10 
+CMP784 ,CUSAT2579,Black Friday,Email,Tablet,7/6/2024,Yes,Yes,Yes,$132.00 
+CMP246 ,CUSAT4695,New Product Launch,Email,Tablet,3/7/2024,Yes,Yes,No,$0.00 
+CMP356 ,CUSAT4024,New Product Launch,Email,Desktop,2/23/2024,Yes,Yes,Yes,$816.60 
+CMP373 ,CUSAT3157,Holiday Promo,Email,Desktop,10/22/2024,Yes,Yes,No,$0.00 
+CMP302 ,CUSAT3984,Summer Sale,Email,Tablet,11/19/2024,No,No,No,$0.00 
+CMP592 ,CUSAT8927,Holiday Promo,Email,Tablet,6/14/2024,No,No,No,$0.00 
+CMP550 ,CUSAT2930,New Product Launch,Email,Tablet,11/14/2024,Yes,Yes,No,$0.00 
+CMP992 ,CUSAT8984,Black Friday,Email,Tablet,5/10/2024,Yes,Yes,Yes,$756.70 
+CMP536 ,CUSAT1416,Black Friday,Email,Mobile,2/2/2024,Yes,Yes,Yes,$8.50 
+CMP229 ,CUSAT6695,Holiday Promo,Email,Desktop,10/8/2024,Yes,Yes,No,$0.00 
+CMP623 ,CUSAT4192,Summer Sale,Email,Tablet,7/22/2024,Yes,Yes,Yes,$593.90 
+CMP676 ,CUSAT9692,Black Friday,Email,Tablet,11/3/2024,Yes,Yes,No,$0.00 
+CMP643 ,CUSAT3732,Holiday Promo,Email,Mobile,12/21/2024,No,No,No,$0.00 
+CMP724 ,CUSAT7947,Holiday Promo,Email,Mobile,10/3/2024,Yes,Yes,Yes,$210.80 
+CMP579 ,CUSAT6274,Summer Sale,Email,Mobile,8/3/2024,Yes,Yes,Yes,"$1,078.70 "
+CMP727 ,CUSAT2094,Summer Sale,Email,Mobile,4/16/2024,No,No,No,$0.00 
+CMP761 ,CUSAT7865,Black Friday,Email,Mobile,7/19/2024,Yes,Yes,Yes,$589.10 
+CMP226 ,CUSAT3487,Holiday Promo,Email,Mobile,3/12/2024,Yes,Yes,Yes,$226.70 
+CMP205 ,CUSAT8718,Holiday Promo,Email,Desktop,9/23/2024,Yes,Yes,No,$0.00 
+CMP872 ,CUSAT6593,Holiday Promo,Email,Desktop,3/19/2024,Yes,No,No,$0.00 
+CMP826 ,CUSAT8983,Holiday Promo,Email,Mobile,10/26/2024,Yes,Yes,Yes,$530.80 
+CMP970 ,CUSAT9102,New Product Launch,Email,Desktop,7/4/2024,Yes,Yes,Yes,"$1,284.70 "
+CMP436 ,CUSAT7875,New Product Launch,Email,Desktop,5/8/2024,Yes,Yes,No,$0.00 
+CMP326 ,CUSAT8106,New Product Launch,Email,Mobile,5/4/2024,Yes,Yes,No,$0.00 
+CMP991 ,CUSAT7268,Summer Sale,Email,Mobile,7/11/2024,Yes,Yes,Yes,"$1,188.50 "
+CMP788 ,CUSAT7911,Black Friday,Email,Desktop,5/2/2024,Yes,Yes,Yes,$516.30 
+CMP932 ,CUSAT8074,New Product Launch,Email,Mobile,1/20/2024,Yes,Yes,Yes,$332.40 
+CMP921 ,CUSAT1464,New Product Launch,Email,Tablet,5/29/2024,Yes,Yes,Yes,"$1,016.00 "
+CMP902 ,CUSAT1783,Holiday Promo,Email,Tablet,5/7/2024,Yes,Yes,Yes,$357.80 
+CMP858 ,CUSAT7575,Holiday Promo,Email,Tablet,10/7/2024,Yes,Yes,Yes,"$1,330.40 "
+CMP924 ,CUSAT4728,Holiday Promo,Email,Mobile,11/11/2024,Yes,Yes,Yes,$871.20 
+CMP874 ,CUSAT7270,Holiday Promo,Email,Tablet,9/11/2024,Yes,Yes,No,$0.00 
+CMP272 ,CUSAT6288,Summer Sale,Email,Mobile,7/4/2024,Yes,Yes,Yes,"$1,462.90 "
+CMP507 ,CUSAT2244,Holiday Promo,Email,Mobile,10/13/2024,Yes,Yes,Yes,$357.70 
+CMP236 ,CUSAT7311,Summer Sale,Email,Mobile,9/29/2024,Yes,No,No,$0.00 
+CMP258 ,CUSAT5485,Summer Sale,Email,Mobile,1/21/2024,No,No,No,$0.00 
+CMP248 ,CUSAT1203,Holiday Promo,Email,Mobile,11/27/2024,Yes,Yes,Yes,"$1,120.70 "
+CMP296 ,CUSAT7755,Summer Sale,Email,Tablet,10/9/2024,Yes,Yes,Yes,"$1,224.60 "
+CMP340 ,CUSAT6245,Black Friday,Email,Mobile,8/8/2024,Yes,Yes,Yes,$612.80 
+CMP903 ,CUSAT9314,New Product Launch,Email,Mobile,10/23/2024,Yes,No,No,$0.00 
+CMP760 ,CUSAT4669,Black Friday,Email,Mobile,6/27/2024,No,No,No,$0.00 
+CMP166 ,CUSAT3807,Summer Sale,Email,Mobile,9/11/2024,Yes,No,No,$0.00 
+CMP166 ,CUSAT5523,New Product Launch,Email,Tablet,2/2/2024,Yes,No,No,$0.00 
+CMP236 ,CUSAT7492,Holiday Promo,Email,Desktop,12/26/2024,Yes,Yes,No,$0.00 
+CMP620 ,CUSAT7670,Summer Sale,Email,Tablet,10/18/2024,Yes,Yes,Yes,$453.90 
+CMP172 ,CUSAT2042,Black Friday,Email,Tablet,10/27/2024,Yes,Yes,Yes,$673.90 
+CMP130 ,CUSAT9109,New Product Launch,Email,Desktop,4/1/2024,Yes,Yes,Yes,$61.20 
+CMP496 ,CUSAT7677,Black Friday,Email,Mobile,12/24/2024,Yes,Yes,Yes,$211.40 
+CMP540 ,CUSAT5128,Black Friday,Email,Mobile,6/30/2024,No,No,No,$0.00 
+CMP748 ,CUSAT2336,Holiday Promo,Email,Tablet,6/28/2024,Yes,Yes,Yes,$337.30 
+CMP670 ,CUSAT1969,New Product Launch,Email,Mobile,11/6/2024,Yes,Yes,Yes,$181.30 
+CMP413 ,CUSAT1453,New Product Launch,Email,Tablet,1/3/2024,Yes,Yes,Yes,$814.70 
+CMP323 ,CUSAT6656,Summer Sale,Email,Mobile,9/12/2024,Yes,No,No,$0.00 
+CMP890 ,CUSAT3908,Black Friday,Email,Tablet,12/27/2024,Yes,Yes,Yes,$887.60 
+CMP912 ,CUSAT2970,Holiday Promo,Email,Mobile,10/2/2024,Yes,Yes,Yes,$998.40 
+CMP609 ,CUSAT4164,New Product Launch,Email,Mobile,3/26/2024,No,No,No,$0.00 
+CMP784 ,CUSAT2072,Holiday Promo,Email,Desktop,8/17/2024,No,No,No,$0.00 
+CMP160 ,CUSAT8871,New Product Launch,Email,Tablet,7/25/2024,Yes,Yes,No,$0.00 
+CMP644 ,CUSAT9547,Black Friday,Email,Desktop,10/15/2024,No,No,No,$0.00 
+CMP536 ,CUSAT7623,Black Friday,Email,Mobile,5/29/2024,Yes,Yes,Yes,$499.70 
+CMP724 ,CUSAT7370,Holiday Promo,Email,Tablet,6/13/2024,Yes,Yes,Yes,"$1,131.30 "
+CMP414 ,CUSAT9893,Summer Sale,Email,Tablet,4/6/2024,Yes,Yes,Yes,$822.50 
+CMP460 ,CUSAT9810,Summer Sale,Email,Tablet,6/4/2024,Yes,Yes,Yes,$782.40 
+CMP145 ,CUSAT4514,Summer Sale,Email,Mobile,7/8/2024,Yes,Yes,No,$0.00 
+CMP755 ,CUSAT1255,Summer Sale,Email,Mobile,9/10/2024,Yes,Yes,No,$0.00 
+CMP951 ,CUSAT6419,Summer Sale,Email,Tablet,12/3/2024,Yes,Yes,Yes,$971.20 
+CMP352 ,CUSAT5230,Black Friday,Email,Mobile,3/20/2024,No,No,No,$0.00 
+CMP962 ,CUSAT4104,Black Friday,Email,Mobile,7/30/2024,No,No,No,$0.00 
+CMP328 ,CUSAT2155,New Product Launch,Email,Mobile,3/6/2024,No,No,No,$0.00 
+CMP857 ,CUSAT5202,New Product Launch,Email,Desktop,10/1/2024,Yes,Yes,Yes,$803.20 
+CMP222 ,CUSAT7470,Holiday Promo,Email,Mobile,5/13/2024,Yes,Yes,Yes,$815.30 
+CMP211 ,CUSAT2825,Holiday Promo,Email,Tablet,1/19/2024,Yes,Yes,Yes,"$1,029.00 "
+CMP479 ,CUSAT8177,New Product Launch,Email,Desktop,5/3/2024,Yes,No,No,$0.00 
+CMP114 ,CUSAT3502,Holiday Promo,Email,Mobile,6/11/2024,No,No,No,$0.00 
+CMP398 ,CUSAT9283,Summer Sale,Email,Mobile,7/19/2024,Yes,Yes,Yes,$182.10 
+CMP351 ,CUSAT9659,Holiday Promo,Email,Mobile,8/13/2024,Yes,Yes,Yes,$0.00 
+CMP630 ,CUSAT9753,Summer Sale,Email,Tablet,12/16/2024,Yes,Yes,No,$0.00 
+CMP106 ,CUSAT7245,Summer Sale,Email,Tablet,2/23/2024,Yes,Yes,No,$0.00 
+CMP658 ,CUSAT2211,Summer Sale,Email,Mobile,11/17/2024,Yes,Yes,No,$0.00 
+CMP343 ,CUSAT9037,New Product Launch,Email,Desktop,8/18/2024,No,No,No,$0.00 
+CMP329 ,CUSAT3365,Holiday Promo,Email,Desktop,10/1/2024,Yes,Yes,Yes,$723.00 
+CMP247 ,CUSAT1697,Black Friday,Email,Tablet,8/9/2024,No,No,No,$0.00 
+CMP515 ,CUSAT7899,Black Friday,Email,Tablet,11/16/2024,No,No,No,$0.00 
+CMP781 ,CUSAT7535,Summer Sale,Email,Mobile,7/5/2024,No,No,No,$0.00 
+CMP472 ,CUSAT8591,Black Friday,Email,Desktop,12/3/2024,No,No,No,$0.00 
+CMP767 ,CUSAT8410,Holiday Promo,Email,Mobile,8/28/2024,Yes,Yes,Yes,$713.10 
+CMP629 ,CUSAT8074,Summer Sale,Email,Mobile,3/21/2024,No,No,No,$0.00 
+CMP796 ,CUSAT3553,New Product Launch,Email,Mobile,5/19/2024,Yes,Yes,Yes,"$1,243.00 "
+CMP856 ,CUSAT3139,Black Friday,Email,Mobile,8/27/2024,Yes,Yes,Yes,$796.40 
+CMP982 ,CUSAT1864,Holiday Promo,Email,Desktop,2/13/2024,No,No,No,$0.00 
+CMP471 ,CUSAT6169,New Product Launch,Email,Desktop,6/6/2024,Yes,Yes,Yes,$865.20 
+CMP263 ,CUSAT3490,Summer Sale,Email,Mobile,2/21/2024,No,No,No,$0.00 
+CMP580 ,CUSAT5607,New Product Launch,Email,Mobile,10/14/2024,Yes,Yes,Yes,$672.40 
+CMP584 ,CUSAT7215,Black Friday,Email,Tablet,3/10/2024,Yes,Yes,No,$0.00 
+CMP558 ,CUSAT1325,Black Friday,Email,Desktop,10/26/2024,Yes,Yes,No,$0.00 
+CMP793 ,CUSAT7449,Summer Sale,Email,Tablet,3/10/2024,Yes,Yes,Yes,$339.50 
+CMP918 ,CUSAT9105,Summer Sale,Email,Mobile,6/30/2024,Yes,Yes,Yes,$388.60 
+CMP124 ,CUSAT9021,Holiday Promo,Email,Mobile,5/23/2024,Yes,Yes,No,$0.00 
+CMP379 ,CUSAT8505,New Product Launch,Email,Desktop,8/9/2024,Yes,Yes,Yes,"$1,095.30 "
+CMP119 ,CUSAT5959,Black Friday,Email,Desktop,1/6/2024,Yes,Yes,Yes,$608.50 
+CMP475 ,CUSAT9398,Black Friday,Email,Tablet,12/22/2024,Yes,Yes,Yes,$723.60 
+CMP388 ,CUSAT5369,Summer Sale,Email,Tablet,10/9/2024,Yes,Yes,Yes,"$1,280.90 "
+CMP925 ,CUSAT2753,Holiday Promo,Email,Mobile,1/12/2024,Yes,Yes,Yes,$696.30 
+CMP984 ,CUSAT2235,Summer Sale,Email,Tablet,5/1/2024,Yes,Yes,No,$0.00 
+CMP992 ,CUSAT8549,New Product Launch,Email,Tablet,10/25/2024,Yes,Yes,Yes,$826.20 
+CMP863 ,CUSAT2329,Summer Sale,Email,Tablet,12/26/2024,Yes,No,No,$0.00 
+CMP181 ,CUSAT7338,Holiday Promo,Email,Desktop,4/17/2024,No,No,No,$0.00 
+CMP792 ,CUSAT2003,Black Friday,Email,Mobile,8/28/2024,Yes,No,No,$0.00 
+CMP655 ,CUSAT4102,New Product Launch,Email,Tablet,5/14/2024,Yes,Yes,Yes,"$1,115.90 "
+CMP750 ,CUSAT5861,New Product Launch,Email,Mobile,4/26/2024,Yes,Yes,Yes,$869.30 
+CMP643 ,CUSAT1114,New Product Launch,Email,Desktop,6/25/2024,Yes,Yes,Yes,$544.60 
+CMP850 ,CUSAT1989,New Product Launch,Email,Mobile,9/9/2024,Yes,Yes,Yes,$110.30 
+CMP470 ,CUSAT2079,New Product Launch,Email,Tablet,10/28/2024,Yes,Yes,No,$0.00 
+CMP881 ,CUSAT9013,Holiday Promo,Email,Mobile,7/8/2024,Yes,Yes,No,$0.00 
+CMP432 ,CUSAT7606,Black Friday,Email,Desktop,8/26/2024,No,No,No,$0.00 
+CMP907 ,CUSAT6189,Black Friday,Email,Desktop,1/13/2024,Yes,No,No,$0.00 
+CMP288 ,CUSAT4555,Summer Sale,Email,Desktop,3/18/2024,Yes,Yes,Yes,"$1,268.00 "
+CMP501 ,CUSAT3593,Holiday Promo,Email,Mobile,4/11/2024,No,No,No,$0.00 
+CMP972 ,CUSAT3618,Black Friday,Email,Desktop,8/9/2024,Yes,Yes,No,$0.00 
+CMP340 ,CUSAT9499,Black Friday,Email,Desktop,11/7/2024,Yes,Yes,No,$0.00 
+CMP800 ,CUSAT8028,New Product Launch,Email,Mobile,6/22/2024,Yes,Yes,Yes,"$1,078.70 "
+CMP984 ,CUSAT3099,Holiday Promo,Email,Mobile,7/10/2024,Yes,Yes,No,$0.00 
+CMP434 ,CUSAT4824,Holiday Promo,Email,Tablet,5/6/2024,Yes,Yes,Yes,$546.40 
+CMP230 ,CUSAT6272,New Product Launch,Email,Tablet,6/18/2024,Yes,Yes,Yes,$605.90 
+CMP420 ,CUSAT9371,Summer Sale,Email,Tablet,8/28/2024,Yes,Yes,Yes,$286.10 
+CMP717 ,CUSAT5358,Summer Sale,Email,Desktop,9/27/2024,Yes,Yes,Yes,$859.30 
+CMP328 ,CUSAT1050,Holiday Promo,Email,Tablet,1/31/2024,Yes,Yes,Yes,$551.60 
+CMP421 ,CUSAT9786,Holiday Promo,Email,Mobile,6/12/2024,Yes,Yes,No,$0.00 
+CMP389 ,CUSAT5066,Black Friday,Email,Tablet,9/25/2024,Yes,Yes,No,$0.00 
+CMP129 ,CUSAT7904,Summer Sale,Email,Desktop,3/14/2024,Yes,Yes,Yes,$425.00 
+CMP876 ,CUSAT6146,Summer Sale,Email,Desktop,3/21/2024,No,No,No,$0.00 
+CMP231 ,CUSAT6288,Summer Sale,Email,Mobile,5/25/2024,Yes,Yes,Yes,$450.90 
+CMP837 ,CUSAT7144,Black Friday,Email,Tablet,3/13/2024,Yes,No,No,$0.00 
+CMP878 ,CUSAT1565,New Product Launch,Email,Desktop,6/16/2024,Yes,Yes,No,$0.00 
+CMP169 ,CUSAT3292,Summer Sale,Email,Mobile,9/11/2024,Yes,Yes,Yes,$689.90 
+CMP522 ,CUSAT6629,Summer Sale,Email,Desktop,7/1/2024,Yes,No,No,$0.00 
+CMP811 ,CUSAT3539,Black Friday,Email,Tablet,11/24/2024,Yes,Yes,Yes,$32.70 
+CMP157 ,CUSAT1396,Summer Sale,Email,Desktop,5/13/2024,Yes,No,No,$0.00 
+CMP240 ,CUSAT9201,Holiday Promo,Email,Desktop,3/19/2024,Yes,Yes,No,$0.00 
+CMP831 ,CUSAT7798,Black Friday,Email,Mobile,9/9/2024,Yes,Yes,No,$0.00 
+CMP107 ,CUSAT6724,New Product Launch,Email,Mobile,4/27/2024,Yes,No,No,$0.00 
+CMP107 ,CUSAT5610,Holiday Promo,Email,Mobile,4/18/2024,Yes,Yes,Yes,"$1,623.30 "
+CMP434 ,CUSAT5265,Black Friday,Email,Tablet,5/11/2024,No,No,No,$0.00 
+CMP787 ,CUSAT9385,Black Friday,Email,Mobile,11/4/2024,Yes,Yes,Yes,$673.80 
+CMP683 ,CUSAT5892,New Product Launch,Email,Mobile,4/15/2024,Yes,Yes,Yes,"$1,216.90 "
+CMP680 ,CUSAT5134,Holiday Promo,Email,Desktop,11/27/2024,Yes,Yes,Yes,"$1,402.50 "
+CMP837 ,CUSAT7366,New Product Launch,Email,Desktop,4/15/2024,Yes,No,No,$0.00 
+CMP392 ,CUSAT5071,Summer Sale,Email,Mobile,9/2/2024,Yes,Yes,Yes,"$1,083.40 "
+CMP410 ,CUSAT8291,Black Friday,Email,Mobile,5/20/2024,Yes,No,No,$0.00 
+CMP481 ,CUSAT2246,Holiday Promo,Email,Tablet,8/4/2024,Yes,Yes,Yes,$837.00 
+CMP567 ,CUSAT4353,Summer Sale,Email,Desktop,6/3/2024,Yes,Yes,Yes,$911.40 
+CMP693 ,CUSAT5475,Holiday Promo,Email,Tablet,4/30/2024,Yes,No,No,$0.00 
+CMP486 ,CUSAT1489,Summer Sale,Email,Desktop,2/3/2024,Yes,Yes,Yes,$272.70 
+CMP772 ,CUSAT2032,Holiday Promo,Email,Tablet,10/22/2024,Yes,Yes,Yes,$598.70 
+CMP992 ,CUSAT4081,Holiday Promo,Email,Tablet,12/9/2024,Yes,Yes,No,$0.00 
+CMP600 ,CUSAT4793,New Product Launch,Email,Desktop,10/13/2024,Yes,Yes,Yes,$418.70 
+CMP657 ,CUSAT3685,Holiday Promo,Email,Tablet,8/21/2024,Yes,Yes,Yes,$878.60 
+CMP278 ,CUSAT7582,Holiday Promo,Email,Desktop,11/23/2024,Yes,Yes,Yes,$982.10 
+CMP542 ,CUSAT2416,New Product Launch,Email,Mobile,7/27/2024,Yes,No,No,$0.00 
+CMP268 ,CUSAT1700,Holiday Promo,Email,Mobile,10/3/2024,Yes,Yes,Yes,"$1,191.00 "
+CMP911 ,CUSAT4372,New Product Launch,Email,Mobile,3/12/2024,Yes,Yes,Yes,$143.30 
+CMP689 ,CUSAT1066,Holiday Promo,Email,Tablet,1/22/2024,Yes,Yes,Yes,$522.60 
+CMP916 ,CUSAT7116,Black Friday,Email,Mobile,6/15/2024,Yes,Yes,Yes,$313.30 
+CMP208 ,CUSAT4699,New Product Launch,Email,Mobile,7/27/2024,Yes,Yes,Yes,$0.00 
+CMP173 ,CUSAT6022,Holiday Promo,Email,Desktop,9/10/2024,Yes,Yes,No,$0.00 
+CMP402 ,CUSAT2983,Holiday Promo,Email,Tablet,1/13/2024,Yes,Yes,No,$0.00 
+CMP466 ,CUSAT7602,Summer Sale,Email,Desktop,3/1/2024,Yes,Yes,Yes,"$1,205.40 "
+CMP589 ,CUSAT1686,New Product Launch,Email,Mobile,8/7/2024,Yes,Yes,Yes,$852.30 
+CMP981 ,CUSAT7287,Black Friday,Email,Desktop,5/10/2024,No,No,No,$0.00 
+CMP877 ,CUSAT2422,Black Friday,Email,Mobile,1/20/2024,Yes,Yes,Yes,"$1,341.70 "
+CMP445 ,CUSAT4954,New Product Launch,Email,Mobile,8/20/2024,Yes,Yes,No,$0.00 
+CMP197 ,CUSAT1168,New Product Launch,Email,Mobile,4/20/2024,Yes,Yes,Yes,$832.90 
+CMP381 ,CUSAT7359,Black Friday,Email,Desktop,9/14/2024,Yes,Yes,No,$0.00 
+CMP266 ,CUSAT1652,Holiday Promo,Email,Desktop,8/19/2024,Yes,Yes,No,$0.00 
+CMP105 ,CUSAT7345,New Product Launch,Email,Tablet,9/3/2024,Yes,Yes,No,$0.00 
+CMP799 ,CUSAT9083,Holiday Promo,Email,Tablet,4/24/2024,Yes,No,No,$0.00 
+CMP719 ,CUSAT1387,Black Friday,Email,Desktop,3/8/2024,Yes,Yes,Yes,"$1,353.90 "
+CMP528 ,CUSAT8760,Summer Sale,Email,Desktop,11/21/2024,Yes,Yes,Yes,"$1,217.30 "
+CMP780 ,CUSAT6859,Black Friday,Email,Mobile,2/14/2024,Yes,Yes,Yes,$404.50 
+CMP291 ,CUSAT4219,Black Friday,Email,Mobile,3/23/2024,Yes,Yes,No,$0.00 
+CMP673 ,CUSAT1651,Holiday Promo,Email,Mobile,10/25/2024,Yes,Yes,Yes,$656.40 
+CMP907 ,CUSAT1199,Summer Sale,Email,Mobile,7/9/2024,Yes,Yes,No,$0.00 
+CMP981 ,CUSAT8870,Holiday Promo,Email,Tablet,6/12/2024,No,No,No,$0.00 
+CMP666 ,CUSAT9870,Summer Sale,Email,Tablet,2/20/2024,Yes,Yes,Yes,$541.00 
+CMP174 ,CUSAT3698,Holiday Promo,Email,Tablet,9/1/2024,No,No,No,$0.00 
+CMP143 ,CUSAT6250,Black Friday,Email,Mobile,1/31/2024,No,No,No,$0.00 
+CMP230 ,CUSAT8853,New Product Launch,Email,Tablet,4/25/2024,Yes,Yes,Yes,$805.50 
+CMP176 ,CUSAT8090,New Product Launch,Email,Desktop,5/27/2024,Yes,Yes,No,$0.00 
+CMP384 ,CUSAT7443,Holiday Promo,Email,Tablet,11/24/2024,Yes,No,No,$0.00 
+CMP975 ,CUSAT8699,Black Friday,Email,Desktop,6/16/2024,Yes,No,No,$0.00 
+CMP193 ,CUSAT9022,Holiday Promo,Email,Desktop,3/11/2024,Yes,Yes,Yes,$589.00 
+CMP431 ,CUSAT4922,New Product Launch,Email,Desktop,9/19/2024,Yes,Yes,Yes,"$1,308.90 "
+CMP370 ,CUSAT7944,New Product Launch,Email,Tablet,12/12/2024,Yes,Yes,Yes,"$1,264.50 "
+CMP428 ,CUSAT4349,Black Friday,Email,Mobile,12/30/2024,Yes,Yes,Yes,$417.20 
+CMP287 ,CUSAT9142,Holiday Promo,Email,Desktop,11/20/2024,Yes,No,No,$0.00 
+CMP360 ,CUSAT2180,Holiday Promo,Email,Desktop,10/2/2024,Yes,Yes,Yes,$787.50 
+CMP360 ,CUSAT9110,Black Friday,Email,Mobile,4/6/2024,Yes,Yes,Yes,$200.70 
+CMP601 ,CUSAT2770,Black Friday,Email,Desktop,8/6/2024,Yes,No,No,$0.00 
+CMP920 ,CUSAT1892,Summer Sale,Email,Desktop,3/3/2024,Yes,Yes,Yes,$906.50 
+CMP860 ,CUSAT7934,Holiday Promo,Email,Tablet,3/6/2024,Yes,Yes,Yes,"$1,090.80 "
+CMP391 ,CUSAT8041,Holiday Promo,Email,Mobile,11/15/2024,Yes,Yes,No,$0.00 
+CMP698 ,CUSAT6189,Holiday Promo,Email,Tablet,3/18/2024,Yes,Yes,No,$0.00 
+CMP193 ,CUSAT5419,Black Friday,Email,Mobile,1/9/2024,No,No,No,$0.00 
+CMP277 ,CUSAT4610,Holiday Promo,Email,Mobile,8/23/2024,Yes,Yes,Yes,$269.30 
+CMP556 ,CUSAT4496,Holiday Promo,Email,Tablet,11/3/2024,No,No,No,$0.00 
+CMP493 ,CUSAT7228,Summer Sale,Email,Mobile,3/17/2024,Yes,Yes,Yes,$747.00 
+CMP619 ,CUSAT7355,Black Friday,Email,Desktop,6/13/2024,Yes,Yes,No,$0.00 
+CMP312 ,CUSAT4570,Holiday Promo,Email,Desktop,3/27/2024,Yes,Yes,No,$0.00 
+CMP580 ,CUSAT1397,New Product Launch,Email,Tablet,7/13/2024,Yes,Yes,No,$0.00 
+CMP490 ,CUSAT1335,Black Friday,Email,Tablet,10/19/2024,Yes,Yes,No,$0.00 
+CMP375 ,CUSAT7006,Holiday Promo,Email,Mobile,5/10/2024,Yes,Yes,Yes,$591.50 
+CMP300 ,CUSAT1594,Black Friday,Email,Mobile,11/2/2024,Yes,Yes,Yes,$301.10 
+CMP151 ,CUSAT5102,Summer Sale,Email,Desktop,11/11/2024,Yes,No,No,$0.00 
+CMP290 ,CUSAT4753,Black Friday,Email,Mobile,5/22/2024,Yes,Yes,Yes,$953.60 
+CMP770 ,CUSAT3882,Holiday Promo,Email,Desktop,11/13/2024,No,No,No,$0.00 
+CMP168 ,CUSAT2663,Holiday Promo,Email,Mobile,11/4/2024,Yes,Yes,Yes,$487.50 
+CMP291 ,CUSAT5024,Summer Sale,Email,Tablet,4/1/2024,Yes,Yes,Yes,$626.80 
+CMP158 ,CUSAT7452,Summer Sale,Email,Mobile,9/13/2024,No,No,No,$0.00 
+CMP687 ,CUSAT5575,Black Friday,Email,Desktop,11/7/2024,Yes,No,No,$0.00 
+CMP143 ,CUSAT2098,Black Friday,Email,Mobile,11/23/2024,No,No,No,$0.00 
+CMP663 ,CUSAT9871,New Product Launch,Email,Mobile,12/12/2024,Yes,Yes,Yes,$917.70 
+CMP867 ,CUSAT7638,Holiday Promo,Email,Mobile,10/22/2024,Yes,Yes,Yes,$98.30 
+CMP476 ,CUSAT5889,Summer Sale,Email,Desktop,4/15/2024,Yes,Yes,Yes,$717.40 
+CMP868 ,CUSAT1262,Holiday Promo,Email,Tablet,6/10/2024,No,No,No,$0.00 
+CMP505 ,CUSAT5005,Summer Sale,Email,Mobile,11/28/2024,Yes,No,No,$0.00 
+CMP480 ,CUSAT4353,Black Friday,Email,Desktop,8/26/2024,Yes,Yes,Yes,$585.80 
+CMP458 ,CUSAT8620,Black Friday,Email,Mobile,5/31/2024,Yes,Yes,No,$0.00 
+CMP989 ,CUSAT8855,Summer Sale,Email,Desktop,9/1/2024,Yes,Yes,No,$0.00 
+CMP249 ,CUSAT5417,Summer Sale,Email,Mobile,1/6/2024,Yes,Yes,Yes,$306.20 
+CMP917 ,CUSAT8541,Holiday Promo,Email,Desktop,8/17/2024,Yes,Yes,Yes,$275.90 
+CMP876 ,CUSAT8987,Black Friday,Email,Tablet,3/4/2024,Yes,Yes,Yes,$680.30 
+CMP486 ,CUSAT6409,New Product Launch,Email,Tablet,3/19/2024,No,No,No,$0.00 
+CMP382 ,CUSAT7461,Holiday Promo,Email,Mobile,2/17/2024,Yes,No,No,$0.00 
+CMP527 ,CUSAT3484,Black Friday,Email,Mobile,8/2/2024,Yes,Yes,Yes,$624.70 
+CMP905 ,CUSAT2082,Holiday Promo,Email,Mobile,5/15/2024,Yes,Yes,No,$0.00 
+CMP481 ,CUSAT8682,Holiday Promo,Email,Tablet,6/24/2024,Yes,Yes,Yes,$877.30 
+CMP925 ,CUSAT5018,Holiday Promo,Email,Desktop,9/23/2024,Yes,Yes,Yes,$670.60 
+CMP841 ,CUSAT7630,Summer Sale,Email,Tablet,6/2/2024,Yes,Yes,Yes,$453.20 
+CMP324 ,CUSAT5075,Black Friday,Email,Mobile,4/24/2024,Yes,Yes,No,$0.00 
+CMP439 ,CUSAT5900,Summer Sale,Email,Mobile,7/23/2024,Yes,Yes,Yes,$634.50 
+CMP542 ,CUSAT3523,Black Friday,Email,Mobile,8/11/2024,Yes,Yes,Yes,$171.20 
+CMP603 ,CUSAT7493,New Product Launch,Email,Desktop,4/30/2024,No,No,No,$0.00 
+CMP444 ,CUSAT3608,New Product Launch,Email,Mobile,11/8/2024,Yes,Yes,Yes,$774.60 
+CMP108 ,CUSAT3458,Black Friday,Email,Desktop,2/12/2024,Yes,Yes,Yes,$961.60 
+CMP236 ,CUSAT5774,Holiday Promo,Email,Tablet,8/29/2024,Yes,No,No,$0.00 
+CMP696 ,CUSAT2349,Summer Sale,Email,Tablet,6/18/2024,No,No,No,$0.00 
+CMP398 ,CUSAT9619,Summer Sale,Email,Mobile,2/25/2024,Yes,Yes,Yes,$847.70 
+CMP816 ,CUSAT9435,Summer Sale,Email,Mobile,3/21/2024,Yes,Yes,No,$0.00 
+CMP811 ,CUSAT8744,Black Friday,Email,Mobile,6/22/2024,Yes,No,No,$0.00 
+CMP967 ,CUSAT6067,New Product Launch,Email,Mobile,4/30/2024,No,No,No,$0.00 
+CMP701 ,CUSAT2928,Summer Sale,Email,Desktop,1/19/2024,Yes,Yes,Yes,$526.90 
+CMP693 ,CUSAT4919,New Product Launch,Email,Desktop,6/19/2024,Yes,Yes,Yes,"$1,150.00 "
+CMP314 ,CUSAT8753,New Product Launch,Email,Desktop,6/3/2024,Yes,Yes,Yes,$341.60 
+CMP961 ,CUSAT5131,Black Friday,Email,Tablet,2/3/2024,No,No,No,$0.00 
+CMP434 ,CUSAT7919,New Product Launch,Email,Tablet,8/18/2024,Yes,Yes,Yes,$406.90 
+CMP996 ,CUSAT6481,Summer Sale,Email,Mobile,7/31/2024,Yes,Yes,No,$0.00 
+CMP838 ,CUSAT3957,Black Friday,Email,Tablet,5/22/2024,Yes,Yes,Yes,$649.10 
+CMP207 ,CUSAT8910,Black Friday,Email,Mobile,7/9/2024,Yes,Yes,Yes,"$1,249.90 "
+CMP641 ,CUSAT4222,Black Friday,Email,Desktop,9/28/2024,Yes,No,No,$0.00 
+CMP118 ,CUSAT7673,New Product Launch,Email,Desktop,1/23/2024,Yes,Yes,Yes,$499.10 
+CMP954 ,CUSAT4651,Black Friday,Email,Desktop,4/28/2024,Yes,Yes,Yes,$483.30 
+CMP643 ,CUSAT4755,Summer Sale,Email,Tablet,7/21/2024,No,No,No,$0.00 
+CMP177 ,CUSAT5483,Black Friday,Email,Mobile,8/8/2024,Yes,No,No,$0.00 
+CMP318 ,CUSAT9750,New Product Launch,Email,Tablet,9/11/2024,Yes,Yes,Yes,$568.90 
+CMP771 ,CUSAT4281,Summer Sale,Email,Mobile,6/17/2024,Yes,Yes,Yes,$527.80 
+CMP867 ,CUSAT5230,Summer Sale,Email,Tablet,2/20/2024,No,No,No,$0.00 
+CMP470 ,CUSAT2599,Holiday Promo,Email,Mobile,4/14/2024,Yes,Yes,No,$0.00 
+CMP103 ,CUSAT4924,Summer Sale,Email,Mobile,3/3/2024,Yes,Yes,Yes,$299.30 
+CMP898 ,CUSAT9758,Black Friday,Email,Desktop,9/13/2024,Yes,Yes,Yes,$429.50 
+CMP925 ,CUSAT4101,Black Friday,Email,Tablet,6/29/2024,Yes,Yes,Yes,"$1,059.40 "
+CMP264 ,CUSAT9553,New Product Launch,Email,Desktop,3/24/2024,Yes,Yes,No,$0.00 
+CMP624 ,CUSAT7593,Holiday Promo,Email,Mobile,8/9/2024,Yes,Yes,No,$0.00 
+CMP899 ,CUSAT9099,Black Friday,Email,Desktop,12/2/2024,Yes,Yes,Yes,$967.70 
+CMP103 ,CUSAT6823,Summer Sale,Email,Tablet,1/19/2024,Yes,Yes,Yes,$332.80 
+CMP963 ,CUSAT2572,New Product Launch,Email,Mobile,8/25/2024,Yes,Yes,Yes,"$1,349.30 "
+CMP448 ,CUSAT2962,New Product Launch,Email,Tablet,10/9/2024,Yes,Yes,Yes,"$1,032.00 "
+CMP979 ,CUSAT2746,Summer Sale,Email,Tablet,8/5/2024,Yes,No,No,$0.00 
+CMP521 ,CUSAT2218,Black Friday,Email,Mobile,5/23/2024,Yes,Yes,No,$0.00 
+CMP391 ,CUSAT6369,Summer Sale,Email,Tablet,1/12/2024,Yes,Yes,No,$0.00 
+CMP197 ,CUSAT5328,Holiday Promo,Email,Mobile,2/21/2024,Yes,Yes,Yes,$941.10 
+CMP383 ,CUSAT6103,Black Friday,Email,Tablet,2/10/2024,Yes,Yes,Yes,$793.90 
+CMP202 ,CUSAT7613,Summer Sale,Email,Desktop,10/9/2024,Yes,Yes,Yes,$261.50 
+CMP702 ,CUSAT1065,Summer Sale,Email,Mobile,3/11/2024,Yes,Yes,Yes,$342.60 
+CMP705 ,CUSAT5056,Summer Sale,Email,Mobile,2/24/2024,Yes,Yes,Yes,"$1,012.00 "
+CMP825 ,CUSAT3075,Summer Sale,Email,Desktop,8/28/2024,Yes,Yes,Yes,$466.10 
+CMP343 ,CUSAT1972,Black Friday,Email,Mobile,4/6/2024,Yes,Yes,Yes,$438.60 
+CMP704 ,CUSAT7742,New Product Launch,Email,Desktop,6/25/2024,Yes,Yes,No,$0.00 
+CMP609 ,CUSAT1023,Summer Sale,Email,Mobile,5/10/2024,Yes,Yes,Yes,$769.50 
+CMP694 ,CUSAT2965,New Product Launch,Email,Mobile,4/4/2024,Yes,Yes,Yes,"$1,425.00 "
+CMP236 ,CUSAT4573,Holiday Promo,Email,Mobile,2/6/2024,Yes,Yes,Yes,$173.00 
+CMP311 ,CUSAT8324,Summer Sale,Email,Tablet,7/30/2024,Yes,Yes,No,$0.00 
+CMP796 ,CUSAT5506,Black Friday,Email,Tablet,7/12/2024,Yes,Yes,Yes,"$1,164.90 "
+CMP978 ,CUSAT4977,Black Friday,Email,Desktop,4/6/2024,Yes,Yes,Yes,$568.20 
+CMP162 ,CUSAT1976,New Product Launch,Email,Mobile,8/9/2024,Yes,Yes,Yes,$781.00 
+CMP386 ,CUSAT3900,Black Friday,Email,Desktop,5/27/2024,Yes,Yes,No,$0.00 
+CMP329 ,CUSAT8362,Holiday Promo,Email,Tablet,6/27/2024,Yes,Yes,No,$0.00 
+CMP236 ,CUSAT1280,Holiday Promo,Email,Desktop,9/2/2024,Yes,Yes,No,$0.00 
+CMP479 ,CUSAT9552,Holiday Promo,Email,Desktop,2/26/2024,Yes,Yes,Yes,$994.30 
+CMP209 ,CUSAT4952,Holiday Promo,Email,Tablet,2/2/2024,Yes,Yes,Yes,"$1,075.00 "
+CMP742 ,CUSAT9143,Black Friday,Email,Mobile,9/28/2024,Yes,No,No,$0.00 
+CMP592 ,CUSAT4168,Summer Sale,Email,Tablet,10/17/2024,Yes,Yes,Yes,$831.90 
+CMP511 ,CUSAT6847,Summer Sale,Email,Desktop,10/27/2024,Yes,Yes,Yes,$730.30 
+CMP877 ,CUSAT4951,Black Friday,Email,Desktop,6/21/2024,Yes,Yes,Yes,$677.80 
+CMP678 ,CUSAT3244,Holiday Promo,Email,Tablet,12/19/2024,No,No,No,$0.00 
+CMP174 ,CUSAT2681,New Product Launch,Email,Tablet,9/30/2024,No,No,No,$0.00 
+CMP362 ,CUSAT1191,New Product Launch,Email,Mobile,7/8/2024,Yes,No,No,$0.00 
+CMP342 ,CUSAT2946,Summer Sale,Email,Tablet,2/17/2024,No,No,No,$0.00 
+CMP271 ,CUSAT1104,Black Friday,Email,Tablet,12/18/2024,Yes,Yes,Yes,"$1,127.10 "
+CMP689 ,CUSAT5549,Summer Sale,Email,Tablet,9/14/2024,Yes,Yes,Yes,$197.40 
+CMP856 ,CUSAT2597,New Product Launch,Email,Tablet,12/22/2024,No,No,No,$0.00 
+CMP850 ,CUSAT3939,Holiday Promo,Email,Mobile,4/29/2024,Yes,Yes,Yes,"$1,126.90 "
+CMP733 ,CUSAT3203,Summer Sale,Email,Tablet,12/4/2024,Yes,Yes,No,$0.00 
+CMP953 ,CUSAT3606,Black Friday,Email,Mobile,3/19/2024,Yes,Yes,No,$0.00 
+CMP530 ,CUSAT2778,Summer Sale,Email,Mobile,3/30/2024,Yes,Yes,Yes,$356.90 
+CMP932 ,CUSAT3722,Holiday Promo,Email,Desktop,8/10/2024,Yes,Yes,Yes,"$1,118.80 "
+CMP535 ,CUSAT3820,New Product Launch,Email,Desktop,4/20/2024,Yes,Yes,No,$0.00 
+CMP402 ,CUSAT7152,Black Friday,Email,Mobile,1/11/2024,No,No,No,$0.00 
+CMP977 ,CUSAT2854,Black Friday,Email,Desktop,12/24/2024,Yes,Yes,No,$0.00 
+CMP918 ,CUSAT3071,Holiday Promo,Email,Mobile,10/2/2024,Yes,Yes,Yes,$936.30 
+CMP637 ,CUSAT9807,Summer Sale,Email,Desktop,10/9/2024,Yes,No,No,$0.00 
+CMP970 ,CUSAT4363,Summer Sale,Email,Tablet,1/23/2024,Yes,Yes,Yes,$504.50 
+CMP838 ,CUSAT9957,Summer Sale,Email,Desktop,8/14/2024,Yes,Yes,Yes,$453.30 
+CMP898 ,CUSAT1447,New Product Launch,Email,Tablet,1/17/2024,Yes,Yes,No,$0.00 
+CMP184 ,CUSAT4119,Black Friday,Email,Desktop,11/22/2024,Yes,Yes,Yes,$231.10 
+CMP461 ,CUSAT6125,Black Friday,Email,Tablet,1/14/2024,Yes,Yes,Yes,"$1,246.20 "
+CMP932 ,CUSAT3423,New Product Launch,Email,Desktop,3/22/2024,Yes,Yes,No,$0.00 
+CMP395 ,CUSAT9215,New Product Launch,Email,Desktop,3/30/2024,Yes,Yes,Yes,"$1,086.90 "
+CMP145 ,CUSAT1800,Summer Sale,Email,Mobile,8/10/2024,Yes,Yes,Yes,"$1,208.60 "
+CMP381 ,CUSAT9684,Summer Sale,Email,Desktop,7/4/2024,No,No,No,$0.00 
+CMP429 ,CUSAT7054,New Product Launch,Email,Desktop,5/17/2024,No,No,No,$0.00 
+CMP140 ,CUSAT8696,Summer Sale,Email,Mobile,1/22/2024,Yes,Yes,Yes,$761.50 
+CMP463 ,CUSAT1278,New Product Launch,Email,Mobile,10/12/2024,Yes,Yes,Yes,$590.30 
+CMP358 ,CUSAT9660,Summer Sale,Email,Desktop,3/3/2024,No,No,No,$0.00 
+CMP354 ,CUSAT9448,Holiday Promo,Email,Tablet,9/12/2024,Yes,Yes,No,$0.00 
+CMP789 ,CUSAT2073,Summer Sale,Email,Mobile,5/17/2024,Yes,Yes,Yes,$128.40 
+CMP848 ,CUSAT6038,Black Friday,Email,Mobile,11/26/2024,No,No,No,$0.00 
+CMP965 ,CUSAT9656,Black Friday,Email,Mobile,7/7/2024,Yes,Yes,No,$0.00 
+CMP398 ,CUSAT7387,Summer Sale,Email,Tablet,1/21/2024,Yes,Yes,No,$0.00 
+CMP838 ,CUSAT7046,Holiday Promo,Email,Desktop,7/25/2024,Yes,Yes,No,$0.00 
+CMP911 ,CUSAT5584,Holiday Promo,Email,Tablet,7/12/2024,Yes,Yes,No,$0.00 
+CMP631 ,CUSAT3923,Holiday Promo,Email,Tablet,10/11/2024,Yes,Yes,Yes,$834.70 
+CMP138 ,CUSAT5746,New Product Launch,Email,Tablet,12/10/2024,No,No,No,$0.00 
+CMP943 ,CUSAT6817,Holiday Promo,Email,Mobile,4/16/2024,Yes,No,No,$0.00 
+CMP192 ,CUSAT2549,New Product Launch,Email,Mobile,3/13/2024,Yes,Yes,Yes,$61.60 
+CMP346 ,CUSAT2497,New Product Launch,Email,Desktop,11/6/2024,Yes,Yes,Yes,$650.60 
+CMP516 ,CUSAT1569,New Product Launch,Email,Mobile,4/25/2024,No,No,No,$0.00 
+CMP612 ,CUSAT7671,Black Friday,Email,Mobile,2/18/2024,Yes,Yes,Yes,$199.90 
+CMP897 ,CUSAT7799,Summer Sale,Email,Tablet,10/27/2024,Yes,No,No,$0.00 
+CMP819 ,CUSAT9148,Holiday Promo,Email,Tablet,6/19/2024,Yes,Yes,Yes,$805.60 
+CMP476 ,CUSAT6665,Summer Sale,Email,Mobile,12/14/2024,Yes,Yes,Yes,$671.90 
+CMP688 ,CUSAT5699,Summer Sale,Email,Mobile,9/26/2024,No,No,No,$0.00 
+CMP700 ,CUSAT3282,Black Friday,Email,Mobile,6/24/2024,Yes,Yes,Yes,$795.70 
+CMP345 ,CUSAT8393,Holiday Promo,Email,Desktop,9/15/2024,Yes,Yes,Yes,$853.90 
+CMP977 ,CUSAT5816,Summer Sale,Email,Tablet,1/19/2024,Yes,Yes,Yes,"$1,043.90 "
+CMP504 ,CUSAT8023,Black Friday,Email,Mobile,5/1/2024,Yes,No,No,$0.00 
+CMP297 ,CUSAT1907,Black Friday,Email,Desktop,1/10/2024,Yes,Yes,Yes,$503.50 
+CMP801 ,CUSAT8465,Summer Sale,Email,Tablet,1/14/2024,Yes,No,No,$0.00 
+CMP464 ,CUSAT1852,Black Friday,Email,Desktop,5/10/2024,No,No,No,$0.00 
+CMP246 ,CUSAT4454,Black Friday,Email,Desktop,10/14/2024,Yes,Yes,Yes,$547.00 
+CMP640 ,CUSAT8330,Holiday Promo,Email,Desktop,10/10/2024,No,No,No,$0.00 
+CMP317 ,CUSAT4829,New Product Launch,Email,Mobile,3/10/2024,Yes,Yes,Yes,"$1,042.90 "
+CMP118 ,CUSAT1778,Black Friday,Email,Mobile,8/19/2024,Yes,Yes,Yes,$551.90 
+CMP831 ,CUSAT8423,Holiday Promo,Email,Desktop,4/3/2024,Yes,Yes,No,$0.00 
+CMP665 ,CUSAT8474,Summer Sale,Email,Mobile,12/2/2024,Yes,Yes,No,$0.00 
+CMP354 ,CUSAT3407,Holiday Promo,Email,Desktop,11/22/2024,Yes,Yes,Yes,$385.90 
+CMP977 ,CUSAT4185,Summer Sale,Email,Mobile,11/12/2024,No,No,No,$0.00 
+CMP673 ,CUSAT1897,Black Friday,Email,Mobile,8/8/2024,Yes,Yes,Yes,$732.80 
+CMP131 ,CUSAT8241,Summer Sale,Email,Desktop,8/22/2024,Yes,Yes,Yes,$676.20 
+CMP778 ,CUSAT6927,New Product Launch,Email,Mobile,4/22/2024,Yes,Yes,Yes,$883.80 
+CMP517 ,CUSAT2930,Summer Sale,Email,Desktop,1/2/2024,Yes,No,No,$0.00 
+CMP657 ,CUSAT3402,Black Friday,Email,Mobile,10/29/2024,No,No,No,$0.00 
+CMP174 ,CUSAT4549,Summer Sale,Email,Tablet,6/25/2024,Yes,No,No,$0.00 
+CMP444 ,CUSAT2969,Holiday Promo,Email,Tablet,9/27/2024,No,No,No,$0.00 
+CMP891 ,CUSAT6091,Black Friday,Email,Tablet,5/3/2024,Yes,No,No,$0.00 
+CMP783 ,CUSAT9419,Black Friday,Email,Desktop,4/24/2024,Yes,Yes,No,$0.00 
+CMP183 ,CUSAT4167,New Product Launch,Email,Tablet,9/14/2024,Yes,Yes,No,$0.00 
+CMP763 ,CUSAT5575,Summer Sale,Email,Tablet,9/27/2024,Yes,Yes,No,$0.00 
+CMP983 ,CUSAT9549,Holiday Promo,Email,Tablet,7/27/2024,Yes,Yes,Yes,$923.20 
+CMP376 ,CUSAT1275,Black Friday,Email,Desktop,4/22/2024,Yes,Yes,Yes,$746.90 
+CMP243 ,CUSAT7606,Black Friday,Email,Mobile,12/31/2024,Yes,Yes,Yes,"$1,335.30 "
+CMP603 ,CUSAT8768,Black Friday,Email,Mobile,2/17/2024,Yes,Yes,No,$0.00 
+CMP369 ,CUSAT2100,Holiday Promo,Email,Mobile,9/25/2024,No,No,No,$0.00 
+CMP275 ,CUSAT4319,Holiday Promo,Email,Mobile,6/9/2024,Yes,Yes,No,$0.00 
+CMP268 ,CUSAT2665,Summer Sale,Email,Mobile,1/6/2024,Yes,No,No,$0.00 
+CMP785 ,CUSAT6206,Summer Sale,Email,Desktop,5/1/2024,Yes,Yes,No,$0.00 
+CMP558 ,CUSAT2217,New Product Launch,Email,Desktop,3/3/2024,Yes,Yes,No,$0.00 
+CMP244 ,CUSAT7481,Holiday Promo,Email,Tablet,10/23/2024,Yes,Yes,Yes,$178.60 
+CMP309 ,CUSAT5098,Summer Sale,Email,Desktop,1/28/2024,Yes,No,No,$0.00 
+CMP274 ,CUSAT4058,Summer Sale,Email,Tablet,9/12/2024,Yes,Yes,Yes,$980.10 
+CMP204 ,CUSAT4168,Holiday Promo,Email,Mobile,10/1/2024,Yes,Yes,Yes,"$1,284.30 "
+CMP536 ,CUSAT4795,Black Friday,Email,Mobile,8/12/2024,Yes,Yes,Yes,$558.20 
+CMP334 ,CUSAT8366,New Product Launch,Email,Desktop,7/28/2024,No,No,No,$0.00 
+CMP162 ,CUSAT7597,Black Friday,Email,Desktop,8/20/2024,Yes,Yes,Yes,$628.00 
+CMP247 ,CUSAT2382,New Product Launch,Email,Mobile,1/2/2024,Yes,Yes,No,$0.00 
+CMP795 ,CUSAT6997,Summer Sale,Email,Mobile,2/14/2024,Yes,Yes,No,$0.00 
+CMP174 ,CUSAT9566,New Product Launch,Email,Mobile,10/18/2024,Yes,Yes,No,$0.00 
+CMP140 ,CUSAT9753,New Product Launch,Email,Mobile,8/21/2024,Yes,Yes,Yes,$990.10 
+CMP988 ,CUSAT1264,Summer Sale,Email,Mobile,5/27/2024,Yes,Yes,No,$0.00 
+CMP543 ,CUSAT5108,Black Friday,Email,Tablet,12/5/2024,Yes,Yes,Yes,$675.90 
+CMP744 ,CUSAT2081,New Product Launch,Email,Desktop,11/8/2024,Yes,Yes,Yes,"$1,000.40 "
+CMP869 ,CUSAT1586,New Product Launch,Email,Mobile,8/22/2024,No,No,No,$0.00 
+CMP589 ,CUSAT4211,Black Friday,Email,Mobile,7/24/2024,Yes,Yes,Yes,$871.20 
+CMP742 ,CUSAT8559,Black Friday,Email,Desktop,11/10/2024,Yes,Yes,Yes,$338.40 
+CMP835 ,CUSAT3521,Summer Sale,Email,Mobile,8/11/2024,Yes,No,No,$0.00 
+CMP100 ,CUSAT7530,New Product Launch,Email,Tablet,6/11/2024,Yes,Yes,Yes,$804.50 
+CMP988 ,CUSAT6904,Black Friday,Email,Tablet,1/16/2024,Yes,Yes,Yes,"$1,149.50 "
+CMP271 ,CUSAT5580,Black Friday,Email,Tablet,1/16/2024,Yes,Yes,Yes,$545.00 
+CMP502 ,CUSAT8547,New Product Launch,Email,Mobile,4/3/2024,Yes,Yes,Yes,$981.20 
+CMP749 ,CUSAT3180,New Product Launch,Email,Tablet,4/5/2024,Yes,Yes,Yes,"$1,244.90 "
+CMP448 ,CUSAT7633,Summer Sale,Email,Mobile,10/20/2024,Yes,Yes,Yes,"$1,126.00 "
+CMP451 ,CUSAT7374,Summer Sale,Email,Desktop,9/4/2024,Yes,Yes,Yes,"$1,256.00 "
+CMP478 ,CUSAT2674,Holiday Promo,Email,Mobile,11/7/2024,Yes,Yes,Yes,$896.90 
+CMP369 ,CUSAT7328,Black Friday,Email,Mobile,11/26/2024,Yes,Yes,Yes,$630.20 
+CMP413 ,CUSAT2965,New Product Launch,Email,Tablet,4/24/2024,Yes,Yes,No,$0.00 
+CMP634 ,CUSAT6465,New Product Launch,Email,Desktop,3/25/2024,Yes,Yes,No,$0.00 
+CMP433 ,CUSAT5811,Black Friday,Email,Desktop,7/20/2024,Yes,Yes,No,$0.00 
+CMP319 ,CUSAT7872,Black Friday,Email,Mobile,3/29/2024,Yes,Yes,Yes,"$1,468.40 "
+CMP372 ,CUSAT3452,New Product Launch,Email,Desktop,1/9/2024,Yes,Yes,No,$0.00 
+CMP641 ,CUSAT2999,New Product Launch,Email,Mobile,8/21/2024,Yes,No,No,$0.00 
+CMP232 ,CUSAT4850,Black Friday,Email,Desktop,1/4/2024,Yes,Yes,Yes,$820.60 
+CMP432 ,CUSAT9297,Black Friday,Email,Mobile,8/7/2024,Yes,Yes,No,$0.00 
+CMP445 ,CUSAT9359,Holiday Promo,Email,Mobile,3/11/2024,Yes,Yes,Yes,"$1,278.00 "
+CMP961 ,CUSAT5719,Summer Sale,Email,Desktop,6/11/2024,Yes,Yes,Yes,$351.00 
+CMP971 ,CUSAT1102,Summer Sale,Email,Mobile,1/14/2024,Yes,Yes,Yes,$677.90 
+CMP174 ,CUSAT4873,Summer Sale,Email,Tablet,11/27/2024,Yes,Yes,No,$0.00 
+CMP592 ,CUSAT1553,Black Friday,Email,Tablet,1/3/2024,Yes,Yes,Yes,$72.00 
+CMP971 ,CUSAT9516,Black Friday,Email,Desktop,5/25/2024,No,No,No,$0.00 
+CMP752 ,CUSAT8226,New Product Launch,Email,Tablet,8/4/2024,Yes,Yes,No,$0.00 
+CMP856 ,CUSAT3747,Holiday Promo,Email,Mobile,7/6/2024,Yes,No,No,$0.00 
+CMP935 ,CUSAT2734,New Product Launch,Email,Mobile,12/28/2024,Yes,Yes,Yes,$323.10 
+CMP760 ,CUSAT1116,New Product Launch,Email,Mobile,3/14/2024,Yes,Yes,Yes,$37.50 
+CMP525 ,CUSAT5299,Black Friday,Email,Mobile,2/16/2024,Yes,Yes,Yes,$566.80 
+CMP582 ,CUSAT7619,Black Friday,Email,Tablet,9/29/2024,No,No,No,$0.00 
+CMP366 ,CUSAT6950,Black Friday,Email,Desktop,9/2/2024,Yes,Yes,Yes,$904.00 
+CMP733 ,CUSAT2478,Black Friday,Email,Desktop,1/17/2024,No,No,No,$0.00 
+CMP286 ,CUSAT8201,Summer Sale,Email,Mobile,1/28/2024,No,No,No,$0.00 
+CMP845 ,CUSAT4559,New Product Launch,Email,Tablet,8/14/2024,Yes,No,No,$0.00 
+CMP680 ,CUSAT4507,New Product Launch,Email,Mobile,3/20/2024,Yes,Yes,Yes,$299.20 
+CMP341 ,CUSAT3357,Holiday Promo,Email,Desktop,2/8/2024,Yes,Yes,Yes,$727.70 
+CMP415 ,CUSAT5370,Black Friday,Email,Desktop,4/14/2024,No,No,No,$0.00 
+CMP120 ,CUSAT6449,Holiday Promo,Email,Mobile,7/20/2024,Yes,Yes,No,$0.00 
+CMP968 ,CUSAT8189,Summer Sale,Email,Mobile,8/16/2024,No,No,No,$0.00 
+CMP782 ,CUSAT8676,Black Friday,Email,Tablet,1/29/2024,Yes,Yes,Yes,$536.00 
+CMP671 ,CUSAT9502,Holiday Promo,Email,Mobile,3/11/2024,Yes,Yes,Yes,$868.60 
+CMP843 ,CUSAT1889,Black Friday,Email,Mobile,7/22/2024,Yes,Yes,Yes,$685.30 
+CMP802 ,CUSAT8628,Black Friday,Email,Desktop,9/7/2024,Yes,Yes,Yes,$299.20 
+CMP647 ,CUSAT7460,Summer Sale,Email,Mobile,4/4/2024,Yes,Yes,No,$0.00 
+CMP934 ,CUSAT6254,Summer Sale,Email,Mobile,7/17/2024,No,No,Yes,$281.60 
+CMP252 ,CUSAT3743,New Product Launch,Email,Tablet,2/17/2024,Yes,Yes,No,$0.00 
+CMP988 ,CUSAT9378,Holiday Promo,Email,Mobile,9/1/2024,Yes,Yes,No,$0.00 
+CMP803 ,CUSAT9189,Summer Sale,Email,Mobile,8/28/2024,Yes,No,No,$0.00 
+CMP220 ,CUSAT8542,Black Friday,Email,Tablet,2/29/2024,Yes,Yes,Yes,$575.80 
+CMP215 ,CUSAT7268,Black Friday,Email,Mobile,12/10/2024,Yes,Yes,Yes,$316.70 
+CMP840 ,CUSAT6618,New Product Launch,Email,Mobile,1/17/2024,Yes,No,No,$0.00 
+CMP541 ,CUSAT7230,Holiday Promo,Email,Mobile,5/30/2024,No,No,No,$0.00 
+CMP882 ,CUSAT5621,Summer Sale,Email,Mobile,9/23/2024,Yes,No,No,$0.00 
+CMP445 ,CUSAT1143,New Product Launch,Email,Mobile,11/16/2024,Yes,Yes,No,$0.00 
+CMP942 ,CUSAT4172,New Product Launch,Email,Desktop,3/6/2024,Yes,Yes,No,$0.00 
+CMP453 ,CUSAT3100,New Product Launch,Email,Tablet,12/7/2024,Yes,No,No,$0.00 
+CMP295 ,CUSAT7944,Holiday Promo,Email,Mobile,3/1/2024,Yes,Yes,No,$0.00 
+CMP365 ,CUSAT2227,New Product Launch,Email,Mobile,4/18/2024,Yes,Yes,No,$0.00 
+CMP265 ,CUSAT8853,Holiday Promo,Email,Desktop,3/4/2024,Yes,Yes,Yes,$658.70 
+CMP838 ,CUSAT2398,Black Friday,Email,Tablet,2/1/2024,No,No,No,$0.00 
+CMP643 ,CUSAT2753,Holiday Promo,Email,Desktop,3/5/2024,Yes,Yes,Yes,$958.80 
+CMP227 ,CUSAT1276,New Product Launch,Email,Desktop,1/17/2024,Yes,Yes,Yes,$492.60 
+CMP415 ,CUSAT2063,Holiday Promo,Email,Mobile,8/4/2024,Yes,Yes,No,$0.00 
+CMP357 ,CUSAT8857,Summer Sale,Email,Tablet,3/29/2024,No,No,No,$0.00 
+CMP160 ,CUSAT2941,Black Friday,Email,Mobile,2/26/2024,Yes,No,No,$0.00 
+CMP508 ,CUSAT5524,Summer Sale,Email,Mobile,4/27/2024,Yes,Yes,Yes,$515.60 
+CMP931 ,CUSAT7000,Black Friday,Email,Mobile,1/7/2024,Yes,Yes,Yes,$205.20 
+CMP620 ,CUSAT1695,Black Friday,Email,Mobile,8/25/2024,Yes,No,No,$0.00 
+CMP148 ,CUSAT5714,Holiday Promo,Email,Desktop,6/19/2024,No,No,No,$0.00 
+CMP125 ,CUSAT1285,New Product Launch,Email,Mobile,2/28/2024,Yes,Yes,Yes,$510.10 
+CMP539 ,CUSAT5157,Black Friday,Email,Mobile,8/16/2024,Yes,Yes,Yes,$340.00 
+CMP922 ,CUSAT4282,New Product Launch,Email,Mobile,4/11/2024,Yes,No,No,$0.00 
+CMP180 ,CUSAT6787,New Product Launch,Email,Mobile,8/11/2024,Yes,Yes,Yes,$776.80 
+CMP372 ,CUSAT7602,Black Friday,Email,Mobile,1/17/2024,Yes,Yes,Yes,$163.90 
+CMP151 ,CUSAT8322,New Product Launch,Email,Tablet,2/4/2024,Yes,Yes,Yes,"$1,164.40 "
+CMP368 ,CUSAT4865,Black Friday,Email,Tablet,1/11/2024,Yes,Yes,Yes,$560.60 
+CMP824 ,CUSAT2077,Holiday Promo,Email,Mobile,5/7/2024,Yes,Yes,Yes,$607.60 
+CMP404 ,CUSAT9141,Black Friday,Email,Tablet,1/20/2024,Yes,No,No,$0.00 
+CMP223 ,CUSAT7792,Black Friday,Email,Mobile,10/29/2024,No,No,No,$0.00 
+CMP150 ,CUSAT8946,Black Friday,Email,Mobile,4/20/2024,No,No,No,$0.00 
+CMP805 ,CUSAT9444,New Product Launch,Email,Mobile,4/3/2024,Yes,Yes,Yes,$714.90 
+CMP370 ,CUSAT3705,Black Friday,Email,Mobile,2/4/2024,Yes,Yes,Yes,$355.10 
+CMP653 ,CUSAT3810,Summer Sale,Email,Desktop,8/23/2024,Yes,Yes,Yes,$744.60 
+CMP658 ,CUSAT2371,Holiday Promo,Email,Tablet,2/18/2024,Yes,Yes,Yes,$142.50 
+CMP214 ,CUSAT2368,Black Friday,Email,Tablet,8/17/2024,Yes,Yes,Yes,$643.40 
+CMP934 ,CUSAT2156,Black Friday,Email,Desktop,12/4/2024,No,No,No,$0.00 
+CMP464 ,CUSAT9551,Black Friday,Email,Mobile,3/2/2024,Yes,Yes,No,$0.00 
+CMP163 ,CUSAT1420,Holiday Promo,Email,Desktop,1/6/2024,Yes,No,No,$0.00 
+CMP489 ,CUSAT2394,Holiday Promo,Email,Mobile,4/2/2024,No,No,No,$0.00 
+CMP376 ,CUSAT3709,New Product Launch,Email,Mobile,12/11/2024,No,No,No,$0.00 
+CMP786 ,CUSAT8817,New Product Launch,Email,Desktop,10/23/2024,Yes,Yes,No,$0.00 
+CMP909 ,CUSAT2448,New Product Launch,Email,Mobile,12/31/2024,Yes,Yes,No,$0.00 
+CMP281 ,CUSAT8987,Holiday Promo,Email,Desktop,10/9/2024,Yes,Yes,No,$0.00 
+CMP924 ,CUSAT7523,Summer Sale,Email,Tablet,10/24/2024,Yes,Yes,Yes,"$1,106.30 "
+CMP659 ,CUSAT5073,New Product Launch,Email,Mobile,11/8/2024,Yes,Yes,No,$0.00 
+CMP166 ,CUSAT8273,Summer Sale,Email,Mobile,9/18/2024,Yes,No,No,$0.00 
+CMP464 ,CUSAT4983,New Product Launch,Email,Desktop,3/22/2024,Yes,No,No,$0.00 
+CMP908 ,CUSAT4637,Holiday Promo,Email,Mobile,9/14/2024,No,No,No,$0.00 
+CMP364 ,CUSAT7474,Black Friday,Email,Tablet,8/11/2024,No,No,No,$0.00 
+CMP738 ,CUSAT2038,Summer Sale,Email,Mobile,2/4/2024,Yes,No,No,$0.00 
+CMP714 ,CUSAT3674,Holiday Promo,Email,Mobile,7/2/2024,No,No,No,$0.00 
+CMP354 ,CUSAT1717,Holiday Promo,Email,Mobile,1/1/2024,Yes,Yes,Yes,"$1,000.30 "
+CMP269 ,CUSAT6903,Holiday Promo,Email,Desktop,12/24/2024,Yes,Yes,No,$0.00 
+CMP765 ,CUSAT1517,Holiday Promo,Email,Desktop,2/19/2024,No,No,No,$0.00 
+CMP858 ,CUSAT8933,New Product Launch,Email,Tablet,2/2/2024,Yes,Yes,Yes,$500.00 
+CMP659 ,CUSAT1685,Black Friday,Email,Tablet,10/2/2024,No,No,No,$0.00 
+CMP553 ,CUSAT5437,Black Friday,Email,Tablet,2/19/2024,Yes,Yes,No,$0.00 
+CMP371 ,CUSAT9944,Black Friday,Email,Tablet,7/20/2024,Yes,No,No,$0.00 
+CMP490 ,CUSAT6117,New Product Launch,Email,Desktop,6/8/2024,Yes,Yes,Yes,$924.30 
+CMP227 ,CUSAT3208,New Product Launch,Email,Mobile,12/3/2024,Yes,No,No,$0.00 
+CMP216 ,CUSAT2153,Black Friday,Email,Desktop,12/21/2024,No,No,No,$0.00 
+CMP312 ,CUSAT7901,Holiday Promo,Email,Desktop,10/11/2024,Yes,Yes,Yes,"$1,121.80 "
+CMP713 ,CUSAT1914,Black Friday,Email,Mobile,5/13/2024,Yes,Yes,No,$0.00 
+CMP405 ,CUSAT9689,New Product Launch,Email,Mobile,6/3/2024,Yes,Yes,No,$0.00 
+CMP904 ,CUSAT8125,Black Friday,Email,Desktop,12/15/2024,Yes,Yes,Yes,"$1,050.70 "
+CMP909 ,CUSAT6091,Holiday Promo,Email,Tablet,3/23/2024,No,No,No,$0.00 
+CMP684 ,CUSAT8382,Holiday Promo,Email,Mobile,10/2/2024,Yes,Yes,Yes,$435.70 
+CMP977 ,CUSAT7054,Holiday Promo,Email,Desktop,8/5/2024,Yes,Yes,Yes,$157.70 
+CMP211 ,CUSAT7496,New Product Launch,Email,Mobile,12/24/2024,Yes,Yes,Yes,$514.10 
+CMP535 ,CUSAT3625,Summer Sale,Email,Mobile,12/21/2024,Yes,No,No,$0.00 
+CMP589 ,CUSAT8765,Holiday Promo,Email,Mobile,8/7/2024,Yes,Yes,No,$0.00 
+CMP281 ,CUSAT5602,New Product Launch,Email,Mobile,1/15/2024,Yes,Yes,Yes,"$1,124.10 "
+CMP161 ,CUSAT1100,Black Friday,Email,Mobile,9/21/2024,Yes,No,No,$0.00 
+CMP672 ,CUSAT3094,Holiday Promo,Email,Mobile,9/3/2024,Yes,Yes,Yes,$375.20 
+CMP835 ,CUSAT7693,Holiday Promo,Email,Tablet,8/16/2024,Yes,Yes,Yes,$516.30 
+CMP641 ,CUSAT5116,Holiday Promo,Email,Desktop,3/25/2024,No,No,No,$0.00 
+CMP645 ,CUSAT1787,Black Friday,Email,Tablet,7/16/2024,Yes,Yes,Yes,$277.70 
+CMP226 ,CUSAT4810,Black Friday,Email,Desktop,3/30/2024,Yes,Yes,Yes,$986.00 
+CMP360 ,CUSAT6005,New Product Launch,Email,Desktop,12/12/2024,Yes,No,No,$0.00 
+CMP298 ,CUSAT3525,New Product Launch,Email,Desktop,2/9/2024,Yes,Yes,Yes,$106.30 
+CMP892 ,CUSAT7523,Holiday Promo,Email,Tablet,2/13/2024,No,No,No,$0.00 
+CMP952 ,CUSAT9829,Black Friday,Email,Tablet,1/16/2024,Yes,Yes,Yes,$589.50 
+CMP920 ,CUSAT2102,New Product Launch,Email,Mobile,12/1/2024,Yes,Yes,No,$0.00 
+CMP911 ,CUSAT4760,Holiday Promo,Email,Desktop,1/17/2024,Yes,Yes,Yes,$276.20 
+CMP983 ,CUSAT2701,Black Friday,Email,Tablet,1/7/2024,No,No,No,$0.00 
+CMP168 ,CUSAT7962,Holiday Promo,Email,Desktop,5/26/2024,Yes,Yes,Yes,$410.50 
+CMP945 ,CUSAT9711,Holiday Promo,Email,Tablet,5/14/2024,Yes,Yes,Yes,$594.20 
+CMP903 ,CUSAT2755,Summer Sale,Email,Mobile,4/21/2024,No,No,No,$0.00 
+CMP361 ,CUSAT9828,New Product Launch,Email,Tablet,9/14/2024,Yes,Yes,Yes,$602.60 
+CMP882 ,CUSAT1998,Holiday Promo,Email,Desktop,3/20/2024,Yes,Yes,Yes,$425.50 
+CMP359 ,CUSAT7174,Holiday Promo,Email,Tablet,8/18/2024,Yes,Yes,No,$0.00 
+CMP374 ,CUSAT3165,Holiday Promo,Email,Mobile,12/29/2024,No,No,No,$0.00 
+CMP205 ,CUSAT3473,Summer Sale,Email,Mobile,5/1/2024,No,No,No,$0.00 
+CMP627 ,CUSAT1808,New Product Launch,Email,Mobile,3/29/2024,Yes,Yes,Yes,$496.50 
+CMP279 ,CUSAT1034,Summer Sale,Email,Tablet,1/8/2024,No,No,No,$0.00 
+CMP130 ,CUSAT9321,New Product Launch,Email,Tablet,7/13/2024,Yes,Yes,Yes,$824.40 
+CMP293 ,CUSAT7105,Black Friday,Email,Desktop,2/12/2024,Yes,Yes,Yes,$481.80 
+CMP756 ,CUSAT2393,New Product Launch,Email,Tablet,6/12/2024,Yes,Yes,Yes,$878.80 
+CMP422 ,CUSAT6068,Black Friday,Email,Tablet,11/24/2024,Yes,Yes,No,$0.00 
+CMP869 ,CUSAT7623,Summer Sale,Email,Desktop,1/9/2024,Yes,Yes,No,$0.00 
+CMP439 ,CUSAT1320,New Product Launch,Email,Desktop,8/12/2024,Yes,Yes,Yes,$747.90 
+CMP762 ,CUSAT7438,Holiday Promo,Email,Tablet,2/17/2024,Yes,Yes,Yes,$557.10 
+CMP654 ,CUSAT6307,Summer Sale,Email,Mobile,1/1/2024,Yes,Yes,Yes,$779.10 
+CMP476 ,CUSAT4189,Black Friday,Email,Mobile,9/24/2024,Yes,Yes,No,$0.00 
+CMP681 ,CUSAT7639,Summer Sale,Email,Mobile,7/12/2024,Yes,Yes,No,$0.00 
+CMP668 ,CUSAT9520,New Product Launch,Email,Desktop,10/3/2024,Yes,Yes,Yes,$122.50 
+CMP922 ,CUSAT8024,Summer Sale,Email,Desktop,7/5/2024,Yes,No,No,$0.00 
+CMP342 ,CUSAT3072,Summer Sale,Email,Mobile,1/12/2024,Yes,Yes,Yes,"$1,293.00 "
+CMP993 ,CUSAT4060,Black Friday,Email,Desktop,10/22/2024,Yes,Yes,Yes,"$1,492.50 "
+CMP174 ,CUSAT8552,Holiday Promo,Email,Mobile,7/7/2024,Yes,No,No,$0.00 
+CMP192 ,CUSAT3260,Black Friday,Email,Desktop,8/21/2024,Yes,Yes,Yes,$800.40 
+CMP760 ,CUSAT3370,Holiday Promo,Email,Mobile,12/10/2024,No,No,No,$0.00 
+CMP717 ,CUSAT8823,Holiday Promo,Email,Desktop,3/31/2024,Yes,Yes,Yes,$383.00 
+CMP666 ,CUSAT6678,New Product Launch,Email,Desktop,3/8/2024,Yes,Yes,No,$0.00 
+CMP965 ,CUSAT3318,Summer Sale,Email,Desktop,9/15/2024,Yes,Yes,Yes,$351.70 
+CMP324 ,CUSAT6606,Black Friday,Email,Mobile,2/2/2024,No,No,No,$0.00 
+CMP581 ,CUSAT3910,Black Friday,Email,Mobile,5/22/2024,Yes,Yes,Yes,$411.20 
+CMP767 ,CUSAT9465,Summer Sale,Email,Tablet,2/15/2024,Yes,Yes,Yes,$0.00 
+CMP174 ,CUSAT7381,Black Friday,Email,Mobile,3/10/2024,Yes,Yes,Yes,$899.20 
+CMP871 ,CUSAT1966,Summer Sale,Email,Mobile,10/14/2024,Yes,Yes,No,$0.00 
+CMP211 ,CUSAT2411,Holiday Promo,Email,Desktop,8/25/2024,Yes,Yes,No,$0.00 
+CMP683 ,CUSAT3230,Holiday Promo,Email,Mobile,8/13/2024,Yes,Yes,Yes,"$1,429.70 "
+CMP104 ,CUSAT8927,Holiday Promo,Email,Mobile,6/9/2024,Yes,Yes,Yes,$232.30 
+CMP244 ,CUSAT9550,Black Friday,Email,Mobile,4/26/2024,Yes,No,No,$0.00 
+CMP363 ,CUSAT5571,Black Friday,Email,Desktop,6/25/2024,Yes,No,No,$0.00 
+CMP418 ,CUSAT9821,Summer Sale,Email,Tablet,8/30/2024,Yes,Yes,Yes,"$1,040.40 "
+CMP893 ,CUSAT7607,Holiday Promo,Email,Mobile,1/24/2024,Yes,Yes,Yes,"$1,383.40 "
+CMP882 ,CUSAT4964,Holiday Promo,Email,Desktop,8/12/2024,Yes,Yes,Yes,$108.20 
+CMP863 ,CUSAT8033,Black Friday,Email,Mobile,10/6/2024,Yes,Yes,Yes,$798.70 
+CMP660 ,CUSAT5974,Summer Sale,Email,Tablet,10/4/2024,Yes,Yes,No,$0.00 
+CMP438 ,CUSAT6472,Summer Sale,Email,Tablet,3/11/2024,Yes,Yes,No,$0.00 
+CMP443 ,CUSAT6774,Summer Sale,Email,Desktop,7/3/2024,Yes,Yes,No,$0.00 
+CMP653 ,CUSAT6460,Holiday Promo,Email,Mobile,1/5/2024,Yes,Yes,No,$0.00 
+CMP202 ,CUSAT2365,Summer Sale,Email,Tablet,2/22/2024,Yes,Yes,Yes,$701.50 
+CMP436 ,CUSAT5832,New Product Launch,Email,Tablet,12/17/2024,Yes,No,No,$0.00 
+CMP834 ,CUSAT7077,Holiday Promo,Email,Tablet,11/20/2024,Yes,Yes,Yes,$0.00 
+CMP286 ,CUSAT8171,Holiday Promo,Email,Tablet,2/12/2024,Yes,No,No,$0.00 
+CMP180 ,CUSAT6234,Summer Sale,Email,Mobile,12/24/2024,Yes,Yes,Yes,$723.20 
+CMP732 ,CUSAT6567,Summer Sale,Email,Desktop,8/13/2024,Yes,Yes,No,$0.00 
+CMP232 ,CUSAT8597,New Product Launch,Email,Desktop,12/26/2024,Yes,Yes,Yes,$707.70 
+CMP502 ,CUSAT5716,New Product Launch,Email,Desktop,1/25/2024,Yes,Yes,Yes,$0.00 
+CMP229 ,CUSAT1514,Holiday Promo,Email,Mobile,1/2/2024,Yes,Yes,Yes,$848.70 
+CMP741 ,CUSAT2536,Holiday Promo,Email,Mobile,2/6/2024,Yes,Yes,Yes,$452.20 
+CMP802 ,CUSAT6578,Summer Sale,Email,Desktop,5/4/2024,Yes,Yes,Yes,$750.90 
+CMP683 ,CUSAT1213,New Product Launch,Email,Desktop,7/27/2024,Yes,Yes,Yes,$588.30 
+CMP549 ,CUSAT8823,Holiday Promo,Email,Tablet,10/6/2024,Yes,Yes,Yes,"$1,050.40 "
+CMP833 ,CUSAT4568,New Product Launch,Email,Mobile,12/21/2024,Yes,Yes,Yes,$579.50 
+CMP502 ,CUSAT9040,Black Friday,Email,Tablet,4/25/2024,Yes,Yes,Yes,$0.00 
+CMP456 ,CUSAT1181,Summer Sale,Email,Mobile,4/21/2024,Yes,Yes,No,$0.00 
+CMP208 ,CUSAT8526,Black Friday,Email,Mobile,7/19/2024,No,No,No,$0.00 
+CMP415 ,CUSAT6423,Summer Sale,Email,Mobile,4/22/2024,Yes,Yes,No,$0.00 
+CMP350 ,CUSAT1092,New Product Launch,Email,Mobile,12/12/2024,Yes,Yes,No,$0.00 
+CMP502 ,CUSAT8275,Holiday Promo,Email,Mobile,2/29/2024,Yes,Yes,No,$0.00 
+CMP676 ,CUSAT9897,Black Friday,Email,Tablet,6/20/2024,Yes,No,No,$0.00 
+CMP419 ,CUSAT3744,Black Friday,Email,Mobile,10/30/2024,Yes,Yes,Yes,"$1,855.10 "
+CMP478 ,CUSAT6795,Black Friday,Email,Mobile,12/21/2024,Yes,Yes,Yes,"$1,022.40 "
+CMP101 ,CUSAT8289,Summer Sale,Email,Tablet,12/21/2024,Yes,Yes,Yes,$689.30 
+CMP541 ,CUSAT3756,Summer Sale,Email,Mobile,1/4/2024,Yes,Yes,Yes,$578.10 
+CMP840 ,CUSAT1070,New Product Launch,Email,Mobile,10/20/2024,Yes,Yes,Yes,$714.20 
+CMP648 ,CUSAT7085,Holiday Promo,Email,Tablet,9/14/2024,Yes,No,No,$0.00 
+CMP196 ,CUSAT7254,Black Friday,Email,Tablet,3/26/2024,Yes,No,No,$0.00 
+CMP816 ,CUSAT4538,Summer Sale,Email,Mobile,9/30/2024,Yes,Yes,No,$0.00 
+CMP382 ,CUSAT6434,Holiday Promo,Email,Tablet,3/29/2024,Yes,No,No,$0.00 
+CMP155 ,CUSAT3910,Black Friday,Email,Mobile,9/1/2024,Yes,No,No,$0.00 
+CMP259 ,CUSAT1969,Holiday Promo,Email,Desktop,3/10/2024,Yes,Yes,No,$0.00 
+CMP980 ,CUSAT9599,New Product Launch,Email,Mobile,3/8/2024,Yes,Yes,Yes,$522.10 
+CMP110 ,CUSAT3073,New Product Launch,Email,Mobile,12/29/2024,Yes,Yes,Yes,"$1,053.50 "
+CMP324 ,CUSAT3149,Summer Sale,Email,Desktop,12/31/2024,Yes,Yes,No,$0.00 
+CMP142 ,CUSAT3140,Black Friday,Email,Desktop,7/9/2024,Yes,No,No,$0.00 
+CMP798 ,CUSAT1941,Holiday Promo,Email,Tablet,7/21/2024,Yes,Yes,Yes,$862.40 
+CMP198 ,CUSAT9802,Holiday Promo,Email,Tablet,7/22/2024,Yes,Yes,Yes,$677.90 
+CMP932 ,CUSAT2212,Black Friday,Email,Desktop,2/15/2024,Yes,Yes,Yes,$592.50 
+CMP904 ,CUSAT1477,Holiday Promo,Email,Tablet,4/21/2024,Yes,Yes,Yes,$444.60 
+CMP254 ,CUSAT2329,Holiday Promo,Email,Desktop,7/17/2024,Yes,Yes,Yes,"$1,049.70 "
+CMP477 ,CUSAT7843,Black Friday,Email,Tablet,7/6/2024,No,No,No,$0.00 
+CMP624 ,CUSAT7450,Holiday Promo,Email,Mobile,3/19/2024,Yes,Yes,Yes,$290.90 
+CMP551 ,CUSAT8069,Black Friday,Email,Tablet,6/2/2024,Yes,No,No,$0.00 
+CMP108 ,CUSAT5952,New Product Launch,Email,Mobile,10/17/2024,No,No,No,$0.00 
+CMP954 ,CUSAT2924,Summer Sale,Email,Mobile,7/16/2024,No,No,No,$0.00 
+CMP668 ,CUSAT6252,Holiday Promo,Email,Mobile,6/24/2024,Yes,Yes,Yes,$349.30 
+CMP708 ,CUSAT2607,New Product Launch,Email,Mobile,9/9/2024,Yes,Yes,Yes,$945.00 
+CMP369 ,CUSAT4614,Holiday Promo,Email,Tablet,10/19/2024,No,No,No,$0.00 
+CMP782 ,CUSAT1943,Holiday Promo,Email,Mobile,4/5/2024,Yes,Yes,Yes,$805.30 
+CMP180 ,CUSAT6993,New Product Launch,Email,Desktop,12/19/2024,Yes,Yes,Yes,$890.10 
+CMP499 ,CUSAT5400,Black Friday,Email,Tablet,8/27/2024,Yes,Yes,Yes,$806.50 
+CMP304 ,CUSAT6906,Holiday Promo,Email,Desktop,11/21/2024,Yes,No,No,$0.00 
+CMP491 ,CUSAT2041,Black Friday,Email,Desktop,10/31/2024,Yes,Yes,Yes,$772.80 
+CMP648 ,CUSAT1129,New Product Launch,Email,Tablet,5/26/2024,Yes,Yes,Yes,$920.20 
+CMP710 ,CUSAT3336,Holiday Promo,Email,Mobile,4/4/2024,No,No,No,$0.00 
+CMP345 ,CUSAT1221,Black Friday,Email,Mobile,4/3/2024,Yes,Yes,Yes,"$1,075.60 "
+CMP225 ,CUSAT5684,Summer Sale,Email,Tablet,5/16/2024,Yes,No,No,$0.00 
+CMP936 ,CUSAT2906,Holiday Promo,Email,Desktop,3/21/2024,Yes,Yes,Yes,$740.60 
+CMP888 ,CUSAT8502,Holiday Promo,Email,Tablet,7/30/2024,Yes,Yes,Yes,"$1,028.10 "
+CMP941 ,CUSAT6837,Summer Sale,Email,Mobile,9/10/2024,Yes,No,No,$0.00 
+CMP670 ,CUSAT5601,Holiday Promo,Email,Mobile,2/17/2024,Yes,No,No,$0.00 
+CMP365 ,CUSAT5375,New Product Launch,Email,Mobile,9/15/2024,No,No,No,$0.00 
+CMP792 ,CUSAT1414,New Product Launch,Email,Tablet,11/27/2024,No,No,No,$0.00 
