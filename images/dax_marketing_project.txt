@@ -1,0 +1,264 @@
+total emails sent =
+    COUNT(marketing_campaigns[campaign_id])
+----------------------------------------
+total opens = 
+    CALCULATE(
+        COUNTROWS(marketing_campaigns),
+        marketing_campaigns[opened] = TRUE()
+    )
+-----------------------------------------
+total clicks = 
+    CALCULATE(
+        COUNTROWS(marketing_campaigns),
+        marketing_campaigns[clicked] = TRUE()
+    )
+-----------------------------------------
+total conv = 
+    CALCULATE(
+        COUNTROWS(marketing_campaigns),
+        marketing_campaigns[converted] = TRUE()
+    )
+---------------------------------------
+total revenue = 
+    SUM(marketing_campaigns[revenue])
+---------------------------------------
+open rate =
+    DIVIDE([total opens], [total emails sent])
+---------------------------------------
+ctr =
+    DIVIDE([total clicks], [total emails sent])
+--------------------------------------
+conv rate = 
+    DIVIDE([total conv], [total clicks])
+---------------------------------------
+open_rate PM = 
+VAR _LM = 
+ROUND(
+    CALCULATE(
+        [open rate],
+        DATEADD('Date'[Date], -1, MONTH)
+) * 100,1)
+RETURN
+"vs " & _LM & "% Last Month"
+---------------------------------------
+ctr PM = 
+VAR _LM = 
+ROUND(
+    CALCULATE(
+        [ctr],
+        DATEADD('Date'[Date], -1, MONTH)
+) * 100,1)
+RETURN
+"vs " & _LM & "% Last Month"
+--------------------------------------
+conv_rate PM = 
+VAR _LM = 
+ROUND(
+    CALCULATE(
+        [conv rate],
+        DATEADD('Date'[Date], -1, MONTH)
+) * 100,1)
+RETURN
+"vs " & _LM & "% Last Month"
+----------------------------------
+total_revenue PM = 
+VAR _LM = 
+CALCULATE(
+        [total revenue],
+        DATEADD('Date'[Date], -1, MONTH)
+)
+RETURN
+"vs " &
+ FORMAT(
+    _LM,
+    SWITCH(
+        TRUE(),
+        _LM >= 1000000000, "#,0,,,.0B",
+        _LM >= 1000000, "#,0,,.0M",
+        _LM >= 1000, "#,0,.0K",
+        "#,0"
+    )
+ )
+     & " Last Month"
+-----------------------------
+total_emails PM = 
+VAR _LM = 
+CALCULATE(
+        [total emails sent],
+        DATEADD('Date'[Date], -1, MONTH)
+)
+RETURN
+"vs " &
+ FORMAT(
+    _LM,
+    SWITCH(
+        TRUE(),
+        _LM >= 1000000000, "#,0,,,.0B",
+        _LM >= 1000000, "#,0,,.0M",
+        _LM >= 1000, "#,0,.0K",
+        "#,0"
+    )
+ )
+     & " Last Month"
+----------------------------------
+Total revenue%_ch= 
+VAR _ch = [total revenue]
+VAR _pm = 
+CALCULATE(
+    [total revenue],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+VAR _percformat = FORMAT(_perc, "+0.0%;-0.0%;0.0%")
+RETURN
+IF(
+    _perc > 0,
+    UNICHAR(129157) & " " & _percformat,
+    UNICHAR(129158) & " " & _percformat
+)
+------------------------------------
+open_rate%_ch= 
+VAR _ch = [open rate]
+VAR _pm = 
+CALCULATE(
+    [open rate],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+VAR _percformat = FORMAT(_perc, "+0.0%;-0.0%;0.0%")
+RETURN
+IF(
+    _perc > 0,
+    UNICHAR(129157) & " " & _percformat,
+    UNICHAR(129158) & " " & _percformat
+)
+-------------------------------
+ctr%_ch= 
+VAR _ch = [ctr]
+VAR _pm = 
+CALCULATE(
+    [ctr],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+VAR _percformat = FORMAT(_perc, "+0.0%;-0.0%;0.0%")
+RETURN
+IF(
+    _perc > 0,
+    UNICHAR(129157) & " " & _percformat,
+    UNICHAR(129158) & " " & _percformat
+)
+---------------------------------
+conv_rate%_ch= 
+VAR _ch = [conv rate]
+VAR _pm = 
+CALCULATE(
+    [conv rate],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+VAR _percformat = FORMAT(_perc, "+0.0%;-0.0%;0.0%")
+RETURN
+IF(
+    _perc > 0,
+    UNICHAR(129157) & " " & _percformat,
+    UNICHAR(129158) & " " & _percformat
+)
+------------------------------
+total_emails%_ch = 
+VAR _ch = [total emails sent]
+VAR _pm = 
+CALCULATE(
+    [total emails sent],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+VAR _percformat = FORMAT(_perc, "+0.0%;-0.0%;0.0%")
+RETURN
+IF(
+    _perc > 0,
+    UNICHAR(129157) & " " & _percformat,
+    UNICHAR(129158) & " " & _percformat
+)
+-----------------------------
+--------------------------- Conditional Formatting ---------------------------------
+CF_total_revenue = 
+VAR _ch = [total revenue]
+VAR _pm = 
+CALCULATE(
+    [total revenue],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+RETURN
+SWITCH(
+    TRUE(),
+    _perc > 0, "Green",
+    _perc < 0, "Red",
+    "Gray"
+)
+----------------------------------------------
+CF_conv_rate = 
+VAR _ch = [conv rate]
+VAR _pm = 
+CALCULATE(
+    [conv rate],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+RETURN
+SWITCH(
+    TRUE(),
+    _perc > 0, "Green",
+    _perc < 0, "Red",
+    "Gray"
+)
+------------------------------------------
+CF_ctr = 
+VAR _ch = [ctr]
+VAR _pm = 
+CALCULATE(
+    [ctr],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+RETURN
+SWITCH(
+    TRUE(),
+    _perc > 0, "Green",
+    _perc < 0, "Red",
+    "Gray"
+)
+------------------------------------
+CF_open_rate = 
+VAR _ch = [open rate]
+VAR _pm = 
+CALCULATE(
+    [open rate],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+RETURN
+SWITCH(
+    TRUE(),
+    _perc > 0, "Green",
+    _perc < 0, "Red",
+    "Gray"
+)
+--------------------------------------
+CF_total_emails = 
+VAR _ch = [total emails sent]
+VAR _pm = 
+CALCULATE(
+    [total emails sent],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+VAR _perc = DIVIDE(_ch - _pm, _pm)
+RETURN
+SWITCH(
+    TRUE(),
+    _perc > 0, "Green",
+    _perc < 0, "Red",
+    "Gray"
+)
+--------------------------------------
