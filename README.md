@@ -4,7 +4,7 @@
 
 Email marketing remains one of the most cost-effective digital marketing channels, but its success depends on optimizing engagement across the customer funnel—from opens to conversions. This project analyzes **2,000 email campaign records** to evaluate campaign effectiveness, user engagement behavior, and revenue generation.  
 
-The objective is to identify performance drivers across devices, locations, and campaigns while uncovering drop-off points in the marketing funnel. The final output is a **single-page Power BI dashboard** designed for business stakeholders to monitor campaign performance, engagement efficiency, and revenue contribution in real time.  
+The objective is to identify performance drivers across devices, locations, and campaigns while uncovering drop-off points in the marketing funnel. The final output is a single-page Power BI dashboard designed for business stakeholders to monitor campaign performance, engagement efficiency, and revenue contribution in real time.  
 
 ---
 
