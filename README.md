@@ -72,8 +72,6 @@ User engagement continued with 1,079 clicks, producing a CTR of 53.95%, while 76
 These campaigns generated a total revenue of $519,289.30, demonstrating strong monetization efficiency. On average, this translates to approximately $259 revenue per email sent, highlighting the financial impact of campaign optimization.
 Despite strong overall performance, the funnel reveals a noticeable drop-off between opens and clicks, suggesting opportunities to improve content engagement and call-to-action effectiveness.
 
-![](images/marketing_dashboard.png)
-
 ---
 
 ## Insights Deep Dive
