@@ -55,9 +55,11 @@ SQL views were created to aggregate performance across campaigns, devices, time,
 ---
 
 ## Technical Stack
-**Excel** – Data cleaning, validation checks, preprocessing. [Here](excel/marketing_campaign_transformation.xlsx)
-**SQL Server** – Data transformation and performance aggregation (views). SQL Queries [here](sql/marketing_campaign_project.sql)
-**Power BI** – Data modeling, DAX measures, and dashboard development. DAX Calculations can be found [here](transformations/dax_marketing_project.txt)
+- **Excel** – Data cleaning, validation checks, preprocessing. [Here](excel/marketing_campaign_transformation.xlsx)
+
+- **SQL Server** – Data transformation and performance aggregation (views). SQL Queries [here](sql/marketing_campaign_project.sql)
+
+- **Power BI** – Data modeling, DAX measures, and dashboard development. DAX Calculations can be found [here](transformations/dax_marketing_project.txt)
 
 ## Executive Summary
 The analysis of 2,000 emails sent shows strong overall engagement and revenue performance. A total of 1,490 emails were opened, resulting in an open rate of 74.5%, indicating effective subject lines and audience targeting.
