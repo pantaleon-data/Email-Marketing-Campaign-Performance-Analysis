@@ -33,7 +33,9 @@ During the cleaning process in Excel, inconsist such as spacing issues, misspell
 Validation checks were implemented to enforce proper funnel logic:
 - Emails must be **opened before clicked**  
 - Clicks must occur before **conversion**  
-- Revenue must only exist when **conversion = Yes**  
+- Revenue must only exist when **conversion = Yes**
+
+---
 
 ### Excel Validation Formulas Used  
 
@@ -60,6 +62,8 @@ SQL views were created to aggregate performance across campaigns, devices, time,
 - **SQL Server** – Data transformation and performance aggregation (views). SQL Queries [here](sql/marketing_campaign_project.sql)
 
 - **Power BI** – Data modeling, DAX measures, and dashboard development. DAX Calculations can be found [here](transformations/dax_marketing_project.txt)
+
+---
 
 ## Executive Summary
 The analysis of 2,000 emails sent shows strong overall engagement and revenue performance. A total of 1,490 emails were opened, resulting in an open rate of 74.5%, indicating effective subject lines and audience targeting.
