@@ -1,5 +1,7 @@
 # Email Marketing Campaign Performance Analysis (Excel + SQL + Power BI)
+
 ---
+
 ## Background and Overview  
 
 Email marketing remains one of the most cost-effective digital marketing channels, but its success depends on optimizing engagement across the customer funnel—from opens to conversions. This project analyzes **2,000 email campaign records** to evaluate campaign effectiveness, user engagement behavior, and revenue generation.  
@@ -7,6 +9,11 @@ Email marketing remains one of the most cost-effective digital marketing channel
 The objective is to identify performance drivers across devices, locations, and campaigns while uncovering drop-off points in the marketing funnel. The final output is a single-page Power BI dashboard designed for business stakeholders to monitor campaign performance, engagement efficiency, and revenue contribution in real time.  
 
 ---
+
+## Dashboard Preview
+![](dashboard/marketing_dashboard.png)
+
+- Explore Dashboard [here](dashboard/marketing_project.pbix)
 
 ## Data Structure Overview  
 
@@ -18,6 +25,8 @@ The dataset consists of **2,000 campaign interaction records**, where each row r
 - **Customer attributes:** `customer_id`, `device_type`, `state`  
 - **Engagement metrics:** `opened`, `clicked`, `converted`  
 - **Financial metric:** `revenue`  
+
+---
 
 ### Data Cleaning & Validation (Excel)  
 During the cleaning process in Excel, inconsist such as spacing issues, misspellings, and logical errors in the marketing funnel were identified and corrected. 
@@ -43,10 +52,12 @@ Validation checks were implemented to enforce proper funnel logic:
 SQL views were created to aggregate performance across campaigns, devices, time, and geography. A Power BI data model was then built with calculated measures for KPI tracking.
 ![](images/data_model.png)
 
+---
+
 ## Technical Stack
-**Excel** – Data cleaning, validation checks, preprocessing.
-**SQL Server** – Data transformation and performance aggregation (views).
-**Power BI** – Data modeling, DAX measures, and dashboard development.
+**Excel** – Data cleaning, validation checks, preprocessing. [Here](excel/marketing_campaign_transformation.xlsx)
+**SQL Server** – Data transformation and performance aggregation (views). SQL Queries [here](sql/marketing_campaign_project.sql)
+**Power BI** – Data modeling, DAX measures, and dashboard development. DAX Calculations can be found [here](transformations/dax_marketing_project.txt)
 
 ## Executive Summary
 The analysis of 2,000 emails sent shows strong overall engagement and revenue performance. A total of 1,490 emails were opened, resulting in an open rate of 74.5%, indicating effective subject lines and audience targeting.
@@ -57,10 +68,10 @@ Despite strong overall performance, the funnel reveals a noticeable drop-off bet
 
 ![](images/marketing_dashboard.png)
 
+---
+
 ## Insights Deep Dive
 The analysis of 2,000 emails shows strong top-level engagement, with 1,490 emails opened, resulting in an open rate of 74.5%, indicating effective subject lines and initial audience targeting. From these, 1,079 users clicked on the emails, producing a click-through rate (CTR) of 53.95%, which reflects relatively strong content engagement beyond the open stage. However, this still represents a drop-off of approximately 27.6% from opens to clicks, suggesting opportunities to improve email content and call-to-action placement.
-
-![](images/kpi.png)
 
 At the final stage of the funnel, 767 users converted, generating a conversion rate of 71.08% (from clicks). This indicates that once users click, the likelihood of completing the desired action is relatively high, suggesting effective landing page or offer alignment.
 The campaigns generated a total revenue of $519,289.30, demonstrating strong overall performance, with a significant portion of revenue driven by users who progressed through the full funnel.
@@ -73,11 +84,9 @@ Device-level analysis shows that engagement is largely driven by mobile users, r
 
 State-level performance reveals uneven distribution of engagement and revenue, with certain regions contributing disproportionately to overall results. The marketing funnel visualization clearly highlights the progressive drop-off from 2,000 emails sent → 1,490 opened → 1,079 clicked → 767 converted, providing a clear view of where optimization efforts should be focused.
 
-![](images/state_performance.png)
-
 Campaign-level analysis further shows that a subset of campaigns consistently outperforms others in both engagement and revenue generation, indicating opportunities to replicate successful strategies across future campaigns.
 
-![](images/campaign_performance.png)
+---
 
 ## Recommendations
 To improve overall campaign performance, efforts should focus on optimizing the transition from email opens to clicks by refining content structure, personalization, and call-to-action placement.
