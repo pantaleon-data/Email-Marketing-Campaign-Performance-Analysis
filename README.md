@@ -1,4 +1,4 @@
-# Email Marketing Campaign Performance Analysis (Excel + SQL + Power BI)
+# Email Marketing Campaign Performance Analysis
 
 ---
 
