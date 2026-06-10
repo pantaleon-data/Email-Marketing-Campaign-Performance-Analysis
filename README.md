@@ -57,9 +57,9 @@ SQL views were created to aggregate performance across campaigns, devices, time,
 ---
 
 ## Technical Stack
-- **Excel** – Data cleaning, validation checks, preprocessing. [Here](excel/marketing_campaign_transformation.xlsx)
+- **Excel** – Data cleaning, validation checks, preprocessing. [here](excel/marketing_campaign_transformation.xlsx)
 
-- **SQL Server** – Data transformation and performance aggregation (views). SQL Queries can be found [here](sql/marketing_campaign_project.sql)
+- **SQL Server** – Performance aggregation (views). [here](sql/marketing_campaign_project.sql)
 
 - **Power BI** – Data modeling, DAX measures, and dashboard development. DAX Calculations can be found [here](transformations/dax_marketing_project.txt)
 
